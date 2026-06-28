@@ -1,720 +1,802 @@
--- SPYT1K ULTRA V4.0 - ROBLOX PROTECTOR
-local _c5ec4a90 = ((55315 - -46) - 60)
+-- SPYT1K ULTRA V5.0 - VM PROTECTOR
+local _10a32390 = (380047 + 22)
 do
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 8; -- WASTED byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 10; -- WASTED byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 1; -- Wasted
+        _10a32390 = _10a32390 + 23; --Wasted
+    end
+    local _d314355f = math.floor(math.sin(0.70) * 100); -- MOGGED Byy Spyt1k
+    local _485aefc0 = "265859e4b7344aa9"; if #_485aefc0 > 100 then error() end; -- SOSAL?
+    local _70d4b1b5 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _70d4b1b5 then
+        _10a32390 = _10a32390 + 10; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 3; -- Wasted
+    end
+    local _b903b5f6 = {["_013d5916"] = math.pi}; for _, _ in pairs(_b903b5f6) do break end; -- MOGGED Byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 6; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 19; --Wasted
+    end
+    _10a32390 = _10a32390 + (function() local _31df11cd = 16; return _31df11cd end)(); -- WASTED byy Spyt1k
+    local _ff5a17b5 = {["_05165b09"] = math.pi}; for _, _ in pairs(_ff5a17b5) do break end; -- MOGGED Byy Spyt1k
+    local _785d7fb7 = math.floor(math.sin(0.79) * 100); -- SOSAL?
+    local _56a3adf1 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _56a3adf1 then
+        _10a32390 = _10a32390 + 1; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + -6; -- Wasted
+    end
+    local _1d17dd53 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _1d17dd53 then
+        _10a32390 = _10a32390 + 14; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 7; -- Wasted
+    end
+    local _7b32cffc = math.floor(math.sin(0.66) * 100); -- SOSAL?
+    _10a32390 = _10a32390 + (function() local _0958049b = 20; return _0958049b end)(); -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _fc559d2b = 20; return _fc559d2b end)(); -- MOGGED Byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _4a461d1c = 7; return _4a461d1c end)(); -- SOSAL?
+    local _e21ffd7e = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _e21ffd7e then
+        _10a32390 = _10a32390 + 12; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 5; -- Wasted
+    end
+    local _4e810532 = (function() local _b8db928f = coroutine.create(function() end); return coroutine.status(_b8db928f) end)(); -- MOGGED Byy Spyt1k
+    local _57e7f326 = math.floor(math.sin(0.19) * 100); -- SOSAL?
+    local _0c0dd63d = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _0c0dd63d then
+        _10a32390 = _10a32390 + 15; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 8; -- Wasted
+    end
+    local _167ac517 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _167ac517 then
+        _10a32390 = _10a32390 + 13; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 6; -- Wasted
+    end
+    local _ba3c1a6d = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- SOSAL?
+    if _ba3c1a6d then
+        _10a32390 = _10a32390 + 15; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 8; -- Wasted
+    end
+    local _2cd936af = "04ba90ca51ad553c"; if #_2cd936af > 100 then error() end; -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _71c874a0 = 3; return _71c874a0 end)(); -- MOGGED Byy Spyt1k
+    local _24b8f749 = "94d7cb3f0b35dc12"; if #_24b8f749 > 100 then error() end; -- SOSAL?
+    local _babad04e = math.floor(math.sin(0.38) * 100); -- WASTED byy Spyt1k
+    local _d0ae87e4 = "cd947663fed5bc00"; if #_d0ae87e4 > 100 then error() end; -- MOGGED Byy Spyt1k
+    local _cbae73f6 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- SOSAL?
+    if _cbae73f6 then
+        _10a32390 = _10a32390 + 7; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 0; -- Wasted
     end
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 5; -- MOGGED Byy Spyt1k
+        _10a32390 = _10a32390 + 6; -- WASTED byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 18; --Wasted
+        _10a32390 = _10a32390 + 19; --Wasted
     end
-    local _2186a2ea = (function() local _846ad27c = coroutine.create(function() end); return coroutine.status(_846ad27c) end)(); -- SOSAL?
-    _c5ec4a90 = _c5ec4a90 + (function() local _dcb0cf73 = 15; return _dcb0cf73 end)(); -- WASTED byy Spyt1k
-    local _5b89e976 = math.floor(math.sin(0.23) * 100); -- MOGGED Byy Spyt1k
-    local _569adaea = math.floor(math.sin(0.94) * 100); -- SOSAL?
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 9; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 2; -- Wasted
-    end
-    local _bac73b9f = {["_5da5d6ab"] = math.pi}; for _, _ in pairs(_bac73b9f) do break end; -- MOGGED Byy Spyt1k
-    local _95c6bffb = "0634d5159b43cebb"; if #_95c6bffb > 100 then error() end; -- SOSAL?
+    _10a32390 = _10a32390 + (function() local _eccaa295 = 10; return _eccaa295 end)(); -- MOGGED Byy Spyt1k
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 18; -- WASTED byy Spyt1k
+        _10a32390 = _10a32390 + 15; -- SOSAL?
     else
-        _c5ec4a90 = _c5ec4a90 + 31; --Wasted
-    end
-    local _a437ae80 = "a78143f814fb232f"; if #_a437ae80 > 100 then error() end; -- MOGGED Byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _90711063 = 6; return _90711063 end)(); -- SOSAL?
-    local _f7f93fb4 = "bae5193c2d28e956"; if #_f7f93fb4 > 100 then error() end; -- WASTED byy Spyt1k
-    local _4d598417 = "59d18569ba4555bd"; if #_4d598417 > 100 then error() end; -- MOGGED Byy Spyt1k
-    local _e61cab75 = {["_f3249d57"] = math.pi}; for _, _ in pairs(_e61cab75) do break end; -- SOSAL?
-    local _a947e901 = {["_c986f2d1"] = math.pi}; for _, _ in pairs(_a947e901) do break end; -- WASTED byy Spyt1k
-    local _f00a3eba = (function() local _f5efa388 = coroutine.create(function() end); return coroutine.status(_f5efa388) end)(); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 18; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 11; -- Wasted
-    end
-    _c5ec4a90 = _c5ec4a90 + (function() local _01b551f7 = 14; return _01b551f7 end)(); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 6; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + -1; -- Wasted
-    end
-    local _9e79c260 = (function() local _fd6d2c57 = coroutine.create(function() end); return coroutine.status(_fd6d2c57) end)(); -- SOSAL?
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 4; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + -3; -- Wasted
-    end
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 20; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 33; --Wasted
-    end
-    local _3b7f0ff6 = math.floor(math.sin(0.46) * 100); -- SOSAL?
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 1; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 14; --Wasted
-    end
-    local _8f4b94f9 = "4489f6f4160dde86"; if #_8f4b94f9 > 100 then error() end; -- MOGGED Byy Spyt1k
-    local _425ff933 = {["_2894a80c"] = math.pi}; for _, _ in pairs(_425ff933) do break end; -- SOSAL?
-    local _f4faa23d = "34c4a5ed2212c0ad"; if #_f4faa23d > 100 then error() end; -- WASTED byy Spyt1k
-    local _8bbedd5f = {["_75258983"] = math.pi}; for _, _ in pairs(_8bbedd5f) do break end; -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 18; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 11; -- Wasted
+        _10a32390 = _10a32390 + 28; --Wasted
     end
 end
 do
-    local _367ff109 = math.floor(math.sin(0.34) * 100); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 17; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 10; -- Wasted
-    end
-    _c5ec4a90 = _c5ec4a90 + (function() local _3ee2263b = 16; return _3ee2263b end)(); -- SOSAL?
+    local _b7041372 = (function() local _fdb90f3e = coroutine.create(function() end); return coroutine.status(_fdb90f3e) end)(); -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _268831a2 = 1; return _268831a2 end)(); -- MOGGED Byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _70db58ec = 8; return _70db58ec end)(); -- SOSAL?
+    local _2b48823c = math.floor(math.sin(0.62) * 100); -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _f5adcb78 = 18; return _f5adcb78 end)(); -- MOGGED Byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _9979cff3 = 14; return _9979cff3 end)(); -- SOSAL?
+    local _2f24f2d9 = {["_74eb12bf"] = math.pi}; for _, _ in pairs(_2f24f2d9) do break end; -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _77eeb28f = 1; return _77eeb28f end)(); -- MOGGED Byy Spyt1k
+    local _0afb391d = math.floor(math.sin(0.27) * 100); -- SOSAL?
+    local _e8d1e062 = (function() local _d9741fec = coroutine.create(function() end); return coroutine.status(_d9741fec) end)(); -- WASTED byy Spyt1k
+    local _4d5df66b = (function() local _c5e8ed90 = coroutine.create(function() end); return coroutine.status(_c5e8ed90) end)(); -- MOGGED Byy Spyt1k
+    local _095a4dc4 = "fdf27c181890cee6"; if #_095a4dc4 > 100 then error() end; -- SOSAL?
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 2; -- WASTED byy Spyt1k
+        _10a32390 = _10a32390 + 6; -- WASTED byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 15; --Wasted
+        _10a32390 = _10a32390 + 19; --Wasted
     end
-    _c5ec4a90 = _c5ec4a90 + (function() local _695a0981 = 7; return _695a0981 end)(); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 7; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 0; -- Wasted
-    end
-    local _856205ed = math.floor(math.sin(0.32) * 100); -- WASTED byy Spyt1k
+    local _0b8ab70f = {["_a1e28c7d"] = math.pi}; for _, _ in pairs(_0b8ab70f) do break end; -- MOGGED Byy Spyt1k
+    local _50601437 = {["_f9044c90"] = math.pi}; for _, _ in pairs(_50601437) do break end; -- SOSAL?
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 4; -- MOGGED Byy Spyt1k
+        _10a32390 = _10a32390 + 10; -- WASTED byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 17; --Wasted
+        _10a32390 = _10a32390 + 23; --Wasted
     end
-    local _bbad4fa0 = math.floor(math.sin(0.08) * 100); -- SOSAL?
-    local _54cdd5e9 = (function() local _a1555c37 = coroutine.create(function() end); return coroutine.status(_a1555c37) end)(); -- WASTED byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _62fc64a4 = 13; return _62fc64a4 end)(); -- MOGGED Byy Spyt1k
-    local _a85fa751 = (function() local _64b27047 = coroutine.create(function() end); return coroutine.status(_64b27047) end)(); -- SOSAL?
-    local _6a27bfd0 = (function() local _c6464ba8 = coroutine.create(function() end); return coroutine.status(_c6464ba8) end)(); -- WASTED byy Spyt1k
-    local _29b61217 = (function() local _e1757e44 = coroutine.create(function() end); return coroutine.status(_e1757e44) end)(); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 18; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 11; -- Wasted
-    end
-    _c5ec4a90 = _c5ec4a90 + (function() local _2d2f97a5 = 16; return _2d2f97a5 end)(); -- WASTED byy Spyt1k
-    local _ff8b6fd1 = math.floor(math.sin(0.55) * 100); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 11; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 4; -- Wasted
-    end
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 13; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 6; -- Wasted
-    end
-    local _d1394f68 = {["_ab36ef52"] = math.pi}; for _, _ in pairs(_d1394f68) do break end; -- MOGGED Byy Spyt1k
-    local _630d29ee = "aaa73d170d90d81c"; if #_630d29ee > 100 then error() end; -- SOSAL?
+    local _470f8288 = (function() local _ede50b89 = coroutine.create(function() end); return coroutine.status(_ede50b89) end)(); -- MOGGED Byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _a661c4a7 = 15; return _a661c4a7 end)(); -- SOSAL?
+    local _1ae9fe98 = {["_415bd6a2"] = math.pi}; for _, _ in pairs(_1ae9fe98) do break end; -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _c1790bec = 9; return _c1790bec end)(); -- MOGGED Byy Spyt1k
+    local _bfc71746 = "62d6c4d3ec66cefc"; if #_bfc71746 > 100 then error() end; -- SOSAL?
+    local _a7aef14d = (function() local _fdebe9ea = coroutine.create(function() end); return coroutine.status(_fdebe9ea) end)(); -- WASTED byy Spyt1k
+    local _0580235a = "5bd9e6bc73b933d9"; if #_0580235a > 100 then error() end; -- MOGGED Byy Spyt1k
+    local _5cc43120 = "92e75461578f6abf"; if #_5cc43120 > 100 then error() end; -- SOSAL?
+    local _dfe32013 = (function() local _b984737e = coroutine.create(function() end); return coroutine.status(_b984737e) end)(); -- WASTED byy Spyt1k
+    local _b9c01980 = math.floor(math.sin(0.27) * 100); -- MOGGED Byy Spyt1k
+    local _97969973 = math.floor(math.sin(0.12) * 100); -- SOSAL?
+    local _532670d6 = "e7c8e8a00022a5a8"; if #_532670d6 > 100 then error() end; -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _13fcda68 = 10; return _13fcda68 end)(); -- MOGGED Byy Spyt1k
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 12; -- WASTED byy Spyt1k
+        _10a32390 = _10a32390 + 16; -- SOSAL?
     else
-        _c5ec4a90 = _c5ec4a90 + 25; --Wasted
-    end
-    local _dbb19d44 = "f87c87ec6c829c8d"; if #_dbb19d44 > 100 then error() end; -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 9; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 22; --Wasted
-    end
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 4; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + -3; -- Wasted
-    end
-    _c5ec4a90 = _c5ec4a90 + (function() local _400afc0c = 14; return _400afc0c end)(); -- MOGGED Byy Spyt1k
-    local _6bd62f9a = math.floor(math.sin(0.00) * 100); -- SOSAL?
-    local _5cf98dfe = (function() local _68d47dd5 = coroutine.create(function() end); return coroutine.status(_68d47dd5) end)(); -- WASTED byy Spyt1k
-    local _5a4a5b65 = (function() local _8b3a15a4 = coroutine.create(function() end); return coroutine.status(_8b3a15a4) end)(); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 9; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 2; -- Wasted
+        _10a32390 = _10a32390 + 29; --Wasted
     end
 end
 do
-    local _f043e756 = "a15c61e65d2c4b4e"; if #_f043e756 > 100 then error() end; -- WASTED byy Spyt1k
-    local _87867b98 = "1ed3bea0b1e0df42"; if #_87867b98 > 100 then error() end; -- MOGGED Byy Spyt1k
-    local _698b88cd = (function() local _b81d3d20 = coroutine.create(function() end); return coroutine.status(_b81d3d20) end)(); -- SOSAL?
-    local _629df607 = {["_167edcc7"] = math.pi}; for _, _ in pairs(_629df607) do break end; -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 7; -- MOGGED Byy Spyt1k
+    local _1250ade0 = "3964e1db94ef74bb"; if #_1250ade0 > 100 then error() end; -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _dd714ee4 = 4; return _dd714ee4 end)(); -- MOGGED Byy Spyt1k
+    local _5e0a9cdc = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- SOSAL?
+    if _5e0a9cdc then
+        _10a32390 = _10a32390 + 20; -- SOSAL?
     else
-        _c5ec4a90 = _c5ec4a90 + 0; -- Wasted
+        _10a32390 = _10a32390 + 13; -- Wasted
     end
-    local _b42b61a6 = {["_2f8be607"] = math.pi}; for _, _ in pairs(_b42b61a6) do break end; -- SOSAL?
-    _c5ec4a90 = _c5ec4a90 + (function() local _8b83bec7 = 7; return _8b83bec7 end)(); -- WASTED byy Spyt1k
-    local _60cee11a = (function() local _705ece75 = coroutine.create(function() end); return coroutine.status(_705ece75) end)(); -- MOGGED Byy Spyt1k
-    local _1c9db31b = {["_79d6665e"] = math.pi}; for _, _ in pairs(_1c9db31b) do break end; -- SOSAL?
-    local _d4a6c175 = {["_9895332d"] = math.pi}; for _, _ in pairs(_d4a6c175) do break end; -- WASTED byy Spyt1k
-    local _ed1638c1 = math.floor(math.sin(0.59) * 100); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 3; -- SOSAL?
+    local _a7cdb74d = (function() local _43c986a0 = coroutine.create(function() end); return coroutine.status(_43c986a0) end)(); -- WASTED byy Spyt1k
+    local _ac936cd9 = "30b0b49fcd158b61"; if #_ac936cd9 > 100 then error() end; -- MOGGED Byy Spyt1k
+    local _78127956 = {["_a056064c"] = math.pi}; for _, _ in pairs(_78127956) do break end; -- SOSAL?
+    _10a32390 = _10a32390 + (function() local _a2e373fe = 9; return _a2e373fe end)(); -- WASTED byy Spyt1k
+    local _38b11b23 = (function() local _842388e8 = coroutine.create(function() end); return coroutine.status(_842388e8) end)(); -- MOGGED Byy Spyt1k
+    local _e2f83ef9 = "3d1ac23383723db9"; if #_e2f83ef9 > 100 then error() end; -- SOSAL?
+    local _a75d25d0 = math.floor(math.sin(0.46) * 100); -- WASTED byy Spyt1k
+    local _9055a73e = math.floor(math.sin(0.60) * 100); -- MOGGED Byy Spyt1k
+    local _43e861e1 = math.floor(math.sin(0.07) * 100); -- SOSAL?
+    local _a55bbe08 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _a55bbe08 then
+        _10a32390 = _10a32390 + 11; -- WASTED byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + -4; -- Wasted
+        _10a32390 = _10a32390 + 4; -- Wasted
     end
-    local _96c3d5f7 = {["_7c979314"] = math.pi}; for _, _ in pairs(_96c3d5f7) do break end; -- WASTED byy Spyt1k
-    local _1a5a3d0d = "1297325b038e720f"; if #_1a5a3d0d > 100 then error() end; -- MOGGED Byy Spyt1k
-    local _cf1e01a3 = "ce01c537ef19d1b2"; if #_cf1e01a3 > 100 then error() end; -- SOSAL?
-    _c5ec4a90 = _c5ec4a90 + (function() local _5a6da304 = 19; return _5a6da304 end)(); -- WASTED byy Spyt1k
-    local _e36c3801 = (function() local _a2d1dc2b = coroutine.create(function() end); return coroutine.status(_a2d1dc2b) end)(); -- MOGGED Byy Spyt1k
-    local _e10c2b64 = math.floor(math.sin(0.35) * 100); -- SOSAL?
-    _c5ec4a90 = _c5ec4a90 + (function() local _7715b6e3 = 14; return _7715b6e3 end)(); -- WASTED byy Spyt1k
+    local _4ee76274 = math.floor(math.sin(0.66) * 100); -- MOGGED Byy Spyt1k
+    local _10c93800 = "9353b37cc7ca065f"; if #_10c93800 > 100 then error() end; -- SOSAL?
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 4; -- MOGGED Byy Spyt1k
+        _10a32390 = _10a32390 + 16; -- WASTED byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 17; --Wasted
-    end
-    local _b7765130 = {["_269f6c2f"] = math.pi}; for _, _ in pairs(_b7765130) do break end; -- SOSAL?
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 7; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 0; -- Wasted
-    end
-    local _1c19539b = math.floor(math.sin(0.79) * 100); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 2; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 15; --Wasted
-    end
-    local _505b6911 = {["_580eb38c"] = math.pi}; for _, _ in pairs(_505b6911) do break end; -- WASTED byy Spyt1k
-    local _1c59ac65 = (function() local _64a7eb91 = coroutine.create(function() end); return coroutine.status(_64a7eb91) end)(); -- MOGGED Byy Spyt1k
-    local _91e82d4c = {["_ce954b83"] = math.pi}; for _, _ in pairs(_91e82d4c) do break end; -- SOSAL?
-    local _8e46e8c7 = math.floor(math.sin(0.17) * 100); -- WASTED byy Spyt1k
-    local _b3a2be58 = "cf6efaceba334657"; if #_b3a2be58 > 100 then error() end; -- MOGGED Byy Spyt1k
-    local _07b7f23e = math.floor(math.sin(0.57) * 100); -- SOSAL?
-end
-do
-    local _9b51ef07 = (function() local _429bc9fb = coroutine.create(function() end); return coroutine.status(_429bc9fb) end)(); -- WASTED byy Spyt1k
-    local _895ea2e7 = "8d2eb0da7f7bd801"; if #_895ea2e7 > 100 then error() end; -- MOGGED Byy Spyt1k
-    local _abb8ce7d = {["_8113f1e2"] = math.pi}; for _, _ in pairs(_abb8ce7d) do break end; -- SOSAL?
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 4; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + -3; -- Wasted
-    end
-    _c5ec4a90 = _c5ec4a90 + (function() local _0e412296 = 12; return _0e412296 end)(); -- MOGGED Byy Spyt1k
-    local _8a9b9916 = "4765d9aef253ad1e"; if #_8a9b9916 > 100 then error() end; -- SOSAL?
-    local _5e080251 = "a9af063cbb10160f"; if #_5e080251 > 100 then error() end; -- WASTED byy Spyt1k
-    local _126c4f2a = math.floor(math.sin(0.82) * 100); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 7; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 20; --Wasted
-    end
-    local _e8c8b534 = math.floor(math.sin(0.67) * 100); -- WASTED byy Spyt1k
-    local _aba04b2e = "10eb1b9e3315b37a"; if #_aba04b2e > 100 then error() end; -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 16; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 9; -- Wasted
+        _10a32390 = _10a32390 + 29; --Wasted
     end
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 11; -- WASTED byy Spyt1k
+        _10a32390 = _10a32390 + 10; -- MOGGED Byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 24; --Wasted
+        _10a32390 = _10a32390 + 23; --Wasted
     end
-    local _50e5c4b2 = math.floor(math.sin(0.23) * 100); -- MOGGED Byy Spyt1k
-    local _458e62bf = (function() local _235cd103 = coroutine.create(function() end); return coroutine.status(_235cd103) end)(); -- SOSAL?
-    _c5ec4a90 = _c5ec4a90 + (function() local _4864ff93 = 2; return _4864ff93 end)(); -- WASTED byy Spyt1k
-    local _ebfbbe97 = math.floor(math.sin(0.97) * 100); -- MOGGED Byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _3047d4b7 = 17; return _3047d4b7 end)(); -- SOSAL?
-    local _964761e3 = {["_0a08d05a"] = math.pi}; for _, _ in pairs(_964761e3) do break end; -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 18; -- MOGGED Byy Spyt1k
+    local _910e2bd4 = (function() local _2d0228fe = coroutine.create(function() end); return coroutine.status(_2d0228fe) end)(); -- SOSAL?
+    local _29070c0c = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _29070c0c then
+        _10a32390 = _10a32390 + 6; -- WASTED byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 11; -- Wasted
+        _10a32390 = _10a32390 + -1; -- Wasted
     end
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 17; -- SOSAL?
+    _10a32390 = _10a32390 + (function() local _1185cc4f = 15; return _1185cc4f end)(); -- MOGGED Byy Spyt1k
+    local _c1eefee0 = (function() local _5c27b37e = coroutine.create(function() end); return coroutine.status(_5c27b37e) end)(); -- SOSAL?
+    local _aee6af3a = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _aee6af3a then
+        _10a32390 = _10a32390 + 10; -- WASTED byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 10; -- Wasted
-    end
-    _c5ec4a90 = _c5ec4a90 + (function() local _a42c4821 = 14; return _a42c4821 end)(); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 5; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + -2; -- Wasted
+        _10a32390 = _10a32390 + 3; -- Wasted
     end
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 4; -- SOSAL?
+        _10a32390 = _10a32390 + 18; -- MOGGED Byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 17; --Wasted
-    end
-    local _c80b7dd3 = {["_2c9ecf8e"] = math.pi}; for _, _ in pairs(_c80b7dd3) do break end; -- WASTED byy Spyt1k
-    local _5ac2abbf = {["_85332ccc"] = math.pi}; for _, _ in pairs(_5ac2abbf) do break end; -- MOGGED Byy Spyt1k
-    local _e39084be = (function() local _c9e4742d = coroutine.create(function() end); return coroutine.status(_c9e4742d) end)(); -- SOSAL?
-    _c5ec4a90 = _c5ec4a90 + (function() local _ee33dbf9 = 3; return _ee33dbf9 end)(); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 18; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 31; --Wasted
-    end
-    local _73e6c58a = {["_0a08721d"] = math.pi}; for _, _ in pairs(_73e6c58a) do break end; -- SOSAL?
-end
-do
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 12; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 5; -- Wasted
-    end
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 2; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + -5; -- Wasted
-    end
-    local _6d893a80 = {["_7257f931"] = math.pi}; for _, _ in pairs(_6d893a80) do break end; -- SOSAL?
-    local _1646e944 = (function() local _21bcb7fc = coroutine.create(function() end); return coroutine.status(_21bcb7fc) end)(); -- WASTED byy Spyt1k
-    local _4d207515 = {["_422a22fc"] = math.pi}; for _, _ in pairs(_4d207515) do break end; -- MOGGED Byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _6a12bbde = 11; return _6a12bbde end)(); -- SOSAL?
-    local _71e91521 = math.floor(math.sin(0.37) * 100); -- WASTED byy Spyt1k
-    local _a38eebf6 = (function() local _b0e7a22a = coroutine.create(function() end); return coroutine.status(_b0e7a22a) end)(); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 12; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 25; --Wasted
-    end
-    local _66126ecc = math.floor(math.sin(0.26) * 100); -- WASTED byy Spyt1k
-    local _35d00d6f = "53d16b8219c37b0c"; if #_35d00d6f > 100 then error() end; -- MOGGED Byy Spyt1k
-    local _ee4475a7 = "e2ca418fdafcd869"; if #_ee4475a7 > 100 then error() end; -- SOSAL?
-    local _4105bf64 = math.floor(math.sin(0.20) * 100); -- WASTED byy Spyt1k
-    local _8613a4b1 = {["_89d7f37e"] = math.pi}; for _, _ in pairs(_8613a4b1) do break end; -- MOGGED Byy Spyt1k
-    local _1552b9c2 = {["_884497e0"] = math.pi}; for _, _ in pairs(_1552b9c2) do break end; -- SOSAL?
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 1; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 14; --Wasted
-    end
-    local _07fb6ad4 = "8e4d7e8136e6114e"; if #_07fb6ad4 > 100 then error() end; -- MOGGED Byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _e936491d = 4; return _e936491d end)(); -- SOSAL?
-    local _a357e5f2 = {["_9b6fe287"] = math.pi}; for _, _ in pairs(_a357e5f2) do break end; -- WASTED byy Spyt1k
-    local _fc113892 = (function() local _65918cc7 = coroutine.create(function() end); return coroutine.status(_65918cc7) end)(); -- MOGGED Byy Spyt1k
-    local _09d7bfbb = math.floor(math.sin(0.10) * 100); -- SOSAL?
-    local _01e30977 = (function() local _eda5cad4 = coroutine.create(function() end); return coroutine.status(_eda5cad4) end)(); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 2; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 15; --Wasted
-    end
-    local _49a4990d = {["_2b308948"] = math.pi}; for _, _ in pairs(_49a4990d) do break end; -- SOSAL?
-    local _647d8420 = {["_7eaee78f"] = math.pi}; for _, _ in pairs(_647d8420) do break end; -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 7; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 0; -- Wasted
-    end
-    local _f88001bb = {["_496556e2"] = math.pi}; for _, _ in pairs(_f88001bb) do break end; -- SOSAL?
-    local _74363008 = {["_d7ee974a"] = math.pi}; for _, _ in pairs(_74363008) do break end; -- WASTED byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _4d20c4bf = 6; return _4d20c4bf end)(); -- MOGGED Byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _f4b76398 = 2; return _f4b76398 end)(); -- SOSAL?
-end
-do
-    local _42158805 = {["_87953909"] = math.pi}; for _, _ in pairs(_42158805) do break end; -- WASTED byy Spyt1k
-    local _97273336 = (function() local _2078fcbf = coroutine.create(function() end); return coroutine.status(_2078fcbf) end)(); -- MOGGED Byy Spyt1k
-    local _2bdedb31 = (function() local _eafb47ae = coroutine.create(function() end); return coroutine.status(_eafb47ae) end)(); -- SOSAL?
-    local _e4dbeb01 = "311b50775d5d1c11"; if #_e4dbeb01 > 100 then error() end; -- WASTED byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _08a1842b = 12; return _08a1842b end)(); -- MOGGED Byy Spyt1k
-    local _03d95113 = (function() local _fe79c208 = coroutine.create(function() end); return coroutine.status(_fe79c208) end)(); -- SOSAL?
-    local _de93e055 = (function() local _ef8d1616 = coroutine.create(function() end); return coroutine.status(_ef8d1616) end)(); -- WASTED byy Spyt1k
-    local _4ec5d53f = (function() local _f5f84e59 = coroutine.create(function() end); return coroutine.status(_f5f84e59) end)(); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 14; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 27; --Wasted
-    end
-    _c5ec4a90 = _c5ec4a90 + (function() local _e350957b = 3; return _e350957b end)(); -- WASTED byy Spyt1k
-    local _31dc55f5 = "673e8e35099de653"; if #_31dc55f5 > 100 then error() end; -- MOGGED Byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _593d778c = 19; return _593d778c end)(); -- SOSAL?
-    local _f03b7018 = (function() local _941dc50a = coroutine.create(function() end); return coroutine.status(_941dc50a) end)(); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 7; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 0; -- Wasted
-    end
-    local _0a371941 = "3dd06c1ad9f9a479"; if #_0a371941 > 100 then error() end; -- SOSAL?
-    local _26aa5bee = {["_ac0bfdd0"] = math.pi}; for _, _ in pairs(_26aa5bee) do break end; -- WASTED byy Spyt1k
-    local _6c47db99 = "90c816995597808c"; if #_6c47db99 > 100 then error() end; -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 11; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 4; -- Wasted
-    end
-    _c5ec4a90 = _c5ec4a90 + (function() local _8a5a4b72 = 12; return _8a5a4b72 end)(); -- WASTED byy Spyt1k
-    local _750eefdf = {["_8d27bb11"] = math.pi}; for _, _ in pairs(_750eefdf) do break end; -- MOGGED Byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _2b06c015 = 4; return _2b06c015 end)(); -- SOSAL?
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 9; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 22; --Wasted
-    end
-    local _684c6f67 = {["_e32669e9"] = math.pi}; for _, _ in pairs(_684c6f67) do break end; -- MOGGED Byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _5fd50553 = 19; return _5fd50553 end)(); -- SOSAL?
-    local _8b3cf430 = "d784aad470580c9e"; if #_8b3cf430 > 100 then error() end; -- WASTED byy Spyt1k
-    local _203c79c9 = {["_c5f304e0"] = math.pi}; for _, _ in pairs(_203c79c9) do break end; -- MOGGED Byy Spyt1k
-    local _6505e087 = math.floor(math.sin(0.35) * 100); -- SOSAL?
-    local _fbc76210 = {["_b2ca94b5"] = math.pi}; for _, _ in pairs(_fbc76210) do break end; -- WASTED byy Spyt1k
-    local _355d96e6 = (function() local _c7b38a35 = coroutine.create(function() end); return coroutine.status(_c7b38a35) end)(); -- MOGGED Byy Spyt1k
-    local _72eb7e6a = (function() local _39d43398 = coroutine.create(function() end); return coroutine.status(_39d43398) end)(); -- SOSAL?
-end
-do
-    local _7014eafd = {["_4a4009ca"] = math.pi}; for _, _ in pairs(_7014eafd) do break end; -- WASTED byy Spyt1k
-    local _9681fef3 = math.floor(math.sin(0.77) * 100); -- MOGGED Byy Spyt1k
-    local _ea781789 = "db10c47a70ffae2b"; if #_ea781789 > 100 then error() end; -- SOSAL?
-    local _ca9b1f1a = {["_ec2b6cef"] = math.pi}; for _, _ in pairs(_ca9b1f1a) do break end; -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 1; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + -6; -- Wasted
-    end
-    local _4cb9babe = math.floor(math.sin(0.38) * 100); -- SOSAL?
-    local _33269644 = {["_2ecd1b80"] = math.pi}; for _, _ in pairs(_33269644) do break end; -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 10; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 3; -- Wasted
-    end
-    local _3bb76939 = (function() local _ae97b35d = coroutine.create(function() end); return coroutine.status(_ae97b35d) end)(); -- SOSAL?
-    local _c5401f0d = (function() local _5b0fb434 = coroutine.create(function() end); return coroutine.status(_5b0fb434) end)(); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 18; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 31; --Wasted
-    end
-    _c5ec4a90 = _c5ec4a90 + (function() local _34b6e3c0 = 18; return _34b6e3c0 end)(); -- SOSAL?
-    local _78fb5874 = {["_2139400a"] = math.pi}; for _, _ in pairs(_78fb5874) do break end; -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 20; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 33; --Wasted
-    end
-    _c5ec4a90 = _c5ec4a90 + (function() local _1e59f51b = 5; return _1e59f51b end)(); -- SOSAL?
-    local _a6a5b899 = math.floor(math.sin(0.26) * 100); -- WASTED byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _62e7cec8 = 6; return _62e7cec8 end)(); -- MOGGED Byy Spyt1k
-    local _db880a9e = {["_befd6fd4"] = math.pi}; for _, _ in pairs(_db880a9e) do break end; -- SOSAL?
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 17; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 30; --Wasted
-    end
-    local _c4b5a224 = math.floor(math.sin(0.98) * 100); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 7; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 0; -- Wasted
-    end
-    local _4d95d7aa = "1e0b78d2094fbbc2"; if #_4d95d7aa > 100 then error() end; -- WASTED byy Spyt1k
-    local _c566a06e = math.floor(math.sin(0.81) * 100); -- MOGGED Byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _8db2cfad = 7; return _8db2cfad end)(); -- SOSAL?
-    local _4d65f3e3 = (function() local _7ab9b2b2 = coroutine.create(function() end); return coroutine.status(_7ab9b2b2) end)(); -- WASTED byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _1c5662d7 = 17; return _1c5662d7 end)(); -- MOGGED Byy Spyt1k
-    local _f09aeddf = "7b12e05d7740ab5f"; if #_f09aeddf > 100 then error() end; -- SOSAL?
-    local _8f29bce1 = math.floor(math.sin(0.45) * 100); -- WASTED byy Spyt1k
-    local _af396f62 = (function() local _2281ebb4 = coroutine.create(function() end); return coroutine.status(_2281ebb4) end)(); -- MOGGED Byy Spyt1k
-    local _fc201373 = math.floor(math.sin(0.58) * 100); -- SOSAL?
-end
-do
-    local _31c3af6a = "1c26b9d44c7294b7"; if #_31c3af6a > 100 then error() end; -- WASTED byy Spyt1k
-    local _22bf9586 = (function() local _cad85c0b = coroutine.create(function() end); return coroutine.status(_cad85c0b) end)(); -- MOGGED Byy Spyt1k
-    local _e79a81d9 = "674f0bb3c730c4a0"; if #_e79a81d9 > 100 then error() end; -- SOSAL?
-    local _2fffbd01 = "be327a98f2afaf59"; if #_2fffbd01 > 100 then error() end; -- WASTED byy Spyt1k
-    local _e39e4a24 = "1559665163063aea"; if #_e39e4a24 > 100 then error() end; -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 8; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 21; --Wasted
-    end
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 12; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 5; -- Wasted
-    end
-    local _57efa3fa = {["_c12f28ff"] = math.pi}; for _, _ in pairs(_57efa3fa) do break end; -- MOGGED Byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _a62abf85 = 3; return _a62abf85 end)(); -- SOSAL?
-    local _78f8e6ea = math.floor(math.sin(0.18) * 100); -- WASTED byy Spyt1k
-    local _4d3a4b27 = (function() local _5b25c007 = coroutine.create(function() end); return coroutine.status(_5b25c007) end)(); -- MOGGED Byy Spyt1k
-    local _c95570f3 = "63161f07f18952e5"; if #_c95570f3 > 100 then error() end; -- SOSAL?
-    local _e6e11b70 = (function() local _701ce7be = coroutine.create(function() end); return coroutine.status(_701ce7be) end)(); -- WASTED byy Spyt1k
-    local _f95e76ee = math.floor(math.sin(0.84) * 100); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 4; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 17; --Wasted
-    end
-    local _0c8da082 = math.floor(math.sin(0.30) * 100); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 1; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + -6; -- Wasted
-    end
-    local _96ba921f = "cf30ea26dfde04aa"; if #_96ba921f > 100 then error() end; -- SOSAL?
-    local _45df4204 = math.floor(math.sin(0.07) * 100); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 10; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 23; --Wasted
-    end
-    local _25c768c0 = math.floor(math.sin(0.09) * 100); -- SOSAL?
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 7; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 20; --Wasted
-    end
-    local _0da07603 = (function() local _143d8b66 = coroutine.create(function() end); return coroutine.status(_143d8b66) end)(); -- MOGGED Byy Spyt1k
-    local _b1b51f43 = {["_e40ceee4"] = math.pi}; for _, _ in pairs(_b1b51f43) do break end; -- SOSAL?
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 8; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 21; --Wasted
-    end
-    local _e38781e0 = {["_a2cfe07b"] = math.pi}; for _, _ in pairs(_e38781e0) do break end; -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 4; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 17; --Wasted
+        _10a32390 = _10a32390 + 31; --Wasted
     end
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 10; -- WASTED byy Spyt1k
+        _10a32390 = _10a32390 + 18; -- SOSAL?
     else
-        _c5ec4a90 = _c5ec4a90 + 23; --Wasted
+        _10a32390 = _10a32390 + 31; --Wasted
     end
-    local _fe784087 = (function() local _e8457166 = coroutine.create(function() end); return coroutine.status(_e8457166) end)(); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 15; -- SOSAL?
+    _10a32390 = _10a32390 + (function() local _85421725 = 16; return _85421725 end)(); -- WASTED byy Spyt1k
+    local _c20de7cb = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _c20de7cb then
+        _10a32390 = _10a32390 + 3; -- MOGGED Byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 8; -- Wasted
+        _10a32390 = _10a32390 + -4; -- Wasted
+    end
+    local _f932aeca = "6c96ceb7d9b9649b"; if #_f932aeca > 100 then error() end; -- SOSAL?
+    local _56801528 = "8aa09cd05e82424b"; if #_56801528 > 100 then error() end; -- WASTED byy Spyt1k
+    local _a8613005 = (function() local _d00058ec = coroutine.create(function() end); return coroutine.status(_d00058ec) end)(); -- MOGGED Byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 15; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 28; --Wasted
     end
 end
 do
-    local _497fbb87 = (function() local _08415b6f = coroutine.create(function() end); return coroutine.status(_08415b6f) end)(); -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _ee35a41f = 10; return _ee35a41f end)(); -- WASTED byy Spyt1k
+    local _5c2fb168 = "df68b23b2aebd707"; if #_5c2fb168 > 100 then error() end; -- MOGGED Byy Spyt1k
+    local _54d9ac3f = (function() local _e05b96c7 = coroutine.create(function() end); return coroutine.status(_e05b96c7) end)(); -- SOSAL?
+    local _647e8f67 = {["_9dc59a10"] = math.pi}; for _, _ in pairs(_647e8f67) do break end; -- WASTED byy Spyt1k
+    local _9a52c05f = {["_7507a5a5"] = math.pi}; for _, _ in pairs(_9a52c05f) do break end; -- MOGGED Byy Spyt1k
+    local _3f4c2357 = (function() local _8772720d = coroutine.create(function() end); return coroutine.status(_8772720d) end)(); -- SOSAL?
+    local _940c3508 = "0fa6c9aba8d25628"; if #_940c3508 > 100 then error() end; -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _88f4225d = 11; return _88f4225d end)(); -- MOGGED Byy Spyt1k
+    local _35387eaa = (function() local _769c4c02 = coroutine.create(function() end); return coroutine.status(_769c4c02) end)(); -- SOSAL?
+    local _d4fa3a46 = math.floor(math.sin(0.63) * 100); -- WASTED byy Spyt1k
+    local _264fc104 = math.floor(math.sin(0.63) * 100); -- MOGGED Byy Spyt1k
+    local _a4961273 = "b1af96a12f8e008e"; if #_a4961273 > 100 then error() end; -- SOSAL?
+    local _e63a9e43 = math.floor(math.sin(0.77) * 100); -- WASTED byy Spyt1k
+    local _b7dfc40b = "7628e46ecacadc53"; if #_b7dfc40b > 100 then error() end; -- MOGGED Byy Spyt1k
+    local _9e6abcf0 = "fd8463343c395efa"; if #_9e6abcf0 > 100 then error() end; -- SOSAL?
+    local _9fbd9b97 = "0916ce61dfd3e9f4"; if #_9fbd9b97 > 100 then error() end; -- WASTED byy Spyt1k
+    local _22b3f170 = "32badc9f199814cb"; if #_22b3f170 > 100 then error() end; -- MOGGED Byy Spyt1k
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 10; -- MOGGED Byy Spyt1k
+        _10a32390 = _10a32390 + 15; -- SOSAL?
     else
-        _c5ec4a90 = _c5ec4a90 + 23; --Wasted
+        _10a32390 = _10a32390 + 28; --Wasted
     end
-    local _adaae236 = math.floor(math.sin(0.12) * 100); -- SOSAL?
-    local _6a1d1e33 = (function() local _73328c80 = coroutine.create(function() end); return coroutine.status(_73328c80) end)(); -- WASTED byy Spyt1k
+    local _9af15897 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _9af15897 then
+        _10a32390 = _10a32390 + 3; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + -4; -- Wasted
+    end
+    local _b06f775d = "2a9945d30ae935f4"; if #_b06f775d > 100 then error() end; -- MOGGED Byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _0825d56d = 1; return _0825d56d end)(); -- SOSAL?
+    local _8c6930ed = {["_85507647"] = math.pi}; for _, _ in pairs(_8c6930ed) do break end; -- WASTED byy Spyt1k
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 13; -- MOGGED Byy Spyt1k
+        _10a32390 = _10a32390 + 13; -- MOGGED Byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 26; --Wasted
+        _10a32390 = _10a32390 + 26; --Wasted
     end
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 4; -- SOSAL?
+        _10a32390 = _10a32390 + 17; -- SOSAL?
     else
-        _c5ec4a90 = _c5ec4a90 + 17; --Wasted
+        _10a32390 = _10a32390 + 30; --Wasted
     end
-    _c5ec4a90 = _c5ec4a90 + (function() local _3a0e5324 = 1; return _3a0e5324 end)(); -- WASTED byy Spyt1k
+    local _b2e3a88a = "dcbe04b13ff1e92e"; if #_b2e3a88a > 100 then error() end; -- WASTED byy Spyt1k
+    local _73553b2f = (function() local _c0dd17fa = coroutine.create(function() end); return coroutine.status(_c0dd17fa) end)(); -- MOGGED Byy Spyt1k
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 5; -- MOGGED Byy Spyt1k
+        _10a32390 = _10a32390 + 5; -- SOSAL?
     else
-        _c5ec4a90 = _c5ec4a90 + 18; --Wasted
+        _10a32390 = _10a32390 + 18; --Wasted
     end
-    local _5f5ae38c = {["_b862ad95"] = math.pi}; for _, _ in pairs(_5f5ae38c) do break end; -- SOSAL?
-    _c5ec4a90 = _c5ec4a90 + (function() local _24e0e3f7 = 18; return _24e0e3f7 end)(); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 11; -- MOGGED Byy Spyt1k
+    local _5834a8c1 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _5834a8c1 then
+        _10a32390 = _10a32390 + 7; -- WASTED byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 4; -- Wasted
+        _10a32390 = _10a32390 + 0; -- Wasted
     end
-    _c5ec4a90 = _c5ec4a90 + (function() local _cdc070b1 = 17; return _cdc070b1 end)(); -- SOSAL?
+    local _b5856751 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _b5856751 then
+        _10a32390 = _10a32390 + 2; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + -5; -- Wasted
+    end
+    local _5c3c6bdf = "6c3cd5959338d289"; if #_5c3c6bdf > 100 then error() end; -- SOSAL?
+end
+do
+    local _1b94fe45 = "02438b9a4d9df3fb"; if #_1b94fe45 > 100 then error() end; -- WASTED byy Spyt1k
+    local _c0d9b273 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _c0d9b273 then
+        _10a32390 = _10a32390 + 20; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 13; -- Wasted
+    end
+    local _367564a3 = math.floor(math.sin(0.16) * 100); -- SOSAL?
+    local _f3db71c5 = (function() local _7496d47f = coroutine.create(function() end); return coroutine.status(_7496d47f) end)(); -- WASTED byy Spyt1k
+    local _4bcbd3ea = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _4bcbd3ea then
+        _10a32390 = _10a32390 + 15; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 8; -- Wasted
+    end
+    local _b146a075 = "9fe1419710809670"; if #_b146a075 > 100 then error() end; -- SOSAL?
+    local _b82af514 = math.floor(math.sin(0.83) * 100); -- WASTED byy Spyt1k
+    local _eb2b539e = {["_a7fc3026"] = math.pi}; for _, _ in pairs(_eb2b539e) do break end; -- MOGGED Byy Spyt1k
+    local _59da92e0 = {["_d7e032e4"] = math.pi}; for _, _ in pairs(_59da92e0) do break end; -- SOSAL?
+    local _b3239198 = (function() local _b6c145d2 = coroutine.create(function() end); return coroutine.status(_b6c145d2) end)(); -- WASTED byy Spyt1k
+    local _4b3287d7 = "8b98bf63d4d16ad8"; if #_4b3287d7 > 100 then error() end; -- MOGGED Byy Spyt1k
+    local _a0d7982e = {["_00658c6f"] = math.pi}; for _, _ in pairs(_a0d7982e) do break end; -- SOSAL?
+    _10a32390 = _10a32390 + (function() local _f201bcec = 8; return _f201bcec end)(); -- WASTED byy Spyt1k
+    local _5491e08b = {["_368fafd0"] = math.pi}; for _, _ in pairs(_5491e08b) do break end; -- MOGGED Byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _8e32468e = 9; return _8e32468e end)(); -- SOSAL?
+    local _19bd1516 = math.floor(math.sin(0.09) * 100); -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _c5737bad = 6; return _c5737bad end)(); -- MOGGED Byy Spyt1k
+    local _8db80b63 = (function() local _d979db89 = coroutine.create(function() end); return coroutine.status(_d979db89) end)(); -- SOSAL?
+    local _86215a82 = math.floor(math.sin(0.51) * 100); -- WASTED byy Spyt1k
+    local _1aa38e60 = {["_83f0b368"] = math.pi}; for _, _ in pairs(_1aa38e60) do break end; -- MOGGED Byy Spyt1k
+    local _83e5add2 = (function() local _448bf4df = coroutine.create(function() end); return coroutine.status(_448bf4df) end)(); -- SOSAL?
+    _10a32390 = _10a32390 + (function() local _1c9f5aa0 = 4; return _1c9f5aa0 end)(); -- WASTED byy Spyt1k
+    local _0c066f7e = "c7c8a789d50ecd7d"; if #_0c066f7e > 100 then error() end; -- MOGGED Byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _b57fd54d = 12; return _b57fd54d end)(); -- SOSAL?
+    local _f5c376e2 = "7960c255924ec076"; if #_f5c376e2 > 100 then error() end; -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _f7dd72d9 = 12; return _f7dd72d9 end)(); -- MOGGED Byy Spyt1k
+    local _cb26578b = "5f0bcb415cfdb413"; if #_cb26578b > 100 then error() end; -- SOSAL?
+    local _ca68e270 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _ca68e270 then
+        _10a32390 = _10a32390 + 11; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 4; -- Wasted
+    end
+    _10a32390 = _10a32390 + (function() local _0ec72b14 = 5; return _0ec72b14 end)(); -- MOGGED Byy Spyt1k
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 9; -- WASTED byy Spyt1k
+        _10a32390 = _10a32390 + 17; -- SOSAL?
     else
-        _c5ec4a90 = _c5ec4a90 + 22; --Wasted
-    end
-    local _302b4302 = math.floor(math.sin(0.86) * 100); -- MOGGED Byy Spyt1k
-    local _f98948ae = (function() local _a886aaf7 = coroutine.create(function() end); return coroutine.status(_a886aaf7) end)(); -- SOSAL?
-    local _a3bd1264 = math.floor(math.sin(0.85) * 100); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 16; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 9; -- Wasted
-    end
-    local _22d8af90 = "813af62f0b3af869"; if #_22d8af90 > 100 then error() end; -- SOSAL?
-    _c5ec4a90 = _c5ec4a90 + (function() local _76eff25c = 12; return _76eff25c end)(); -- WASTED byy Spyt1k
-    local _181e3f4f = {["_1d58b437"] = math.pi}; for _, _ in pairs(_181e3f4f) do break end; -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 1; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 14; --Wasted
-    end
-    local _4490f798 = {["_9ad3d2e9"] = math.pi}; for _, _ in pairs(_4490f798) do break end; -- WASTED byy Spyt1k
-    _c5ec4a90 = _c5ec4a90 + (function() local _21736a38 = 5; return _21736a38 end)(); -- MOGGED Byy Spyt1k
-    local _2e270036 = math.floor(math.sin(0.32) * 100); -- SOSAL?
-    local _ca91db58 = math.floor(math.sin(0.69) * 100); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 11; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 24; --Wasted
-    end
-    local _59403e87 = {["_65ca5707"] = math.pi}; for _, _ in pairs(_59403e87) do break end; -- SOSAL?
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 8; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 21; --Wasted
-    end
-    local _4085c672 = math.floor(math.sin(0.07) * 100); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 6; -- SOSAL?
-    else
-        _c5ec4a90 = _c5ec4a90 + 19; --Wasted
+        _10a32390 = _10a32390 + 30; --Wasted
     end
 end
 do
-    _c5ec4a90 = _c5ec4a90 + (function() local _683b6264 = 5; return _683b6264 end)(); -- WASTED byy Spyt1k
-    local _a6897e94 = {["_4e51e653"] = math.pi}; for _, _ in pairs(_a6897e94) do break end; -- MOGGED Byy Spyt1k
-    local _d84f0d2f = math.floor(math.sin(0.11) * 100); -- SOSAL?
-    local _28f14bd6 = (function() local _7070800e = coroutine.create(function() end); return coroutine.status(_7070800e) end)(); -- WASTED byy Spyt1k
-    local _e0119582 = (function() local _3dbf457a = coroutine.create(function() end); return coroutine.status(_3dbf457a) end)(); -- MOGGED Byy Spyt1k
-    local _a12993a0 = math.floor(math.sin(0.54) * 100); -- SOSAL?
-    local _c9262f0f = (function() local _9b80296e = coroutine.create(function() end); return coroutine.status(_9b80296e) end)(); -- WASTED byy Spyt1k
-    local _5e486f68 = (function() local _ff489382 = coroutine.create(function() end); return coroutine.status(_ff489382) end)(); -- MOGGED Byy Spyt1k
-    local _b3b750b0 = {["_0d4cbd41"] = math.pi}; for _, _ in pairs(_b3b750b0) do break end; -- SOSAL?
+    local _e63260ae = (function() local _77421080 = coroutine.create(function() end); return coroutine.status(_77421080) end)(); -- WASTED byy Spyt1k
+    local _affd1b22 = (function() local _23d1aad2 = coroutine.create(function() end); return coroutine.status(_23d1aad2) end)(); -- MOGGED Byy Spyt1k
+    local _17d7832e = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- SOSAL?
+    if _17d7832e then
+        _10a32390 = _10a32390 + 4; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + -3; -- Wasted
+    end
+    local _9d91f32d = (function() local _3304b328 = coroutine.create(function() end); return coroutine.status(_3304b328) end)(); -- WASTED byy Spyt1k
+    local _9c3c53e3 = "2c62fcb4ce22996b"; if #_9c3c53e3 > 100 then error() end; -- MOGGED Byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _2f5108ac = 17; return _2f5108ac end)(); -- SOSAL?
+    local _b869d428 = {["_43c65d6c"] = math.pi}; for _, _ in pairs(_b869d428) do break end; -- WASTED byy Spyt1k
+    local _3f366027 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _3f366027 then
+        _10a32390 = _10a32390 + 2; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + -5; -- Wasted
+    end
+    local _d434ceaf = "674a54b99f0d23db"; if #_d434ceaf > 100 then error() end; -- SOSAL?
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 10; -- WASTED byy Spyt1k
+        _10a32390 = _10a32390 + 9; -- WASTED byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 23; --Wasted
+        _10a32390 = _10a32390 + 22; --Wasted
     end
-    local _934400ba = "a9df1c089e1b0646"; if #_934400ba > 100 then error() end; -- MOGGED Byy Spyt1k
-    local _b367f5a3 = {["_e9203e79"] = math.pi}; for _, _ in pairs(_b367f5a3) do break end; -- SOSAL?
-    local _979a7527 = {["_447b142f"] = math.pi}; for _, _ in pairs(_979a7527) do break end; -- WASTED byy Spyt1k
+    local _ad0169bf = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _ad0169bf then
+        _10a32390 = _10a32390 + 15; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 8; -- Wasted
+    end
+    local _134cf92b = math.floor(math.sin(0.12) * 100); -- SOSAL?
+    local _0234e469 = {["_365b18d2"] = math.pi}; for _, _ in pairs(_0234e469) do break end; -- WASTED byy Spyt1k
+    local _d1e73e43 = "0ac6ce2d0e0a3397"; if #_d1e73e43 > 100 then error() end; -- MOGGED Byy Spyt1k
+    local _7ce424de = math.floor(math.sin(0.66) * 100); -- SOSAL?
+    local _d65d8789 = {["_f936e52a"] = math.pi}; for _, _ in pairs(_d65d8789) do break end; -- WASTED byy Spyt1k
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 18; -- MOGGED Byy Spyt1k
+        _10a32390 = _10a32390 + 7; -- MOGGED Byy Spyt1k
     else
-        _c5ec4a90 = _c5ec4a90 + 31; --Wasted
+        _10a32390 = _10a32390 + 20; --Wasted
     end
-    _c5ec4a90 = _c5ec4a90 + (function() local _ae48fd84 = 12; return _ae48fd84 end)(); -- SOSAL?
-    local _1c74b486 = math.floor(math.sin(0.59) * 100); -- WASTED byy Spyt1k
-    local _54d859d1 = math.floor(math.sin(0.53) * 100); -- MOGGED Byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 18; -- SOSAL?
+    local _d73c69f3 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- SOSAL?
+    if _d73c69f3 then
+        _10a32390 = _10a32390 + 11; -- SOSAL?
     else
-        _c5ec4a90 = _c5ec4a90 + 11; -- Wasted
+        _10a32390 = _10a32390 + 4; -- Wasted
     end
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 9; -- WASTED byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 2; -- Wasted
-    end
-    _c5ec4a90 = _c5ec4a90 + (function() local _6bc042a1 = 20; return _6bc042a1 end)(); -- MOGGED Byy Spyt1k
-    local _252a92ef = math.floor(math.sin(0.80) * 100); -- SOSAL?
-    local _8b579f49 = (function() local _d85b84e0 = coroutine.create(function() end); return coroutine.status(_d85b84e0) end)(); -- WASTED byy Spyt1k
-    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, table.concat, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 7; -- MOGGED Byy Spyt1k
-    else
-        _c5ec4a90 = _c5ec4a90 + 0; -- Wasted
-    end
-    _c5ec4a90 = _c5ec4a90 + (function() local _5fe03bb5 = 12; return _5fe03bb5 end)(); -- SOSAL?
-    local _7b73b535 = {["_cd6b1b44"] = math.pi}; for _, _ in pairs(_7b73b535) do break end; -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _6bdb1103 = 18; return _6bdb1103 end)(); -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _d1e7c4ab = 4; return _d1e7c4ab end)(); -- MOGGED Byy Spyt1k
     if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
-        _c5ec4a90 = _c5ec4a90 + 5; -- MOGGED Byy Spyt1k
+        _10a32390 = _10a32390 + 8; -- SOSAL?
     else
-        _c5ec4a90 = _c5ec4a90 + 18; --Wasted
+        _10a32390 = _10a32390 + 21; --Wasted
     end
-    local _97627554 = (function() local _505485e7 = coroutine.create(function() end); return coroutine.status(_505485e7) end)(); -- SOSAL?
-    local _32b35532 = "5d930bc4ec6cc960"; if #_32b35532 > 100 then error() end; -- WASTED byy Spyt1k
-    local _13bb00e7 = math.floor(math.sin(0.78) * 100); -- MOGGED Byy Spyt1k
-    local _a9d212f0 = "c1cadf8f362db6bd"; if #_a9d212f0 > 100 then error() end; -- SOSAL?
+    local _217a72d5 = {["_d4983c08"] = math.pi}; for _, _ in pairs(_217a72d5) do break end; -- WASTED byy Spyt1k
+    local _1f2f16fe = {["_83d1b6e2"] = math.pi}; for _, _ in pairs(_1f2f16fe) do break end; -- MOGGED Byy Spyt1k
+    local _ab7a0b20 = {["_a58f443f"] = math.pi}; for _, _ in pairs(_ab7a0b20) do break end; -- SOSAL?
+    local _75d14a2c = "0c2b468a3049d01f"; if #_75d14a2c > 100 then error() end; -- WASTED byy Spyt1k
+    local _f467719d = math.floor(math.sin(0.40) * 100); -- MOGGED Byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _79e26f58 = 13; return _79e26f58 end)(); -- SOSAL?
+    local _9d1a54f2 = math.floor(math.sin(0.80) * 100); -- WASTED byy Spyt1k
+    local _3237b299 = math.floor(math.sin(0.19) * 100); -- MOGGED Byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 5; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 18; --Wasted
+    end
+end
+do
+    local _5754e2e6 = "2159f4a314b4f4ac"; if #_5754e2e6 > 100 then error() end; -- WASTED byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 1; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 14; --Wasted
+    end
+    local _05f4d58f = "eab29f1f799ed19a"; if #_05f4d58f > 100 then error() end; -- SOSAL?
+    local _9eec2596 = (function() local _18058a81 = coroutine.create(function() end); return coroutine.status(_18058a81) end)(); -- WASTED byy Spyt1k
+    local _e7d923d8 = math.floor(math.sin(0.38) * 100); -- MOGGED Byy Spyt1k
+    local _92e3c237 = {["_dda5d6a5"] = math.pi}; for _, _ in pairs(_92e3c237) do break end; -- SOSAL?
+    local _17270bcf = math.floor(math.sin(0.53) * 100); -- WASTED byy Spyt1k
+    local _2758bede = math.floor(math.sin(0.10) * 100); -- MOGGED Byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 15; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 28; --Wasted
+    end
+    local _e5c8975c = math.floor(math.sin(0.01) * 100); -- WASTED byy Spyt1k
+    local _42d114c8 = (function() local _6f852a8a = coroutine.create(function() end); return coroutine.status(_6f852a8a) end)(); -- MOGGED Byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 17; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 30; --Wasted
+    end
+    local _ec211089 = {["_bca2c089"] = math.pi}; for _, _ in pairs(_ec211089) do break end; -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _652546a8 = 9; return _652546a8 end)(); -- MOGGED Byy Spyt1k
+    local _4638d1f0 = (function() local _909dfef3 = coroutine.create(function() end); return coroutine.status(_909dfef3) end)(); -- SOSAL?
+    local _c96fd6b9 = math.floor(math.sin(0.64) * 100); -- WASTED byy Spyt1k
+    local _af2852d4 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _af2852d4 then
+        _10a32390 = _10a32390 + 5; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + -2; -- Wasted
+    end
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 4; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 17; --Wasted
+    end
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 10; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 23; --Wasted
+    end
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 2; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 15; --Wasted
+    end
+    local _116404a9 = math.floor(math.sin(0.30) * 100); -- SOSAL?
+    local _13e3a4d8 = math.floor(math.sin(0.89) * 100); -- WASTED byy Spyt1k
+    local _5f7e43f8 = "467ec63cf6f2f403"; if #_5f7e43f8 > 100 then error() end; -- MOGGED Byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _a3eb7cd5 = 1; return _a3eb7cd5 end)(); -- SOSAL?
+    local _3d2b119f = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _3d2b119f then
+        _10a32390 = _10a32390 + 2; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + -5; -- Wasted
+    end
+    local _ca71e2c9 = "618c9330030f3a0f"; if #_ca71e2c9 > 100 then error() end; -- MOGGED Byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 14; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 27; --Wasted
+    end
+    local _33417965 = "d68f3dd4c1644d62"; if #_33417965 > 100 then error() end; -- WASTED byy Spyt1k
+    local _71b1d4fb = (function() local _613e2128 = coroutine.create(function() end); return coroutine.status(_613e2128) end)(); -- MOGGED Byy Spyt1k
+    local _032885af = "4081d90c1e4f228c"; if #_032885af > 100 then error() end; -- SOSAL?
+end
+do
+    local _beff0925 = math.floor(math.sin(0.87) * 100); -- WASTED byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 13; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 26; --Wasted
+    end
+    _10a32390 = _10a32390 + (function() local _8a5532b8 = 18; return _8a5532b8 end)(); -- SOSAL?
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 1; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 14; --Wasted
+    end
+    local _59f4e173 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _59f4e173 then
+        _10a32390 = _10a32390 + 18; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 11; -- Wasted
+    end
+    local _1d7a0101 = (function() local _f7678cfe = coroutine.create(function() end); return coroutine.status(_f7678cfe) end)(); -- SOSAL?
+    local _02ede008 = (function() local _01f4e0a0 = coroutine.create(function() end); return coroutine.status(_01f4e0a0) end)(); -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _b4bba41b = 15; return _b4bba41b end)(); -- MOGGED Byy Spyt1k
+    local _b79dd01a = math.floor(math.sin(0.07) * 100); -- SOSAL?
+    local _53557731 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _53557731 then
+        _10a32390 = _10a32390 + 8; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 1; -- Wasted
+    end
+    local _8dc0017c = math.floor(math.sin(0.24) * 100); -- MOGGED Byy Spyt1k
+    local _bfc37817 = (function() local _22c1ae12 = coroutine.create(function() end); return coroutine.status(_22c1ae12) end)(); -- SOSAL?
+    local _a393ccf9 = "4c26d386bb4ba150"; if #_a393ccf9 > 100 then error() end; -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _8550fa10 = 3; return _8550fa10 end)(); -- MOGGED Byy Spyt1k
+    local _46864eda = (function() local _b20dc952 = coroutine.create(function() end); return coroutine.status(_b20dc952) end)(); -- SOSAL?
+    local _e9b9a5fa = {["_50bb1587"] = math.pi}; for _, _ in pairs(_e9b9a5fa) do break end; -- WASTED byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 15; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 28; --Wasted
+    end
+    local _70734112 = {["_e3980130"] = math.pi}; for _, _ in pairs(_70734112) do break end; -- SOSAL?
+    _10a32390 = _10a32390 + (function() local _f57934ad = 13; return _f57934ad end)(); -- WASTED byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 3; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 16; --Wasted
+    end
+    _10a32390 = _10a32390 + (function() local _2c5be7b3 = 12; return _2c5be7b3 end)(); -- SOSAL?
+    local _5957ef5c = (function() local _c3e9a0fa = coroutine.create(function() end); return coroutine.status(_c3e9a0fa) end)(); -- WASTED byy Spyt1k
+    local _d0c7f55f = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _d0c7f55f then
+        _10a32390 = _10a32390 + 7; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 0; -- Wasted
+    end
+    local _07356637 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- SOSAL?
+    if _07356637 then
+        _10a32390 = _10a32390 + 15; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 8; -- Wasted
+    end
+    local _5e2e2a3d = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _5e2e2a3d then
+        _10a32390 = _10a32390 + 1; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + -6; -- Wasted
+    end
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 4; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 17; --Wasted
+    end
+    local _809eed70 = "6aba62b4099a29b2"; if #_809eed70 > 100 then error() end; -- SOSAL?
+    local _ec20ea0d = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _ec20ea0d then
+        _10a32390 = _10a32390 + 3; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + -4; -- Wasted
+    end
+    local _f3e192db = {["_5cdeb35d"] = math.pi}; for _, _ in pairs(_f3e192db) do break end; -- MOGGED Byy Spyt1k
+    local _e35b34ba = {["_706ef6ae"] = math.pi}; for _, _ in pairs(_e35b34ba) do break end; -- SOSAL?
+end
+do
+    local _28e2f4aa = {["_a3828970"] = math.pi}; for _, _ in pairs(_28e2f4aa) do break end; -- WASTED byy Spyt1k
+    local _d004d65f = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _d004d65f then
+        _10a32390 = _10a32390 + 17; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 10; -- Wasted
+    end
+    _10a32390 = _10a32390 + (function() local _89ac44af = 5; return _89ac44af end)(); -- SOSAL?
+    local _847fe1ec = "0f252e0043cda762"; if #_847fe1ec > 100 then error() end; -- WASTED byy Spyt1k
+    local _217152e6 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _217152e6 then
+        _10a32390 = _10a32390 + 11; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 4; -- Wasted
+    end
+    _10a32390 = _10a32390 + (function() local _de105134 = 17; return _de105134 end)(); -- SOSAL?
+    local _847b4fbd = "1a55c974ac64e9f3"; if #_847b4fbd > 100 then error() end; -- WASTED byy Spyt1k
+    local _86cd4816 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _86cd4816 then
+        _10a32390 = _10a32390 + 15; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 8; -- Wasted
+    end
+    local _1e0b23ca = (function() local _d07fb8c6 = coroutine.create(function() end); return coroutine.status(_d07fb8c6) end)(); -- SOSAL?
+    local _47bb30f0 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _47bb30f0 then
+        _10a32390 = _10a32390 + 18; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 11; -- Wasted
+    end
+    local _cfb7fc8b = (function() local _8845c91e = coroutine.create(function() end); return coroutine.status(_8845c91e) end)(); -- MOGGED Byy Spyt1k
+    local _d5f5fa93 = "1c6112689f7bd0f3"; if #_d5f5fa93 > 100 then error() end; -- SOSAL?
+    _10a32390 = _10a32390 + (function() local _d10fc6af = 8; return _d10fc6af end)(); -- WASTED byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _e87938db = 15; return _e87938db end)(); -- MOGGED Byy Spyt1k
+    local _7ca07c77 = {["_b2fbbc90"] = math.pi}; for _, _ in pairs(_7ca07c77) do break end; -- SOSAL?
+    _10a32390 = _10a32390 + (function() local _ca2922ed = 15; return _ca2922ed end)(); -- WASTED byy Spyt1k
+    local _55a6e5d6 = "0d067824a0c06f2f"; if #_55a6e5d6 > 100 then error() end; -- MOGGED Byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 17; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 30; --Wasted
+    end
+    local _e145e3e5 = {["_46434da1"] = math.pi}; for _, _ in pairs(_e145e3e5) do break end; -- WASTED byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 17; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 30; --Wasted
+    end
+    _10a32390 = _10a32390 + (function() local _c7908165 = 11; return _c7908165 end)(); -- SOSAL?
+    local _3256fbbe = (function() local _5696782c = coroutine.create(function() end); return coroutine.status(_5696782c) end)(); -- WASTED byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 6; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 19; --Wasted
+    end
+    local _e13fd6df = math.floor(math.sin(1.00) * 100); -- SOSAL?
+    local _538dd458 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _538dd458 then
+        _10a32390 = _10a32390 + 9; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 2; -- Wasted
+    end
+    local _10a335a7 = (function() local _689c23d2 = coroutine.create(function() end); return coroutine.status(_689c23d2) end)(); -- MOGGED Byy Spyt1k
+    local _098307b2 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- SOSAL?
+    if _098307b2 then
+        _10a32390 = _10a32390 + 16; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 9; -- Wasted
+    end
+    local _546f0edf = math.floor(math.sin(0.72) * 100); -- WASTED byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 7; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 20; --Wasted
+    end
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 17; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 30; --Wasted
+    end
+end
+do
+    local _c2f297a2 = math.floor(math.sin(0.20) * 100); -- WASTED byy Spyt1k
+    local _07f0eb8c = {["_67607e47"] = math.pi}; for _, _ in pairs(_07f0eb8c) do break end; -- MOGGED Byy Spyt1k
+    local _521c09a1 = {["_ad981c0e"] = math.pi}; for _, _ in pairs(_521c09a1) do break end; -- SOSAL?
+    local _c0006458 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- WASTED byy Spyt1k
+    if _c0006458 then
+        _10a32390 = _10a32390 + 9; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 2; -- Wasted
+    end
+    local _8469b705 = (function() local _4a1b89d3 = coroutine.create(function() end); return coroutine.status(_4a1b89d3) end)(); -- MOGGED Byy Spyt1k
+    local _627ed1d3 = math.floor(math.sin(0.38) * 100); -- SOSAL?
+    local _60f33de7 = (function() local _b461b8cd = coroutine.create(function() end); return coroutine.status(_b461b8cd) end)(); -- WASTED byy Spyt1k
+    local _a23e4b0a = math.floor(math.sin(0.41) * 100); -- MOGGED Byy Spyt1k
+    _10a32390 = _10a32390 + (function() local _8f5c99ec = 15; return _8f5c99ec end)(); -- SOSAL?
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 3; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 16; --Wasted
+    end
+    local _9e2b0765 = math.floor(math.sin(0.85) * 100); -- MOGGED Byy Spyt1k
+    local _3cc3dfaf = (function() local _0c296ab7 = coroutine.create(function() end); return coroutine.status(_0c296ab7) end)(); -- SOSAL?
+    _10a32390 = _10a32390 + (function() local _c94e4229 = 7; return _c94e4229 end)(); -- WASTED byy Spyt1k
+    local _f531880b = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _f531880b then
+        _10a32390 = _10a32390 + 11; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 4; -- Wasted
+    end
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 1; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 14; --Wasted
+    end
+    local _85ee6778 = "6d595213291fc2dc"; if #_85ee6778 > 100 then error() end; -- WASTED byy Spyt1k
+    local _8f06b42f = {["_6426a36f"] = math.pi}; for _, _ in pairs(_8f06b42f) do break end; -- MOGGED Byy Spyt1k
+    local _98eab0ed = {["_8104f004"] = math.pi}; for _, _ in pairs(_98eab0ed) do break end; -- SOSAL?
+    local _7612ac3a = {["_08f53024"] = math.pi}; for _, _ in pairs(_7612ac3a) do break end; -- WASTED byy Spyt1k
+    local _66de59a8 = "dd615e8bbeb8a3e5"; if #_66de59a8 > 100 then error() end; -- MOGGED Byy Spyt1k
+    local _85b3a634 = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- SOSAL?
+    if _85b3a634 then
+        _10a32390 = _10a32390 + 12; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 5; -- Wasted
+    end
+    local _3643631b = (function() local _35c207ef = coroutine.create(function() end); return coroutine.status(_35c207ef) end)(); -- WASTED byy Spyt1k
+    local _32ad76dc = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _32ad76dc then
+        _10a32390 = _10a32390 + 11; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 4; -- Wasted
+    end
+    local _ee9bb801 = {["_912915ff"] = math.pi}; for _, _ in pairs(_ee9bb801) do break end; -- SOSAL?
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 12; -- WASTED byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 25; --Wasted
+    end
+    local _e5a527cc = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- MOGGED Byy Spyt1k
+    if _e5a527cc then
+        _10a32390 = _10a32390 + 3; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + -4; -- Wasted
+    end
+    local _0e01c8aa = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- SOSAL?
+    if _0e01c8aa then
+        _10a32390 = _10a32390 + 18; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 11; -- Wasted
+    end
+    local _bb4cde4b = (function() local _3c0a45af = coroutine.create(function() end); return coroutine.status(_3c0a45af) end)(); -- WASTED byy Spyt1k
+    if (function() local d_i = debug and debug.info; local ok, res = pcall(d_i, string.char, "s"); return ok and res == "[C]" end)() then
+        _10a32390 = _10a32390 + 7; -- MOGGED Byy Spyt1k
+    else
+        _10a32390 = _10a32390 + 20; --Wasted
+    end
+    local _f33a4f7e = (function() local t = {1, 2, 3}; return #t == 3 end)(); -- SOSAL?
+    if _f33a4f7e then
+        _10a32390 = _10a32390 + 14; -- SOSAL?
+    else
+        _10a32390 = _10a32390 + 7; -- Wasted
+    end
 end
 
 
 return (function(...)
-    local _e8e8fafc = string.char
-    local _e0fe7e18 = table.concat
-    local _57945268 = {
-        {172,174,172,192,179},
-        {177,183,176,186},
-        {175,174,190,177,177,187,196},
-        {180,184,171,175,191,193,192,184,190,184},
-        {188,170,172,183,177},
-        {171,184,184,174,173,193},
-        {171,181,175,172,190},
-        {171,184,182,183,177,176,194,182,177,195,180,180,187,186},
-        {152,181,171,174,177,150,178},
-        {139,187,175,172,192,188,192,152,180},
-        {170,178,190,126,126},
-        {170,193,185,189},
-        {175,170,183,176},
-        {184,172,171,183,184},
-        {188,184,189,191,190,182,188,182},
-        {170,178,190},
-        {187,189,188,180,186,180},
-        {170,194,190,176}
+    local _8f30ea72 = string.char
+    local _f02a57b4 = table.concat
+    local _21bc9eb4 = {
+        {3,5,3,23,10},
+        {8,14,7,17},
+        {6,5,21,8,8,18,27},
+        {11,15,2,6,22,24,23,15,21,15},
+        {19,1,3,14,8},
+        {2,15,15,5,4,24},
+        {2,12,6,3,21},
+        {2,15,13,14,8,7,25,13,8,26,11,11,18,17},
+        {239,12,2,5,8,237,9},
+        {226,18,6,3,23,19,23,239,11},
+        {1,9,21,213,213},
+        {1,24,16,20},
+        {6,1,14,7},
+        {15,3,2,14,15},
+        {19,15,20,22,21,13,19,13},
+        {1,9,21},
+        {18,20,19,11,17,11},
+        {1,25,21,7}
     }
     
-    local function _54363fc4(idx)
-        local t = _57945268[idx]
+    local function _73de7e19(idx)
+        local t = _21bc9eb4[idx]
         local r = {}
         for i = 1, #t do
-            local b = (t[i] - 72 - (i - 1)) % 256
-            r[i] = _e8e8fafc(b)
+            local b = (t[i] - 159 - (i - 1)) % 256
+            r[i] = _8f30ea72(b)
         end
-        return _e0fe7e18(r)
+        return _f02a57b4(r)
     end
     
-    local _08e45843 = getfenv()
+    local _268fe026 = setmetatable({}, {
+        __index = function(_, k)
+            local res
+            if getfenv then pcall(function() res = getfenv()[k] end) end
+            if res ~= nil then return res end
+            if getgenv then pcall(function() res = getgenv()[k] end) end
+            if res ~= nil then return res end
+            if _G then pcall(function() res = _G[k] end) end
+            return res
+        end,
+        __newindex = function(_, k, v)
+            if getfenv then pcall(function() getfenv()[k] = v end) end
+        end
+    })
     
-    local _0f7d9ffc = _08e45843[_54363fc4(1)] or debug
-    local _bb053678 = _0f7d9ffc and _0f7d9ffc[_54363fc4(2)]
-    local _4b90a98f = _08e45843[_54363fc4(14)] or pcall
-    local _498fbadb = _08e45843[_54363fc4(17)] or string
-    local _2c6a7087 = _498fbadb and _498fbadb[_54363fc4(18)] or string.byte
-    local _76b2037e = _08e45843[_54363fc4(4)] or loadstring
-    
-    local function _01079ab6(f)
-        if not f then return false end
-        local ok, res = _4b90a98f(_bb053678, f, "s")
-        return ok and res == "[C]"
-    end
-    
-    if not (_01079ab6(_bb053678) and _01079ab6(_e8e8fafc) and _01079ab6(_e0fe7e18) and _01079ab6(_4b90a98f) and _01079ab6(_2c6a7087)) then
-        local function freeze() while true do pcall(freeze) end end
-        freeze()
-    end
+    local _25b002d3 = _268fe026[_73de7e19(1)] or debug
+    local _fa6f094a = _25b002d3 and _25b002d3[_73de7e19(2)]
+    local _e1ccf2af = _268fe026[_73de7e19(14)] or pcall
+    local _2786749f = _268fe026[_73de7e19(17)] or string
+    local _dd409041 = _2786749f and _2786749f[_73de7e19(18)] or string.byte
+    local _62337f11 = _268fe026[_73de7e19(4)] or loadstring
     
     
     
-    local _57e79c50 = _08e45843[_54363fc4(15)] or tostring
-    local _1c00598b = _08e45843[_54363fc4(5)] or table
-    local _2d7273e3 = _08e45843[_54363fc4(11)] or _08e45843[_54363fc4(16)] or bit32 or bit
-    local _e434e6ea = _1c00598b and _1c00598b[_54363fc4(7)]
+    local _fbbaa120 = _268fe026[_73de7e19(11)] or _268fe026[_73de7e19(16)] or bit32 or bit
+    local _46388cf0 = _268fe026[_73de7e19(15)] or tostring
+    local _d292d437 = _268fe026[_73de7e19(5)] or table
+    local _3b07c4ea = _d292d437 and _d292d437[_73de7e19(7)]
     
-    local _a8b7b162 = {
-        "\083\104\199\026\229\072\066\062\199\027\246\014\255\064\130\070\097\087\006\020\139\218\173\143\113\048\230\203\013\234\072\095\127\226\033\135\241\184\122\177\148\041\208\196\247\187\017\049\228\212\036\149\183\137\244\144\253\130\184\189\117\118\106\005\086\238\130\147\005\222\058\218\066\047\151\244\151\062\131\191\054\174\013\217\078\167\165\171\215\028\116\145\020\157\206\171\050\187\006\255\199\208\252\130\166\255\117\253\189\240\169\100\046\103\130\053\058\121\123\072\224\047\126\030\141\227\183\073\103\084\009\099\120\224\148\099\076\100\078\071\054\054\109\059\138\146\253\019\207\019\073\041\166\235\072\173\088\020\088\018\211\008\133\037\232\062\180\011\205\061\088\124\120\139\053\169\027\243\053\111\095\052\060\156\056\018\117\229\043\220\135\193\017\203\053\251\108\131\222\147\087\213\077\077\143\210\207\195\227\126\166\127\143\240\113\080\181\007\099\177\198\031\179\106\208\106\092\232\079\123\238\128\219\232\040\032\253\173\087\195\228\184\234\098\194\195\187\217\228\128\159\056\170\107\228\110\130\176\085\078\140\208\126\219\144\024\126\198\096\065\075\137\106\136\009\095\009\116\178\204\206\137\106\143\139\232\081\075\182\029\054\104\136\152\163\004\033\137\075\244\027\240\128\061\006\136\235\007\187\063\102\187\091\222\005\194\013\202\065\070\024\002\126\029\203\172\171\158\065\131\182\116\126\060\040\183\078\195\024\240\244\233\084\195\075\235\200\109\105\087\161\157\061\139\204\204\074\248\019\089\214\240\038\196\202\027\245\051\156\021\197\163\201\009\145\092\208\085\181\088\112\025\178\235\230\243\192\163\187\038\058\206\033\190\221\074\197\173\151\199\010\225\135\242\073\114\138\184\116\026\014\179\035\071\081\156\050\245\132\146\018\247\035\216\134\180\196\001\106\009\183\144\029\003\213\208\191\217\109\037\199\083\164\098\247\103\232\174\088\248\226\098\058\068\179\010\022\183\052\082\101\244\027\186\028\097\222\124\009\183\209\003\102\172\232\125\113\254\188\199\070\210\123\228\027\039\219\043\196\068\251\166\177\179\227\133\146\078\065\068\090\028\111\002\219\050\110\018\186\253\222\241\129\096\200\225\195\090\230\099\026\226\042\036\106\245\000\004\162\107\190\120\149\041\099\190\186\191\232\034\235\024\031\163\080\076\113\198\015\165\058\017\101\007\080\075\176\241\250\062\076\097\169\236\151\151\252\211\124\249\017\149\082\218\070\224\028\254\069\153\134\039\088\055\106\068\015\110\021\172\101\193\173\068\030\136\122\237\244\225\067\105\251\046\175\087\218\177\234\018\122\219\117\111\016\156\146\137\097\175\118\056\007\114\090\091\133\020\039\012\116\234\077\046\162\030\199\093\113\070\090\214\025\109\147\157\133\039\075\182\187\014\254\103\082\027\050\210\221\003\111\176\244\023\156\229\062\037\092\221\193\072\141\096\036\140\043\249\034\094\120\180\049\187\092\209\032\217\106\152\006\133\023\132\140\138\240\165\194\142\133\034\253\209\141\176\015\026\119\048\119\089\096\199\197\009\003\083\203\223\172\092\249\231\155\003\164\189\054\027\241\251\067\020\129\109\250\118\074\046\026\155\213\018\073\145\048\116\235\087\207\014\111\031\162\178\109\225\206\240\197\049\038\126\232\067\254\002\030\081\056\168\043\114\077\047\059\084\103\083\113\171\184\001\081\043\185\041\002\165\086\121\074\139\220\122\141\246\186\033\101\057\113\237\115\159\151\043\045\008\048\201\048\118\114\208\161\083\043\026\138\057\173\104\231\003\035\045\080\045\059\149\168\021\105\107\098\203\122\217\152\235\219\155\190\086\010\040\212\052\162\234\152\168\131\188\009\100\128\089\204\206\183\217\162\226\110\015\133\192\008\129\024\156\142\183\246\145\109\243\108\028\100\163\024\210\252\037\100\069\045\249\079\019\151\010\119\096\117\199\163\075\171\043\131\173\239\148\254\004\175\072\203\134\197\109\227\041\029\027\132\224\248\071\021\154\002\077\013\120\068\057\087\042\190\255\102\228\110\230\016\029\064\093\218\147\214\109\227\210\114\080\197\033\019\009\043\005\104\018\011\231\124\158\007\200\077\054\201\044\233\144\185\177\185\117\016\020\250\177\175\234\139\147\034\056\097\089\199\105\168\039\114\046\249\013\032\119\151\181\128\145\180\248\103\137\127\115\037\120\195\203\109\119\240\167\059\155\075\159\141\118\207\157\084\173\058\053\067\209\126\098\012\239\176\147\129\091\166\205\163\033\113\098\182\006\122\154\128\056\002\160\192\238\135\002\078\142\007\207\249\010\164\145\210\216\035\107\053\085\253\161\011\063\091\020\043\191\064\211\002\034\076\005\067\072\131\081\242\111\208\248\132\078\142\226\110\080\171\166\054\183\017\145\176\217\094\197\213\214\044\108\122\189\170\160\092\155\178\241\098\232\058\081\163\196\087\083\012\019\055\046\208\159\055\170\087\212\174\009\228\155\067\094\010\065\048\165\141\186\029\166\209\160\011\040\012\149\020\243\035\124\116\204\151\225\048\124\016\060\220\056\019\156\176\215\254\028\161\234\190\249\040\044\239\067\012\184\055\134\231\183\206\073\071\219\006\135\080\028\120\191\061\232\128\144\197\218\165\253\193\060\103\052\092\137\204\068\253\224\052\213\239\015\038\023\239\061\008\185\249\222\069\139\109\031\053\103\050\175\113\031\055\212\056\010\022\008\200\121\174\244\052\034\229\082\126\171\076\054\209\117\150\067\113\083\212\072\113\161\255\153\032\182\169\212\054\230\053\103\172\029\132\139\005\212\229\000\161\251\033\214\115\033\146\213\161\016\158\114\209\053\076\187\063\157\124\144\237\049\222\218\189\137\092\012\160\215\140\145\064\077\212\173\178\008\119\130\031\209\151\218\098\039\007\005\200\102\094\105\148\218\003\154\026\026\000\252\042\132\041\099\127\254\202\139\187\020\033\239\099\193\184\098\207\206\020\201\124\126\032\182\153\193\168\219\044\154\214\191\172\114\084\220\129\174\096\055\016\050\147\128\165\029\102\095\147\018\105\244\213\155\029\216\177\080\117\002\215\057\210\098\108\147\167\100\130\015\068\092\226\115\154\115\069\241\217\200\254\164\010\119\080\246\157\246\100\166\179\008\034\042\009\228\250\017\212\193\197\053\019\198\131\017\185\188\032\095\248\222\098\228\234\095\130\158\173\242\196\240\168\080\150\217\247\084\085\218\026\070\237\181\155\140\152\233\222\137\215\070\059\045\242\207\054\015\029\023\075\146\125\102\185\210\126\062\219\183\060\083\176\160\006\175\041\195\024\251\247\053\188\253\054\214\002\239\207\073\010\077\011\145\183\131\089\036\024\043\216\124\052\133\040\064\193\195\114\106\041\002\045\020\106\202\249\101\113\069\098\060\254\197\097\101\115\144\246\173\025\083\104\020\025\144\095\248\059\026\037\102\025\118\043\100\146\157\085\211\210\210\096\164\135\043\072\225\076\141\079\198\071\176\052\116\050\011\032\122\195\015\154\123\047\206\010\006\109\154\153\064\095\082\190\092\042\178\106\078\207\189\140\168\222\127\146\040\163\149\020\115\071\113\091\124\192\210\146\123\015\180\035\233\162\152\095\037\180\067\041\146\147\061\156\240\162\200\102\131\226\229\245\055\023\050\042\244\165\043\236\173\123\019\105\054\236\182\074\085\193\105\209\151\255\100\112\169\075\031\058\117\179\037\027\080\198\078\077\146\144\119\026\249\254\050\025\077\220\184\039\171\081\206\206\146\061\246\172\229\129\104\210\223\215\237\226\235\029\165\009\039\096\196\078\200\239\050\236\081\179\049\075\148\252\010\083\221\131\091\091\052\142\236\110\138\254\064\136\015\053\073\195\195\126\114\201\021\046\252\184\059\253\236\097\129\233\031\087\207\116\052\074\238\226\219\214\027\032\145\199\028\113\191\105\026\248\214\081\187\172\071\221\148\231\024\075\228\217\085\052\208\058\221\065\245\119\066\075\196\128\074\100\064\003\013\061\005\105\231\154\051\051\191\191\003\126\228\111\000\180\033\123\101\011\197\008\066\197\131\242\159\190\238\233\123\169\218\229\153\011\138\039\168\086\189\007\013\238\214\085\051\094\078\224\163\076\170\213\152\163\212\006\211\082\081\003\250\005\116\230\240\091\092\011\203\100\155\177\179\128\121\251\027\216\007\220\178\173\235\141\099\078\017\101\211\205\028\095\036\138\151\087\177\133\128\074\189\026\117\144\002\224\148\193\127\078\146\061\003\035\148\072\033\058\112\167\098\098\065\227\101\202\243\178\111\230\241\116\137\025\124\040\012\097\055\105\105\095\206\026\194\178\024\031\065\143\097\107\009\065\062\232\221\133\144\056\220\110\060\147\070\076\226\063\123\073\223\167\189\199\211\197\112\035\114\032\123\250\167\172\107\076\041\003\070\254\159\037\185\072\040\080\140\140\142\158\155\009\236\236\008\216\185\030\231\146\206\094\018\194\190\245\092\148\147\023\207\214\063\005\113\216\122\019\224\102\119\003\038\240\057\045\160\094\167\185\174\032\110\017\178\055\073\088\155\173\218\053\132\132\163\033\233\005\093\138\200\091\024\224\051\043\212\024\025\004\124\046\206\165\211\089\029\104\211\105\134\184\175\250\246\181\210\042\241\248\037\036\147\213\249\016\172\215\089\006\131\041\187\055\245\042\045\199\037\181\055\046\015\061\237\001\209\121\174\002\158\043\066\145\245\048\153\097\065\128\118\102\008\082\054\141\244\203\180\221\139\180\253\103\096\216\252\224\222\015\203\028\120\173\036\194\058\214\158\103\163\160\239\058\206\246\103\037\124\217\029\150\140\133\202\135\170\223\195\247\062\020\000\106\092\022\185\122\205\086\034\211\112\060\153\058\212\140\030\056\061\159\015\023\123\107\198\048\188\136\192\247\197\102\036\020\137\182\109\214\109\097\023\177\233\014\004\166\019\134\032\220\077\015\112\126\118\209\068\229\111\255\024\029\071\148\163\167\110\094\086\023\021\031\123\126\101\022\109\041\094\254\232\153\222\074\086\251\232\130\210\139\207\188\032\103\046\154\228\131\096\042\152\047\122\020\192\147\070\189\034\194\108\108\194\195\200\210\132\160\159\212\074\145\135\236\082\200\236\251\168\102\161\216\161\129\070\010\221\133\105\073\236\252\211\156\097\187\057\228\063\214\191\018\072\230\098\000\043\230\154\073\116\236\060\007\175\223\037\057\205\169\064\034\108\162\151\220\081\210\153\230\249\050\006\217\098\187\215\232\188\100\209\039\056\031\024\034\137\026\025\195\156\220\014\163\122\107\128\075\017\122\215\016\178\248\142\038\059\054\047\089\214\110\077\185\197\006\004\132\129\078\156\040\049\021\166\015\245\243\049\120\011\077\255\024\046\112\213\240\145\250\131\054\177\238\245\230\009\125\035\229\116\206\041\095\192\175\216\190\197\254\226\175\205\113\190\135\086\119\248\058\216\096\192\141\213\223\165\056\065\118\121\181\047\253\209\152\173\022\092\099\085\036\182\098\011\052\173\229\056\118\197\230\226\075\219\247\193\010\046\164\006\212\122\029\158\093\073\252\065\033\141\010\219\227\031\180\021\246\045\094\201\152\150\237\197\109\077\232\024\005\090\127\063\108\106\133\244\248\240\235\218\209\054\229\233\001\198\041\162\126\068\050\090\195\166\204\045\168\192\173\008\229\068\123\027\191\155\219\013\048\081\050\004\009\043\021\018\055\087\131\211\006\089\063\068\084\194\042\066\220\140\114\234\241\087\054\102\027\182\034\121\044\217\178\044\041\140\201\003\193\184\242\245\063\060\154\165\153\033\162\205\208\090\034\047\061\157\255\209\254\234\075\110\098\237\193\087\236\138\141\121\222\255\161\088\017\103\180\042\063\036\229\236\168\165\068\189\187\240\110\101\228\100\174\155\068\213\146\065\168\079\100\004\097\250\158\047\190\145\190\133\102\103\130\233\222\219\167\075\034\015\247\100\147\220\037\056\046\146\244\051\102\113\223\054\247\009\175\165\008\040\118\045\199\205\131\255\088\051\042\172\223\112\146\205\206\009\108\213\140\032\202\182\160\210\016\170\219\123\217\247\080\004\200\255\077\209\038\053\095\182\094\225\035\061\036\148\000\201\250\160\048\074\040\179\175\119\067\194\117\163\140\022\127\098\064\034\199\133\036\219\215\192\143\184\058\011\230\097\142\045\244\037\008\018\056\218\238\231\047\054\223\218\251\064\113\222\246\163\070\018\171\241\231\065\002\107\243\070\004\248\210\243\008\196\002\143\204\176\184\003\055\168\124\195\050\135\011\205\019\191\193\176\235\067\182\067\124\153\069\037\084\196\127\174\064\221\064\037\207\039\165\004\174\036\217\249\222\242\255\122\240\125\245\169\000\035\157\093\042\185\102\062\112\017\193\053\074\107\227\158\120\114\120\246\122\158\008\020\017\152\134\251\093\055\101\199\211\108\237\066\187\014\057\143\142\027\120\201\146\142\232\065\112\078\149\233\160\051\223\157\203\173\123\177\022\121\124\201\167\118\190\106\133\137\044\234\010\086\015\069\231\020\209\240\109\235\173\005\024\251\067\120\182\007\027\185\233\161\138\019\247\131\025\018\176\135\201\028\078\248\036\038\013\097\200\032\236\085\083\239\114\024\096\212\115\217\196\100\110\036\208\002\131\140\255\079\025\030\073\062\176\140\117\110\225\148\251\053\080\017\071\046\107\007\164\252\094\141\239\228\075\239\240\204\202\212\124\202\196\154\188\219\163\097\098\065\248\148\169\229\001\193\110\144\029\196\011\220\046\074\157\192\096\149\033\090\249\066\081\172\063\071\168\137\060\129\180\215\131\211\166\084\090\179\023\132\013\115\182\244\119\254\161\021\254\041\116\036\116\041\067\163\027\080\202\119\048\212\089\058\167\015\253\073\004\061\022\144\022\044\073\238\097\215\025\123\238\001\233\023\106\237\251\061\122\067\163\184\104\030\013\219\046\021\169\013\056\109\085\242\195\042\085\206\135\171\231\136\138\117\049\127\174\246\043\181\107\232\168\002\074\136\201\181\189\018\176\239\022\197\207\029\155\030\033\212\049\101\040\214\168\005\121\251\228\213\074\021\026\157\152\255\232\136\181\234\066\186\192\227\118\089\084\020\242\133\107\046\071\107\051\129\174\193\106\249\240\040\146\105\214\162\011\159\143\175\023\065\174\133\021\213\030\222\020\236\018\222\181\063\227\098\211\146\088\080\090\153\050\144\132\065\253\249\191\127\195\070\139\193\140\164\052\156\165\169\243\094\023\254\251\046\167\213\074\160\000\186\075\033\054\223\172\112\083\207\065\250\033\075\188\182\185\202\170\130\226\227\193\017\144\246\037\207\024\183\129\120\188\084\197\127\067\079\018\091\073\223\215\221\234\055\009\182\213\219\255\046\066\167\099\056\163\102\238\116\123\132\154\027\058\053\118\164\173\233\084\229\101\209\026\090\109\233\250\168\006\205\034\054\017\233\058\041\233\212\134\013\204\130\106\030\043\238\105\248\069\079\187\237\044\011\116\018\128\094\099\235\162\106\046\146\055\010\143\090\026\129\065\206\162\045\190\041\009\163\104\201\145\115\139\022\220\013\095\174\235\000\234\058\011\148\031\218\098\000\221\064\003\168\008\118\238\099\217\089\197\014\096\212\134\042\163\124\154\176\044\216\009\025\010\162\056\067\148\157\219\047\020\180\220\097\215\208\091\102\119\018\153\176\238\051\222\063\214\085\242\203\228\051\144\243\135\005\001\114\063\121\000\175\106\016\018\178\250\089\213\067\116\066\211\077\222\099\079\056\092\236\128\060\205\249\014\203\165\013\087\208\108\255\015\037\181\182\065\159\224\190\142\238\042\087\213\144\065\205\203\100\163\067\171\144\166\247\209\167\197\194\199\020\050\017\234\100\011\146\213\237\116\055\184\179\031\160\235\051\186\049\230\229\148\043\223\152\124\156\192\088\031\233\194\241\217\193\017\137\057\178\220\178\163\223\233\074\068\149\194\102\135\144\063\073\221\005\220\155\198\075\223\130\179\048\092\212\093\237\002\178\017\078\040\096\128\190\210\074\026\170\235\205\066\141\223\108\254\144\107\152\149\246\243\038\159\240\098\190\074\069\178\066\236\185\183\161\033\086\123\114\091\075\021\121\082\137\127\186\039\216\104\235\241\239\158\242\242\158\228\021\032\225\071\064\027\186\238\210\130\241\161\001\013\153\103\124\083\020\177\163\210\097\230\086\107\056\230\135\062\122\255\094\191\080\021\076\103\212\179\190\131\011\162\081\145\048\114\214\217\016\044\098\028\082\196\044\227\003\141\066\087\011\162\096\120\047\040\204\219\046\095\244\100\069\202\090\191\078\235\065\216\215\109\146\065\200\158\236\119\107\224\105\061\047\221\168\033\030\124\002\077\153\233\242\076\250\049\189\029\183\038\084\253\149\191\119\014\161\022\239\048\109\109\099\014\162\173\236\182\146\099\033\228\198\212\076\081\065\236\096\074\247\013\016\097\215\141\039\034\178\193\018\133\028\155\094\129\220\211\120\163\064\160\121\252\167\076\079\076\235\045\081\232\094\041\155\097\179\194\254\112\096\142\062\211\239\180\078\100\146\194\070\057\167\126\248\040\164\148\246\091\160\197\052\242\176\087\017\098\073\160\057\247\125\233\171\010\016\048\126\090\178\235\205\246\054\107\201\114\090\152\029\038\186\235\062\176\228\255\191\114\102\160\052\249\025\098\124\027\027\044\164\030\010\194\146\192\115\040\210\253\234\197\036\022\070\052\213\206\014\015\019\148\096\019\061\213\231\231\029\221\174\138\227\221\161\220\061\071\172\131\113\175\137\225\236\081\217\007\139\130\034\038\005\189\145\005\094\150\160\083\149\235\072\029\090\077\049\208\199\020\069\159\067\012\112\044\196\107\074\143\165\063\165\004\214\075\089\154\186\063\057\054\071\069\053\149\254\173\172\002\059\240\246\074\053\188\070\127\146\233\088\067\237\058\101\230\134\151\138",
-        "\183\194\066\070\178\024\028\156\242\243\246\112\054\236\055\008\094\135\209\100\140\074\066\007\236\239\177\013\002\118\140\116\193\139\158\056\010\127\073\243\000\104\234\240\129\061\092\159\081\006\095\162\147\239\068\172\204\006\139\104\184\206\201\023\137\219\066\150\152\174\059\215\238\050\195\220\075\226\159\113\217\099\050\129\184\051\056\211\253\059\020\194\212\255\188\003\170\075\120\137\072\162\047\129\209\243\195\187\227\252\033\070\019\175\076\075\151\077\085\046\118\132\189\031\084\091\106\152\100\207\132\110\018\151\228\083\214\102\178\237\100\091\165\246\157\213\244\014\132\174\211\137\107\058\017\246\100\150\048\119\236\177\224\026\242\086\240\124\111\241\074\234\155\231\144\128\167\067\186\176\154\247\041\129\049\022\122\233\241\131\190\112\123\131\219\167\042\143\235\083\178\006\166\068\243\129\193\226\114\021\134\213\016\234\084\001\048\113\083\104\160\079\129\222\179\120\109\181\182\147\007\145\254\226\139\083\049\101\140\071\049\136\178\232\016\012\095\107\119\039\010\240\048\210\027\185\144\051\009\230\245\111\206\207\082\240\057\181\078\080\218\227\161\098\131\136\012\200\086\065\108\135\033\040\020\073\205\099\254\144\177\185\125\023\200\012\249\247\005\217\194\192\006\030\247\003\052\172\024\037\219\238\102\152\099\103\124\007\169\189\096\026\022\063\125\139\247\024\043\056\211\132\249\087\119\145\151\136\207\012\058\144\075\197\213\225\182\035\017\054\234\230\041\110\239\177\187\160\228\242\039\221\144\231\032\046\165\149\059\191\174\209\048\226\070\101\064\039\017\224\107\142\103\210\179\086\165\173\028\081\057\065\216\217\186\083\236\044\032\136\093\153\253\178\144\139\062\103\149\001\177\213\019\102\226\020\156\022\053\146\078\201\060\146\089\218\228\132\132\074\155\018\188\020\222\174\249\224\143\047\216\136\197\050\224\074\175\081\023\109\182\211\206\185\210\240\164\034\005\230\050\072\139\056\110\231\108\071\151\029\102\110\233\211\069\165\138\089\228\059\056\037\068\116\104\205\067\115\074\216\112\250\090\198\033\207\053\214\049\114\128\150\070\232\243\234\169\034\235\135\026\045\082\024\101\056\128\140\120\049\253\172\125\147\186\007\173\084\131\180\091\251\036\244\140\213\158\204\002\080\177\093\226\244\249\122\195\043\138\142\026\013\167\101\218\248\220\029\157\098\106\036\133\176\249\061\193\127\102\050\069\170\020\100\245\171\116\081\036\006\191\206\008\168\219\090\091\231\249\171\011\049\232\144\138\067\208\012\228\219\242\248\073\010\189\243\020\123\045\087\104\252\085\139\131\117\030\106\033\103\079\130\140\089\026\062\195\186\245\001\138\028\107\125\152\030\184\214\000\247\173\145\110\170\005\183\170\240\064\041\020\045\083\246\061\107\042\135\140\111\166\004\228\245\210\240\137\243\025\241\128\030\040\186\057\053\193\003\124\116\244\210\018\217\101\099\109\160\095\037\183\099\186\209\109\100\117\189\243\243\056\079\175\223\088\127\143\041\161\168\198\103\023\081\204\225\249\052\106\190\047\253\202\015\180\087\136\069\090\088\120\197\098\217\187\083\091\074\095\043\059\078\122\188\046\026\064\150\020\040\184\005\097\115\147\182\220\082\168\244\205\222\218\137\216\020\203\022\101\240\224\196\213\032\219\188\097\065\169\015\243\230\169\037\139\118\063\199\214\034\016\022\079\162\093\073\099\220\150\155\013\064\041\095\200\124\038\203\231\164\142\139\226\152\021\253\021\061\160\037\197\099\254\198\140\215\214\130\155\234\028\063\179\111\233\244\144\242\048\015\020\080\082\010\028\066\240\160\177\118\019\167\237\227\039\013\244\119\058\080\042\242\143\230\216\119\142\120\179\057\209\207\001\181\201\025\033\063\058\226\014\055\151\087\039\171\234\187\131\190\069\168\154\069\034\032\158\241\212\126\217\232\196\205\199\126\232\118\195\236\185\074\170\037\165\168\068\179\231\093\152\160\147\210\112\011\197\132\000\218\044\196\201\216\157\236\203\139\236\010\159\032\106\019\063\016\063\001\177\161\028\203\136\221\057\020\023\132\091\169\252\173\136\015\150\077\233\036\048\067\029\128\086\097\178\148\017\060\223\046\016\200\068\126\222\119\223\207\079\067\250\010\027\089\041\049\024\152\172\219\169\183\161\081\029\219\125\011\102\067\253\236\092\130\073\124\141\010\069\031\225\077\245\190\228\086\226\025\079\136\068\183\026\088\065\207\035\193\148\154\017\155\110\136\066\248\197\094\237\177\218\133\214\212\254\067\053\043\194\126\102\019\130\074\206\195\101\139\228\061\042\215\237\102\221\006\137\164\053\009\007\003\155\034\153\190\176\166\017\191\169\039\199\117\139\229\232\007\146\161\085\143\169\172\163\219\171\100\139\102\182\124\112\188\076\018\147\003\133\146\042\223\055\212\021\253\029\189\097\133\156\243\240\212\014\130\183\031\236\093\054\011\131\068\167\209\065\221\037\058\063\208\155\175\231\015\045\017\113\213\167\112\103\118\231\186\178\192\168\086\255\005\160\143\081\120\251\009\139\203\118\147\204\210\181\133\044\159\158\088\204\105\142\242\139\085\082\243\092\234\236\078\168\090\175\130\161\247\148\044\075\137\209\219\146\225\027\197\230\219\136\017\076\194\030\235\001\118\108\033\066\211\057\240\138\098\129\145\130\153\196\229\054\177\015\015\210\103\034\141\053\128\044\086\246\141\219\192\225\154\091\079\009\000\137\089\056\121\079\047\048\105\216\242\227\123\172\148\221\254\131\085\231\053\226\096\096\211\072\232\085\026\112\010\242\243\080\197\218\110\233\016\178\226\234\208\084\080\045\033\069\158\211\197\012\127\092\148\253\070\156\083\054\228\045\016\094\019\078\086\143\149\063\098\189\248\196\036\169\016\107\083\096\220\096\040\058\064\237\064\178\027\236\255\008\147\255\066\054\060\176\099\064\133\013\166\099\254\126\088\125\029\094\241\077\164\056\190\065\213\056\206\007\024\235\088\156\255\187\164\029\235\076\206\015\093\027\026\230\017\078\127\146\024\111\059\139\042\238\195\235\074\175\116\215\199\098\033\011\103\130\163\035\113\205\022\253\160\053\150\218\167\065\093\150\235\207\077\099\094\030\159\031\194\200\116\083\132\001\076\220\170\015\114\155\110\037\169\245\038\155\195\052\082\166\168\191\080\098\230\237\025\004\152\094\012\038\013\150\074\248\249\133\217\071\204\133\100\000\164\175\157\213\192\016\107\151\087\081\101\095\114\033\128\177\123\166\218\092\216\017\059\202\139\059\101\151\102\165\049\062\062\104\153\166\052\131\208\220\179\122\149\146\120\135\036\127\220\254\231\180\027\001\039\114\216\137\165\167\177\192\221\116\164\125\198\173\028\071\174\188\144\075\049\206\252\144\217\117\032\114\239\218\210\212\128\074\149\252\243\126\152\203\022\118\245\050\176\211\132\181\008\174\237\194\217\200\039\246\068\030\003\176\027\157\135\139\062\009\160\186\234\218\129\164\110\223\170\002\132\129\215\167\120\119\079\140\200\193\202\015\187\102\162\016\130\194\181\187\145\211\160\047\224\139\066\094\028\146\220\243\017\142\201\022\180\161\074\017\104\152\052\109\010\020\017\163\040\131\067\106\170\030\179\168\023\038\225\125\241\088\165\238\249\113\048\241\064\032\009\080\197\205\071\077\113\237\072\211\094\148\214\162\017\007\088\135\196\172\047\089\084\115\066\161\152\205\214\148\005\112\150\094\238\002\179\165\132\150\074\120\010\037\137\191\164\139\070\168\197\158\108\023\168\098\221\137\232\117\182\101\049\202\070\106\149\033\220\115\222\048\047\125\136\095\225\198\084\040\232\212\201\232\136\250\213\145\115\211\028\080\114\107\191\235\119\016\010\153\198\060\179\104\053\066\200\238\184\073\099\062\140\150\196\079\029\063\129\151\042\049\155\171\030\066\140\071\199\053\195\215\081\115\133\099\154\131\242\169\148\133\246\156\194\109\147\217\086\047\128\238\214\228\230\156\246\167\205\226\118\061\128\211\060\238\037\214\043\170\065\043\244\082\157\044\085\087\069\027\073\176\196\061\014\193\157\245\037\127\114\230\083\091\215\180\196\186\197\207\213\175\230\003\085\240\135\247\228\167\107\044\018\216\187\096\183\061\159\139\239\063\022\178\220\143\238\209\119\194\255\152\004\012\113\062\059\127\085\099\042\115\145\187\080\108\144\124\026\075\108\115\225\075\062\001\075\236\185\141\159\076\055\108\188\017\205\240\202\168\161\145\056\215\228\067\228\069\000\144\024\143\121\004\224\213\043\148\019\187\200\073\155\036\176\079\004\147\170\076\057\016\155\024\238\182\104\002\037\085\224\161\028\003\247\055\231\034\171\120\241\014\060\148\163\086\117\142\119\189\204\129\244\134\064\076\254\026\170\045\112\246\243\131\211\010\089\255\201\101\206\164\238\035\074\047\087\087\063\106\001\177\035\151\191\037\054\025\208\112\060\076\060\043\111\178\129\133\169\091\011\023\212\090\164\183\007\124\152\132\166\217\188\069\028\041\097\142\200\214\095\038\032\045\045\094\119\116\199\126\168\225\017\180\025\245\176\191\056\172\239\174\196\151\177\094\131\025\198\068\233\141\183\233\208\168\004\006\177\106\082\175\253\174\199\137\249\137\164\186\097\203\044\210\080\224\216\019\238\045\220\047\088\070\063\118\168\117\150\082\024\014\016\079\094\121\183\191\101\007\120\141\133\070\045\234\087\110\058\116\018\211\078\142\255\164\202\251\211\183\129\064\178\086\209\097\133\003\124\211\108\036\151\025\029\211\181\071\015\253\068\186\062\192\069\216\240\022\153\013\036\010\229\023\206\016\244\067\009\052\059\250\179\135\018\246\059\172\007\106\093\001\144\029\092\127\146\027\101\131\098\210\013\250\019\042\203\057\119\240\178\185\033\097\106\231\094\002\227\051\170\148\203\232\225\165\043\020\253\253\186\147\151\040\073\007\212\216\101\208\201\083\126\221\171\182\220\177\209\050\099\169\049\246\005\160\094\203\116\211\106\174\212\066\211\067\212\119\007\072\207\220\078\010\151\014\234\201\020\243\012\070\127\041\222\216\000\236\165\252\247\238\214\253\031\010\094\133\131\148\066\188\015\194\136\180\049\069\155\141\086\093\201\052\205\115\222\095\077\108\085\016\180\182\191\019\033\177\188\078\051\023\033\251\231\169\098\114\164\118\228\209\102\025\078\033\032\075\205\004\235\082\136\239\180\221\153\211\108\175\228\201\106\187\210\235\107\056\075\222\028\014\128\131\166\246\056\026\219\041\182\007\155\112\138\067\079\174\247\140\096\181\240\241\212\093\224\236\098\200\080\103\193\046\015\199\181\042\077\100\054\154\047\241\086\036\186\094\046\117\232\142\050\028\181\224\021\182\195\173\210\142\012\075\245\246\037\092\211\075\046\187\023\057\144\034\023\185\180\161\148\133\003\213\113\185\117\132\140\150\114\199\149\006\069\195\067\032\184\040\222\044\233\005\206\255\109\235\146\072\103\228\137\141\202\102\174\029\056\177\031\215\209\225\095\122\000\040\105\177\049\162\010\139\155\048\097\033\237\031\043\004\000\186\245\004\232\061\069\082\018\140\226\178\252\079\099\096\007\065\173\025\163\015\236\049\183\068\078\041\165\085\029\083\234\088\129\182\032\151\037\090\104\063\173\026\111\179\114\166\125\021\147\118\201\126\006\202\230\139\172\004\001\225\177\241\251\027\209\170\031\160\229\090\197\207\064\024\122\131\212\237\060\112\065\089\063\211\175\163\176\048\046\072\224\219\094\109\063\187\201\170\026\251\229\186\206\038\024\252\003\253\124\034\255\168\180\092\149\016\105\149\047\194\077\251\015\008\046\105\114\023\224\240\234\084\145\112\238\101\109\093\125\238\218\127\202\121\237\008\190\074\002\254\083\019\248\244\142\247\161\007\003\228\031\220\245\246\023\046\131\158\017\131\247\004\029\218\166\017\058\235\104\236\139\247\214\099\117\046\243\093\240\170\040\106\159\199\251\126\211\014\249\139\013\088\204\075\152\217\080\035\143\005\050\178\126\009\075\150\178\241\150\021\070\064\036\022\115\231\076\141\104\099\010\086\171\125\109\102\020\048\066\062\149\138\004\003\169\216\211\087\149\093\202\193\207\166\197\072\138\084\126\055\061\249\161\060\242\093\140\195\239\130\014\019\104\005\246\082\115\098\247\190\249\249\134\234\070\137\254\243\191\065\045\088\113\216\049\221\051\175\134\076\062\236\154\188\198\175\167\127\128\155\098\207\241\130\055\229\062\058\073\045\020\133\138\148\025\017\010\018\239\209\174\233\073\053\121\106\038\061\175\208\246\139\128\070\129\154\233\024\008\021\114\135\247\035\015\084\103\128\061\228\230\043\014\186\184\214\119\148\060\136\098\001\186\060\161\155\253\169\094\119\091\026\069\143\241\141\047\195\066\160\002\210\203\089\150\188\202\111\040\149\064\116\222\114\006\187\154\162\086\033\251\107\202\208\224\219\235\057\043\006\086\139\180\096\198\124\139\022\071\030\072\245\135\192\251\098\044\058\212\042\228\035\036\130\224\232\081\092\179\210\168\119\180\093\250\171\054\107\115\084\005\186\155\243\253\146\174\239\129\061\170\052\006\009\174\187\249\043\203\067\077\039\022\040\076\177\007\078\131\159\142\103\202\087\078\116\130\125\076\050\100\159\127\243\139\158\199\166\183\027\085\139\177\231\137\135\173\084\146\227\028\179\240\196\171\069\206\111\173\249\161\069\210\194\054\109\151\136\133\075\225\178\077\207\042\089\168\242\063\229\136\006\226\253\122\191\245\023\228\153\131\087\251\116\011\229\071\134\109\022\182\156\226\147\194\220\166\146\036\030\101\223\169\200\029\040\221\086\145\040\208\011\112\103\140\119\148\151\189\194\223\046\201\058\066\241\150\155\212\176\132\185\029\223\212\120\071\011\100\010\094\042\117\192\199\216\060\141\108\075\131\213\005\253\128\019\052\218\135\190\106\178\178\185\242\230\128\249\187\211\101\207\130\049\081\100\247\156\234\252\080\192\033\051\017\087\100\157\009\184\192\163\065\245\123\058\115\047\027\163\085\132\158\116\185\233\142\184\046\104\165\063\143\054\093\065\132\202\122\128\129\095\178\098\004\123\164\251\059\089\202\009\099\001\040\145\180\059\234\242\156\188\058\184\233\175\007\221\107\240\007\080\250\148\226\255\147\137\100\165\177\023\060\023\228\190\101\131\088\238\152\197\190\130\013\239\182\044\253\151\106\171\198\251\240\098\217\175\202\028\141\005\060\188\153\232\052\245\145\108\192\092\120\228\041\100\115\195\176\228\234\106\068\054\132\028\097\158\204\140\212\148\103\076\173\233\006\100\056\009\235\082\143\178\165\030\176\139\228\150\010\183\193\187\201\063\161\144\225\040\048\103\091\069\193\204\204\059\018\048\130\097\251\095\060\057\039\163\071\172\044\125\172\010\161\027\160\050\195\139\145\139\163\082\009\225\241\079\023\245\218\004\009\012\137\207\056\227\235\021\209\149\219\171\063\099\063\097\231\179\190\248\160\250\145\167\055\155\030\227\032\051\193\206\060\015\174\002\227\248\132\144\084\074\156\245\168\126\188\087\208\062\253\249\089\027\075\140\083\181\253\184\217\002\229\147\134\037\010\025\222\041\178\224\162\221\174\252\038\063\031\205\211\068\088\158\250\182\046\247\063\056\043\252\108\002\134\007\252\250\025\204\029\016\012\235\229\206\017\221\202\233\008\110\044\170\067\173\088\056\163\187\236\072\081\249\171\147\208\116\218\147\115\169\011\186\156\193\133\234\049\145\174\078\095\199\108\162\250\180\197\081\218\180\157\006\103\094\152\130\176\026\083\073\107\017\236\172\098\121\047\081\064\108\134\004\156\037\182\183\174\126\137\062\111\004\232\073\029\197\040\209\230\076\062\004\223\050\049\122\014\117\031\196\174\140\067\037\042\241\233\120\223\225\253\053\101\015\137\213\004\171\240\189\049\038\187\245\007\023\006\164\202\184\176\056\118\171\128\240\117\233\056\098\098\232\147\156\122\170\202\088\184\175\092\197\007\129\119\181\247\096\006\108\038\197\218\135\185\026\043\239\032\167\139\012\114\142\113\057\249\155\225\193\222\093\093\166\042\098\185\111\001\173\011\025\189\004\248\100\245\214\197\210\229\049\143\132\233\220\028\112\213\225\240\164\003\053\207\012\148\022\067\212\031\133\231\071\168\095\037\175\096\112\028\197\003\253\177\221\096\206\240\166\144\059\130\157\118\113\090\015\020\061\250\106\163\106\057\111\177\099\226\162\207\199\222\100\107\240\169\069\207\176\078\100\059\255\199\158\254\196\144\114\103\000\215\098\206\022\050\240\134\145\170\154\226\001\010\059\239\179\095\191\119\192\192\074\145\199\053\141\219\119\110\162\126\168\102\031\035\145\047\020\132\201\169\143\043\031\237\048\015\118\086\246\015\235\154\224\049\152\124\088\010\121\216\248\075\058\204\127\150\056\145\123\065\116\247\186\152\240\127\176\060\165\134\174\088\090\150\221\142\227\158\071\042\193\235\085\037\022\231\060\185\012\052\239\135\085\203\046\216\094\073\184\236\032\157\149\109\188\177\229\112\243\097\046\029\203\227\032\211\073\009\202\090\209\024\253\235\241\197\137\120\136\052\214\092\217\246\176\230\083\201\031\024\011\137\230\133\052\209\150\118\209\015\136\201\092\199\210\051\176\037\199\220\045\101\068\182\105\064\207\044\078\038\069\197\112\035\236\252\003\133\228\055\248\005\119\098\127\248\204\203\206\161\207\250\032\170\147\009\117\128\243\082\147\199\029\166\011\162\033\195\067\061\054\152\043\193\233\138\076\225\229\009\022\148\086\120\006\087\165\063\153\245\056\018\078\137\040\078\090\250\045\093\151\047\209\137\217\224\071\238\045\212\040\064\067\011\172\171\057\177\139\156\038\013\118\094\230\252",
-        "\075\001\083\220\137\086\246\005\095\239\085\047\122\250\165\226\005\204\153\133\023\100\163\170\104\191\046\153\144\098\054\211\227\150\101\074\046\111\075\093\084\153\051\003\023\254\086\232\206\046\218\149\028\214\025\094\225\090\137\201\100\196\231\255\193\104\233\096\017\006\064\154\055\093\005\061\242\042\027\009\126\032\166\134\057\187\204\071\221\068\128\025\168\154\198\133\047\198\234\184\127\051\010\080\233\114\073\130\072\150\064\127\074\080\135\065\162\168\118\059\197\035\184\057\131\249\028\223\155\141\242\171\030\075\193\007\031\028\216\153\070\083\178\085\120\170\253\206\119\085\071\204\249\181\109\248\171\079\174\107\101\033\105\034\179\240\007\213\056\247\223\140\024\041\220\068\080\250\038\019\234\013\071\040\188\212\023\046\239\081\230\236\104\063\218\206\175\173\025\015\125\134\180\181\130\032\229\079\202\068\248\158\181\032\172\105\250\078\192\146\062\247\017\143\012\139\237\255\098\146\016\004\190\105\101\172\129\246\215\002\086\120\092\055\107\025\044\181\134\149\058\210\035\209\150\126\186\030\021\079\190\254\190\112\246\017\068\059\019\243\051\184\110\247\087\241\024\047\107\051\146\088\000\005\129\075\077\047\251\206\125\188\061\039\218\134\223\057\109\009\109\172\229\068\160\027\101\160\194\099\225\117\069\238\120\190\182\160\012\243\227\229\008\036\100\242\086\174\124\038\014\079\102\148\067\093\161\123\134\201\096\187\025\232\047\212\236\163\001\202\209\194\185\123\179\170\027\167\199\017\169\050\185\148\198\152\247\011\084\026\177\233\172\189\097\061\243\037\106\047\220\168\192\195\222\162\174\158\008\028\238\105\160\038\060\238\016\076\189\056\022\038\071\190\192\137\093\152\112\124\163\105\092\118\103\031\004\066\206\124\092\002\157\083\089\191\087\043\114\009\029\042\035\183\161\146\255\062\029\192\197\023\153\040\131\155\024\122\184\086\166\235\017\194\125\080\199\109\049\185\196\169\003\041\102\105\012\046\171\159\060\164\072\179\083\045\188\190\172\196\051\126\143\173\185\036\169\035\006\179\188\140\205\118\237\145\118\213\113\125\039\039\053\091\072\043\063\144\133\050\181\006\048\114\006\081\180\097\148\040\185\164\173\039\201\173\085\231\057\225\210\156\117\060\043\186\229\204\189\148\106\017\125\008\111\227\249\228\077\087\151\134\199\222\199\112\017\074\060\017\105\130\109\020\235\055\255\234\193\239\024\130\125\172\013\048\231\058\130\162\188\035\091\173\147\104\078\220\031\020\094\003\055\158\235\172\177\245\009\241\158\133\053\210\009\199\200\125\060\115\067\088\030\218\243\147\062\221\070\033\148\057\242\120\209\084\156\044\188\037\163\122\232\138\039\198\246\125\191\023\198\064\169\245\250\210\164\096\086\183\112\101\237\113\213\087\002\247\041\106\067\099\196\254\202\024\244\238\011\189\141\013\237\092\070\143\048\159\012\118\254\028\237\231\194\088\094\179\241\191\061\149\058\095\209\231\192\059\128\110\212\252\181\194\143\071\226\077\178\053\229\222\072\096\084\004\209\047\213\099\100\047\082\252\182\049\223\166\072\000\176\047\215\028\186\198\235\150\238\231\039\021\056\149\247\167\032\136\033\058\130\164\208\062\025\186\116\101\158\171\125\165\161\058\004\224\225\225\195\022\013\168\160\229\049\165\046\201\028\160\216\107\009\092\136\019\079\148\126\095\240\051\186\055\034\056\082\089\047\177\020\051\082\072\124\075\212\059\116\141\008\043\019\003\028\241\058\127\122\197\093\175\023\046\232\084\190\104\044\019\223\003\180\016\159\239\029\005\255\026\205\214\213\174\006\174\123\025\194\073\065\000\067\234\235\221\101\026\113\253\212\072\120\001\232\224\135\071\134\040\188\044\057\106\170\133\239\007\077\213\032\073\018\186\055\082\151\054\216\009\016\149\201\153\113\245\022\241\112\156\120\045\063\155\210\055\050\146\106\164\152\188\254\111\206\114\068\021\170\097\127\202\244\171\039\078\238\074\185\187\153\046\120\132\103\057\075\001\211\092\196\137\150\239\231\129\201\026\003\226\181\055\031\154\200\165\227\005\140\046\131\024\219\216\018\147\004\197\017\043\146\011\064\239\158\124\174\235\115\207\199\102\184\173\138\001\103\112\056\037\069\089\223\233\177\173\027\126\185\217\214\059\020\240\075\037\146\138\100\014\184\050\116\138\183\081\126\250\062\205\073\254\059\003\134\246\186\111\030\184\070\065\182\124\054\148\013\056\242\050\054\102\036\227\025\198\135\212\029\062\049\216\036\001\219\209\082\192\114\109\110\150\042\015\088\195\182\060\141\043\120\046\053\110\140\205\043\179\093\199\082\126\104\127\152\021\179\169\063\148\115\244\146\027\134\089\033\225\162\246\041\233\193\052\188\104\130\171\126\125\057\077\133\186\236\016\076\116\154\070\102\094\171\185\070\101\069\118\114\225\202\196\013\119\173\238\212\187\034\219\054\230\097\231\224\108\081\253\194\162\117\010\063\208\196\201\134\231\095\035\019\128\124\206\233\207\193\141\048\161\036\189\154\076\228\100\123\039\229\039\032\123\184\205\019\138\067\149\121\210\172\209\092\252\236\210\222\003\233\253\229\164\010\219\199\174\191\076\240\050\172\061\253\068\018\241\124\128\254\075\230\008\156\082\027\185\034\218\004\166\116\104\218\085\029\213\075\157\076\125\068\144\195\119\053\092\041\175\142\096\187\255\150\186\066\209\074\150\095\058\096\253\057\183\082\052\107\065\228\038\220\164\248\091\101\057\201\176\137\060\220\073\234\218\236\080\038\078\238\061\105\105\128\048\019\081\214\131\059\157\242\106\186\093\179\098\239\000\179\022\254\083\214\080\151\097\093\233\170\096\128\012\192\117\156\250\175\076\086\236\242\234\097\059\083\069\240\175\222\154\223\223\195\023\032\143\250\188\135\154\166\097\003\121\048\191\230\237\192\017\010\084\247\050\033\060\172\063\083\002\189\177\104\101\176\248\108\028\215\125\206\030\121\242\123\129\243\064\077\206\185\069\107\158\201\121\170\004\203\108\196\139\199\176\074\180\075\098\219\065\020\122\032\045\130\251\229\159\137\071\032\037\163\089\239\031\046\230\044\216\007\034\160\156\066\136\066\091\232\160\208\130\059\016\105\154\040\014\000\085\134\138\203\193\027\145\238\122\248\103\152\213\019\168\016\040\152\115\025\005\217\028\128\080\135\226\054\076\231\110\099\133\065\035\251\131\232\254\044\211\152\210\208\053\035\014\155\240\025\182\177\253\164\023\232\067\066\029\109\093\118\228\003\066\110\138\022\146\021\255\121\160\064\103\027\220\231\213\125\044\089\231\220\186\114\211\153\131\095\172\006\174\133\060\076\187\189\077\153\156\015\186\103\251\209\105\225\001\138\226\006\032\092\119\089\089\196\181\001\031\173\162\086\177\160\026\042\014\053\136\109\002\167\201\002\171\060\240\001\134\069\114\002\116\180\115\146\041\079\059\026\179\100\079\091\151\052\232\133\173\203\014\177\205\148\106\249\038\104\243\112\020\183\126\057\112\106\102\080\031\158\137\189\124\088\251\241\163\012\106\226\013\152\087\101\209\144\112\008\187\246\139\070\234\037\018\212\048\132\036\208\034\100\066\214\054\000\111\171\111\020\145\106\080\241\054\113\206\082\181\103\079\042\188\139\156\163\199\116\218\140\040\247\018\254\126\041\230\235\221\185\172\182\211\122\255\214\246\192\190\145\000\140\164\144\056\074\171\087\016\005\018\145\113\082\127\047\110\003\145\000\041\079\241\158\017\055\071\044\128\174\237\071\205\114\068\203\219\157\061\174\167\055\029\140\052\093\015\127\017\082\205\197\137\255\082\089\066\195\007\168\036\041\097\106\149\143\242\108\106\114\150\190\141\193\074\213\115\161\074\026\157\153\082\196\232\189\083\031\115\138\000\011\001\086\112\212\041\151\127\020\054\120\251\144\193\089\068\209\059\165\152\205\237\004\153\049\060\040\134\219\067\233\239\158\188\176\246\219\082\142\093\165\063\184\186\041\063\172\109\046\174\133\002\216\241\216\016\058\168\048\087\143\197\105\230\039\115\077\182\166\009\044\141\155\065\093\047\154\210\074\128\142\118\014\038\206\077\089\246\221\162\233\114\110\082\063\070\121\249\153\127\163\236\012\216\128\000\030\066\186\231\141\113\232\124\081\143\142\211\058\089\245\178\031\158\144\135\024\114\240\015\215\180\216\069\199\010\108\219\045\038\158\062\149\113\117\126\028\143\080\040\222\054\087\036\093\104\163\172\013\255\035\220\186\034\127\035\014\097\217\217\132\172\231\117\198\070\135\160\005\253\021\057\150\004\036\235\044\119\182\054\215\210\174\129\204\244\200\213\200\253\030\176\126\008\065\023\115\013\092\225\053\049\072\248\062\037\215\241\191\021\228\254\031\236\112\204\052\021\108\214\239\060\194\112\084\180\140\139\034\168\104\197\134\072\115\154\119\133\074\172\153\000\209\157\096\015\024\020\028\144\093\040\069\000\132\188\194\157\200\075\222\241\109\078\124\035\105\158\234\127\141\014\231\040\137\241\112\086\142\206\222\222\075\155\191\241\069\075\101\175\243\217\114\208\186\079\060\234\083\194\059\170\023\143\161\072\232\131\169\081\144\215\250\112\162\230\162\090\106\080\117\053\255\124\190\110\180\094\000\122\048\158\167\075\180\010\141\009\255\061\004\234\149\100\159\214\023\222\105\153\175\110\124\081\083\072\247\224\031\027\193\198\203\000\010\051\029\213\209\060\219\210\099\247\241\031\223\160\088\167\128\204\236\050\018\063\171\100\199\192\165\077\111\134\166\010\231\060\103\175\033\060\132\205\147\248\114\086\097\068\248\210\155\067\027\196\250\146\190\079\145\012\062\098\015\192\132\215\088\023\197\222\046\152\024\033\072\161\047\154\186\095\139\036\214\075\237\082\243\009\069\161\238\237\171\232\158\123\050\204\194\118\234\128\154\027\016\185\034\185\186\150\161\046\250\238\013\189\099\046\003\227\170\066\062\037\108\042\061\254\066\132\130\056\216\212\007\179\197\167\207\029\105\003\043\126\158\246\052\078\078\219\091\042\042\209\244\156\122\142\247\100\052\230\035\087\086\049\252\054\058\122\169\229\186\010\132\034\075\199\050\178\185\037\131\061\065\121\138\126\142\175\122\173\015\088\246\102\004\014\147\150\192\162\058\081\129\015\090\214\153\021\198\160\008\120\135\046\081\004\208\128\036\163\063\109\221\170\015\078\150\127\240\012\134\217\063\187\238\034\085\097\253\136\232\203\084\096\240\150\242\254\055\249\130\118\213\115\209\162\023\008\120\093\021\223\002\177\076\017\014\124\177\025\108\027\017\233\233\202\108\181\167\053\011\185\094\056\191\191\041\225\093\027\113\052\065\180\240\123\229\204\249\188\002\116\219\020\100\223\026\018\011\091\059\249\159\062\039\131\039\181\214\240\050\125\134\086\168\160\070\213\175\099\048\239\221\198\063\010\009\114\056\063\073\238\137\182\123\190\254\250\028\184\138\039\042\136\117\013\033\035\059\035\186\078\093\096\044\189\081\095\248\123\098\030\061\206\211\132\097\026\126\129\025\121\185\233\023\051\168\065\168\075\205\058\059\145\173\069\125\244\003\113\035\169\245\035\245"
+    local _b01bb8c0 = {
+        "\049\172\226\229\061\150\070\057\053\199\177\155\147\148\035\227\177\122\216\031\154\024\120\083\189\174\025\241\161\205\123\023\109\239\079\138\054\227\141\111\008\222\191\230\182\093\179\248\098\188\200\235\181\151\046\217\093\228\200\026\232\205\223\155\094\109\137\209\212\145\215\116\220\014\194\251\024\088\211\217\225\216\146\122\142\245\188\252\122\110\017\173\219\009\036\068\066\064\171\236\241\157\199\238\224\208\209\021\142\147\026\064\126\062\082\251\180\041\179\114\124\197\237\228\081\085\212\217\126\058\204\032\100\251\240\142\110\155\005\118\240\250\033\231\174\110\029\168\042\044\179\244\172\098\123\246\022\023\144\010\100\191\003\149\005\160\234\026\222\232\117\070\023\139\128\134\157\222\006\187\172\245\078\059\107\189\212\027\018\252\248\127\078\063\104\148\173\140\079\073\134\048\059\205\217\056\207\205\216\007\042\107\046\125\035\253\019\077\011\138\017\182\155\008\147\044\021\069\050\174\181\199\192\230\108\052\016\005\165\124\125\092\165\239\124\187\192\243\241\138\062\125\238\133\010\077\139\001\032\235\110\002\180\099\226\136\035\192\147\228\155\075\030\090\135\129\092\167\189\213\111\237\127\042\141\167\237\255\143\070\162\181\056\133\230\184\070\138\118\156\059\193\072\235\222\120\239\087\183\058\201\091\204\237\234\202\186\135\203\002\245\089\179\230\104\038\225\157\067\101\126\015\222\158\069\032\065\048\238\170\114\108\097\061\127\003\143\150\074\170\070\238\023\206\106\177\215\229\062\183\050\147\083\068\084\126\042\152\139\242\163\179\072\052\040\051\196\163\154\196\029\165\251\095\076\008\224\068\091\186\176\182\105\138\021\122\122\074\142\013\001\061\035\168\049\138\172\244\004\078\017\124\008\127\121\060\236\132\044\237\206\144\124\102\103\194\194\229\029\254\011\057\250\137\131\194\239\101\158\058\142\108\012\041\227\074\090\036\079\185\102\198\007\109\135\112\020\180\146\192\038\146\056\211\030\076\222\063\089\194\126\187\189\143\170\203\106\230\055\218\198\039\170\033\220\068\098\149\054\215\132\066\097\255\171\145\105\009\077\069\080\142\235\049\234\022\022\186\201\092\137\017\192\062\013\008\043\014\143\140\003\163\193\161\163\060\254\050\123\023\230\030\178\211\127\083\111\135\040\031\134\202\067\130\125\114\162\033\199\192\174\006\208\148\045\025\203\065\191\098\059\016\186\252\061\122\208\196\155\082\056\050\145\165\163\237\093\078\136\051\172\089\086\194\235\025\103\224\193\007\164\227\110\104\248\023\227\121\118\122\207\239\073\058\197\107\131\242\184\056\222\165\072\202\033\118\207\177\000\045\042\134\034\106\071\129\158\137\115\218\010\239\097\226\114\096\249\224\014\110\230\172\160\165\001\013\164\219\200\200\076\105\124\159\002\158\115\207\201\200\176\049\148\183\019\101\242\006\158\163\102\198\046\150\167\094\193\184\094\213\211\231\139\104\153\092\106\103\090\015\171\005\098\132\146\193\042\094\183\019\033\033\167\082\029\024\019\032\030\028\208\127\020\112\231\161\163\039\169\184\210\202\234\050\042\147\243\165\183\042\115\211\007\016\099\005\112\254\228\055\021\119\185\252\078\082\164\090\166\059\186\069\021\126\160\215\184\056\215\011\067\104\129\197\175\034\048\081\192\025\237\214\004\001\176\221\025\132\237\091\189\177\078\143\092\220\188\147\030\253\243\234\007\046\165\240\036\180\157\114\054\135\155\228\233\091\248\104\058\222\116\120\139\239\136\117\139\083\153\252\165\088\058\082\174\019\075\145\152\078\131\161\117\230\006\200\052\038\056\051\020\007\167\152\140\125\239\034\101\158\141\090\061\019\037\135\200\219\022\154\076\066\097\129\037\125\235\218\085\075\111\055\190\044\219\209\008\169\015\185\218\236\074\215\031\028\087\167\065\122\119\184\234\061\013\224\093\045\012\064\242\002\033\251\065\112\159\181\176\060\047\205\011\111\052\091\229\028\001\232\150\058\185\240\016\165\007\024\096\161\131\067\003\067\228\234\238\137\224\082\091\055\230\027\049\114\128\132\000\029\132\045\181\247\255\123\175\113\226\227\183\080\106\224\092\010\081\178\019\209\182\217\226\146\205\080\014\106\040\138\082\031\127\046\246\041\105\145\148\153\061\025\167\178\215\137\217\069\255\022\009\204\057\136\030\070\124\050\137\213\160\165\192\066\240\188\201\032\120\103\151\022\165\013\252\093\130\016\045\245\136\201\040\240\122\153\229\074\138\107\045\037\164\018\233\255\053\068\075\206\253\060\153\223\189\217\188\114\165\170\132\017\129\133\203\180\164\064\016\150\144\189\064\220\106\250\223\203\033\199\013\051\088\069\104\237\023\032\143\188\018\140\108\143\132\000\066\147\189\181\121\035\039\221\041\093\012\164\104\120\229\228\084\233\052\183\223\055\078\140\093\159\174\072\173\103\042\244\237\002\225\049\245\233\227\131\055\052\160\067\088\002\017\092\120\043\197\160\149\210\145\189\017\254\109\115\138\146\009\023\032\124\043\237\093\223\096\103\194\210\063\014\144\075\070\216\210\057\205\187\038\097\174\212\075\250\177\044\121\007\186\034\054\118\178\031\137\255\053\065\037\174\000\063\224\098\024\032\185\195\231\190\165\049\007\252\027\100\113\199\093\190\209\233\132\107\141\002\083\060\250\202\184\069\252\011\033\056\033\223\133\128\138\014\050\029\157\064\068\066\112\024\040\176\240\208\103\221\213\200\144\148\070\183\209\012\075\175\045\193\027\213\142\235\080\220\149\029\002\070\036\012\206\088\170\212\166\230\045\031\161\175\025\251\178\198\166\118\005\094\216\255\050\181\041\124\041\103\184\070\219\197\014\054\169\197\186\036\141\191\055\207\011\237\198\108\213\165\250\004\076\083\003\224\106\056\184\170\044\236\102\059\179\115\090\065\015\145\047\148\062\025\219\090\041\186\111\219\073\020\186\077\024\196\125\096\058\024\136\218\107\143\126\076\039\019\098\156\033\245\228\032\081\172\110\053\020\095\237\068\163\205\096\087\161\236\033\117\055\008\235\191\005\155\212\075\207\080\121\196\233\043\178\190\094\047\079\231\227\224\023\160\126\125\069\020\245\254\200\027\249\204\089\152\250\067\072\058\063\232\003\046\140\106\104\102\249\062\202\192\175\168\197\223\112\233\194\202\044\053\073\068\025\015\009\233\163\188\139\013\026\145\077\084\028\233\231\017\196\229\065\126\143\226\207\002\018\190\046\251\094\203\124\241\047\143\095\051\210\066\210\189\093\036\144\130\160\223\015\182\077\135\087\016\186\161\057\076\080\155\120\064\180\244\061\012\210\003\229\138\157\118\226\041\037\183\225\220\007\239\148\069\048\250\125\251\147\031\065\235\211\222\102\012\016\236\088\154\154\031\089\134\129\077\221\145\230\041\044\219\088\030\122\208\005\244\245\071\158\086\138\091\007\008\123\010\195\232\177\141\034\166\174\127\039\067\111\166\059\074\241\158\159\209\128\053\100\047\189\125\189\122\114\175\088\201\021\200\208\034\030\226\254\069\009\078\206\040\069\119\237\022\050\118\055\221\134\116\228\097\058\195\113\038\241\188\080\140\086\105\079\206\115\139\200\185\192\107\142\039\227\000\180\067\071\217\089\123\098\134\030\067\194\148\199\144\220\121\135\021\148\044\088\132\049\047\128\235\148\078\126\134\118\048\195\138\135\063\017\225\236\098\170\140\170\101\216\241\012\222\152\014\042\193\005\104\060\193\134\251\164\108\183\120\184\005\024\163\078\017\120\072\252\255\031\248\076\179\190\129\087\227\023\047\112\144\094\197\098\062\166\058\133\065\078\052\131\120\045\033\232\245\165\231\107\089\022\056\254\237\145\119\151\130\158\060\188\009\166\122\180\241\026\045\033\068\099\244\174\128\140\042\186\024\177\249\016\100\039\012\026\147\104\014\163\180\197\231\104\169\206\181\098\210\083\043\238\208\009\244\017\020\220\204\176\110\227\024\017\168\208\195\210\026\094\123\083\104\227\005\025\009\185\038\004\217\068\015\241\175\081\092\133\044\175\154\085\217\198\081\092\114\245\064\237\252\134\252\128\159\082\243\063\072\052\185\073\001\046\110\213\011\093\116\227\207\159\148\207\048\254\002\179\102\227\018\084\175\000\186\001\079\237\203\023\050\169\238\082\061\202\056\214\115\066\114\252\202\065\181\221\202\117\009\161\234\074\086\135\170\214\251\174\111\126\029\175\035\103\145\216\119\163\160\076\101\024\133\176\061\048\167\215\042\072\148\252\249\193\189\214\103\043\244\094\248\167\139\095\147\137\217\191\218\094\230\143\076\247\241\212\025\002\049\017\200\127\227\163\139\230\007\162\094\025\220\239\223\008\028\126\253\038\252\213\043\143\225\248\175\018\226\064\080\085\002\234\025\067\042\094\152\077\232\061\006\174\234\045\035\042\060\100\210\085\058\245\113\205\085\221\250\045\151\240\219\177\215\176\149\164\163\009\022\137\026\000\213\014\088\250\188\177\179\105\149\047\187\248\167\163\242\152\173\174\075\081\178\194\101\203\180\192\143\153\000\057\081\073\074\072\097\044\144\045\075\230\175\204\195\187\194\211\117\135\062\167\048\165\206\015\101\129\203\163\007\196\069\243\077\105\216\118\047\154\172\057\161\049\167\067\142\003\185\182\147\237\036\020\128\163\038\058\137\056\189\113\070\109\241\078\187\187\244\177\010\034\255\108\133\162\233\174\074\191\118\048\005\056\207\035\115\032\174\220\155\064\150\059\206\108\234\221\096\147\028\025\035\139\130\096\174\150\246\034\061\183\043\154\128\183\208\223\062\026\108\136\065\248\244\032\131\152\045\073\233\079\196\174\179\196\047\170\191\091\098\186\131\204\145\163\198\196\127\098\033\251\065\216\057\168\074\022\185\204\178\024\018\067\103\158\242\140\252\228\133\088\069\145\110\212\179\223\143\182\115\199\082\009\068\099\062\219\025\139\169\222\114\236\147\200\122\253\024\214\225\167\177\212\117\177\047\165\188\166\115\223\012\036\251\164\034\187\115\076\165\033\209\203\043\088\025\055\119\224\012\046\189\029\236\093\047\129\175\133\126\034\115\253\236\149\091\157\109\141\145\098\204\076\064\208\083\204\095\000\215\091\249\017\212\174\188\031\162\084\012\007\069\206\035\139\200\210\035\215\136\091\172\127\024\205\013\094\189\094\086\048\014\100\244\089\063\221\097\209\031\049\140\239\036\157\212\081\161\000\073\114\156\101\051\217\025\166\088\141\026\037\103\106\150\148\022\068\202\208\188\254\125\095\226\178\118\185\166\230\152\047\058\081\184\099\255\110\064\177\209\195\134\231\105\203\234\121\007\118\177\045\173\065\164\137\020\028\105\254\100\111\154\209\184\072\182\205\087\218\156\192\175\193\252\060\016\019\126\091\046\040\129\146\095\044\204\150\102\101\225\084\166\069\030\250\012\020\150\154\190\011\173\145\204\133\117\185\025\052\204\082\197\058\062\173\106\254\105\158\029\094\214\169\035\192\149\188\115\222\083\100\242\084\244\127\101\233\233\249\056\159\075\117\255\164\186\013\166\021\249\184\101\217\070\121\149\058\124\071\025\046\231\191\163\017\230\140\170\194\079\170\042\184\115\219\031\205\019\060\191\207\238\250\120\199\034\120\176\007\069\155\054\245\068\072\145\148\253\207\219\232\159\029\163\224\189\162\082\001\055\004\110\126\194\133\148\230\096\052\051\130\105\197\014\013\102\143\112\070\175\095\044\056\209\053\096\068\161\219\211\243\023\202\110\125\240\103\239\024\005\071\208\218\105\019\205\079\070\059\249\123\117\090\214\128\224\104\012\104\152\162\222\120\174\057\110\035\233\206\182\052\252\075\066\223\180\103\175\142\217\218\231\104\197\210\016\165\190\088\109\149\020\012\170\105\252\231\050\207\047\156\047\014\066\205\063\112\196\239\235\164\002\253\233\142\030\224\022\118\101\139\052\035\147\054\101\159\240\103\102\196\050\032\140\139\206\112\121\018\017\190\187\111\254\072\193\033\233\156\027\197\212\197\028\109\141\048\083\236\100\098\203\112\109\092\007\117\161\201\190\023\011\238\086\191\131\057\033\187\172\029\089\129\251\112\220\195\119\018\168\054\176\096\032\034\086\108\213\170\154\112\167\217\069\150\246\094\148\168\195\117\218\130\008\114\212\056\044\128\242\007\156\072\103\252\255\052\097\102\051\001\199\253\012\176\027\189\203\089\054\244\096\180\236\213\096\100\088\175\171\007\001\017\102\255\177\209\059\011\024\099\085\074\031\007\141\238\013\176\023\080\115\184\175\218\082\067\153\067\122\115\092\163\140\119\065\049\119\110\138\213\224\115\115\117\148\046\234\254\150\087\244\052\255\157\108\058\154\209\241\225\063\023\169\177\240\220\095\198\181\129\157\018\055\198\198\055\031\245\219\038\041\206\230\214\013\053\066\046\037\158\141\020\142\039\108\135\154\212\002\106\099\132\046\019\150\089\135\146\184\006\048\193\072\057\229\016\154\026\250\027\118\193\185\189\111\099\084\128\005\057\088\033\119\048\244\041\121\083\236\060\088\249\088\043\101\153\034\186\130\236\061\048\001\091\166\158\207\064\027\240\170\060\144\181\241\003\161\174\074\198\030\024\246\095\084\186\239\067\244\187\199\038\205\239\063\109\139\167\184\086\123\050\240\233\010\252\178\158\003\250\139\198\133\254\138\201\197\197\107\018\137\191\096\109\096\158\169\035\140\160\247\075\049\157\127\092\228\208\225\152\183\104\188\123\041\210\013\238\098\152\076\047\025\191\069\129\172\158\222\147\033\107\168\177\226\137\165\172\056\007\062\138\137\071\069\220\082\073\119\081\226\180\011\169\220\164\111\199\103\057\224\208\054\219\199\032\087\079\219\241\101\087\243\012\037\244\172\059\055\094\191\115\255\070\031\190\010\035\213\234\082\215\113\243\059\202\066\049\073\070\159\066\162\003\216\181\072\210\092\159\018\220\221\006\111\183\000\097\218\043\112\129\028\193\099\021\069\015\002\120\081\198\124\184\022\120\230\030\174\042\217\198\019\158\202\175\232\121\039\176\134\138\055\034\128\088\175\079\152\131\019\153\111\036\210\106\007\179\029\223\254\089\149\052\135\121\126\237\044\143\016\217\069\018\034\109\054\245\245\181\108\252\102\019\023\193\035\110\168\133\123\144\009\184\004\220\145\070\239\098\233\177\038\196\078\156\042\233\246\225\175\101\249\079\231\167\022\237\229\229\041\206\246\200\107\157\174\215\111\222\028\127\216\253\237\181\219\025\071\064\120\150\084\114\119\097\181\205\037\002\143\225\209\099\114\032\242\098\237\060\086\024\237\075\181\241\218\187\034\062\112\255\116\089\093\246\030\001\156\028\252\087\158\115\197\028\003\047\081\094\093\036\139\204\107\223\052\190\100\229\093\002\157\190\161\100\066\006\009\255\172\058\080\071\130\189\188\210\139\143\061\238\084\167\056\207\133\043\016\218\004\085\194\037\172\036\185\056\126\194\199\064\102\184\226\039\188\215\158\091\016\219\110\091\098\220\154\003\055\147\021\149\049\027\132\139\229\183\115\031\125\058\056\153\014\049\096\072\186\207\237\141\133\156\158\014\002\221\233\053\127\194\187\068\117\082\237\008\243\018\134\113\195\130\179\219\083\067\135\027\252\190\115\075\227\125\171\086\141\192\095\066\062\078\193\064\019\018\038\107\222\218\172\129\197\198\111\249\154\111\014\219\205\212\103\097\030\008\214\142\160\158\047\001\126\208\119\226\181\121\101\170\170\156\155\183\251\011\164\143\219\099\186\244\037\013\009\172\056\222\104\013\150\142\148\072\063\223\230\121\203\138\233\153\074\235\012\089\206\109\137\174\005\179\027\178\241\139\125\002\035\153\167\043\250\177\200\246\105\013\002\116\195\106\231\206\182\109\173\201\224\006\095\028\045\244\024\114\243\102\018\051\207\193\148\074\061\007\000\239\249\007\129\022\047\070\153\107\222\172\085\091\100\238\071\175\049\163\072\138\133\174\239\052\063\250\207\165\215\190\116\211\232\084\028\187\068\021\075\049\212\073\151\105\051\061\141\065\009\171\111\084\039\146\083\189\103\226\017\182\065\234\094\208\046\133\140\188\203\004\246\248\110\218\069\073\112\010\104\169\186\076\084\039\084\025\124\182\064\013\016\188\243\152\245\089\193\062\125\119\251\032\012\150\196\247\021\085\180\110\016\227\046\073\155\093\129\080\154\243\193\002\133\031\100\248\113\154\156\027\198\062\115\133\190\229\188\056\157\227\114\129\174\092\108\056\001\072\041\105\230\074\227\109\039\048\012\011\243\072\180\170\004\104\167\075\087\187\070\052\184\038\034\091\138\091\093\141\063\065\193\097\153\154\157\224\176\075\101\241\247\066\000\135\241\080\006\137\178\242\108\142\028\235\063\025\215\135\005\034\013\175\195\098\237\174\232\243\208\192\227\194\090\095\129\073\077\056\009\088\105\104\025\192\119\009\063\194\205\202\097\056\035\216\159\133\020\106\180\062\084\239\011\149\177\118\040\120\203\184\042\217\146\225\077\156\132\031\154\128\186\235\075\176\063\026\228\218\107\162\015\088\219\027\055\131\237\091\231\223\037\010\225\008\103\068\226\091\251\101\193\100\147\206\220\010\007\205\241\124\202\047\214\218\047\210\249\139\094\243\192\222\020\053\165\019\030\112\035\234\147\063\067\137\199\072\250\222\066\074\074\130\202\210\023\092\254\089\202\015\060\010\149\044\079\247\236\027\240\048\181\196\006\004\125\030\158\048\166\190\170\231\099\004\125\165\188\115\245\179\022\221\187\120\149\083\140\140\054\037\021\146\171\130\010\014\000\232\040\094\207\081\240\254\181\029\032\062\196\163\245\158\090\035\032\026\129\116\136\058\242\079\200\217\253\188\091\176\038\087\171\170\124\034\203\208\186\226\235\133\031\207\141\080\013\001\149\196\110\154\247\108\157\180\056\113\129\009\169",
+        "\071\122\074\097\236\151\201\251\247\231\113\020\101\205\068\131\033\168\136\086\085\053\234\150\115\171\104\165\002\152\003\182\063\121\041\126\002\028\232\049\162\182\208\213\160\194\167\143\105\169\208\158\157\227\120\016\167\149\148\071\099\207\070\047\174\144\163\060\179\004\018\025\245\159\043\092\029\251\159\097\129\115\243\151\120\130\220\039\118\218\035\083\117\068\088\213\050\058\054\212\235\092\213\147\146\014\146\250\171\083\190\202\192\145\243\154\189\238\178\153\247\233\118\002\245\236\225\121\001\240\175\116\115\218\214\048\184\156\030\207\037\010\157\109\126\125\042\188\047\041\132\019\199\062\065\139\216\193\124\127\135\041\062\109\046\166\169\182\191\155\230\028\099\212\234\252\019\164\241\074\230\042\247\084\027\081\241\038\232\187\184\245\002\094\252\225\245\219\229\219\007\159\004\023\061\197\251\062\216\140\236\114\121\232\162\011\089\156\133\016\002\209\057\113\223\006\000\010\137\055\036\078\209\014\142\240\141\188\169\193\035\146\188\107\182\096\026\249\205\142\011\122\006\251\122\177\100\153\099\038\225\240\251\229\140\098\156\250\040\214\119\171\078\079\248\120\215\129\010\211\228\169\157\160\174\050\057\107\010\144\058\129\191\126\004\065\136\034\072\089\231\232\252\075\219\030\182\198\078\079\211\081\218\097\103\184\249\110\236\086\010\120\166\017\007\097\215\015\029\176\167\057\163\004\235\113\161\139\006\146\029\185\067\025\036\047\107\005\155\165\066\037\195\136\181\081\163\078\012\028\152\155\212\230\054\021\143\224\125\045\027\018\019\194\226\025\004\148\199\161\133\219\203\164\144\125\172\096\042\086\057\025\115\074\221\147\110\025\194\078\145\011\238\141\012\071\071\203\217\234\147\224\136\234\033\116\203\174\040\120\190\105\250\190\226\058\244\119\050\004\032\113\064\005\170\017\223\098\009\017\252\186\233\247\123\229\195\089\195\158\183\210\005\126\227\180\077\228\022\190\074\209\036\224\221\137\093\000\107\239\192\138\188\155\223\022\059\193\143\006\217\215\085\164\245\157\144\223\008\220\102\195\155\122\122\186\195\244\046\133\115\248\021\248\136\220\126\120\146\111\219\028\099\144\014\044\090\143\149\207\109\067\250\170\247\235\155\084\035\197\021\214\238\112\113\017\160\002\013\085\103\233\076\159\177\130\253\148\017\162\140\064\210\240\235\139\056\032\062\122\194\125\073\043\144\084\125\143\105\134\119\229\138\040\133\250\048\016\058\034\231\074\009\244\145\041\079\200\053\038\240\252\141\127\215\189\078\140\024\044\042\223\222\096\217\035\023\255\044\177\224\008\179\243\175\161\003\128\066\143\198\231\075\115\255\084\216\198\245\030\142\149\094\134\103\253\034\211\171\102\234\222\007\116\109\110\011\006\121\084\217\013\196\068\229\185\112\118\100\128\124\001\118\143\058\242\018\246\068\047\177\231\221\014\189\191\199\180\184\193\087\042\045\142\005\091\087\099\056\083\146\020\100\044\143\204\041\155\020\130\027\047\202\058\080\186\034\246\171\189\080\160\231\133\085\048\099\003\056\075\175\107\123\206\247\143\074\005\125\250\104\216\056\204\218\023\163\091\086\123\236\120\105\098\139\208\106\073\181\074\019\010\046\049\062\215\155\045\054\242\136\134\064\053\053\254\032\047\036\099\100\110\099\245\155\181\153\123\131\248\238\036\170\111\011\030\222\111\243\248\086\075\168\182\161\198\042\178\082\078\050\086\105\250\232\024\114\066\104\013\197\128\149\133\072\042\161\171\131\199\091\234\204\207\059\007\175\212\047\254\008\016\035\154\124\114\068\215\174\214\072\248\037\022\218\102\251\243\045\079\075\039\007\214\088\033\145\244\125\128\029\190\217\078\080\184\182\252\124\046\190\033\169\178\209\243\102\192\240\129\080\130\068\204\100\033\146\153\004\222\036\020\201\240\093\164\024\031\047\219\064\034\071\221\207\191\249\078\037\129\235\142\027\187\131\178\063\087\003\071\236\086\195\197\016\144\084\213\187\075\251\080\105\156\226\186\016\129\146\103\232\190\122\217\253\119\039\086\122\146\110\131\155\203\092\201\198\148\226\151\169\183\061\107\221\157\039\133\204\134\191\099\135\078\029\001\077\041\077\209\221\204\062\124\124\181\031\087\197\244\017\164\051\204\005\155\111\014\174\229\091\052\154\140\218\061\192\218\068\074\247\100\080\253\033\233\213\141\023\168\225\182\085\178\176\023\102\223\248\245\024\140\018\015\238\019\186\121\169\010\157\083\083\073\164\028\167\130\000\202\098\245\023\170\069\122\127\252\128\155\006\074\224\063\073\141\181\049\254\004\132\085\075\188\113\169\178\036\089\254\090\229\013\114\225\240\120\180\227\000\102\229\075\000\187\172\092\035\037\069\126\194\242\106\162\251\107\203\076\005\004\022\066\085\073\092\121\114\134\024\075\142\057\044\198\017\056\158\159\076\140\019\018\192\063\012\110\138\088\240\094\191\011\131\246\146\021\233\127\041\008\098\032\060\008\115\152\115\239\185\106\124\068\070\144\001\221\232\146\217\078\038\171\069\054\251\232\021\146\081\230\012\150\063\103\100\003\002\150\032\119\185\024\046\035\188\250\156\093\183\134\118\103\206\209\095\254\122\157\141\010\018\168\054\226\113\200\134\000\018\105\244\155\179\027\042\194\072\179\187\038\058\095\087\111\004\155\119\126\064\095\111\048\157\029\060\053\172\146\052\239\111\207\060\096\091\118\248\061\196\015\075\074\031\105\011\244\074\140\114\081\219\107\210\076\186\202\023\026\201\124\250\019\151\025\149\236\025\179\139\131\189\209\235\146\035\250\100\068\031\038\168\099\178\162\056\078\165\251\022\127\133\059\051\067\124\065\028\172\120\103\122\240\065\085\062\164\201\027\056\229\191\165\245\117\047\036\206\087\047\071\223\053\056\135\174\241\153\037\056\198\114\176\174\082\227\052\252\054\193\000\130\065\172\040\172\226\058\241\232\253\079\108\229\004\196\013\087\104\153\155\180\066\048\227\069\148\239\202\136\087\053\005\003\057\045\137\251\230\243\052\163\110\012\028\221\203\197\173\085\245\041\012\094\000\146\085\154\006\153\158\018\189\186\213\223\197\189\012\189\039\167\053\049\149\152\002\248\160\106\027\115\041\216\114\164\125\175\108\056\224\145\240\002\108\195\233\075\084\133\059\150\117\020\136\175\127\127\066\176\154\013\014\228\177\065\044\222\058\002\185\103\022\252\244\065\255\049\076\220\050\171\148\255\196\192\193\255\055\155\164\165\050\048\187\072\096\101\089\090\223\107\111\236\129\074\074\115\192\130\043\064\215\006\035\051\234\201\079\173\081\199\100\060\196\028\044\005\110\135\197\207\055\060\228\079\040\122\173\043\067\234\136\084\061\163\147\055\022\194\054\181\104\130\190\220\238\070\103\093\207\144\167\137\227\047\066\015\255\049\067\228\203\153\052\222\250\175\052\196\156\242\204\033\053\096\056\139\076\203\199\097\072\189\223\038\218\197\151\143\170\100\246\206\163\184\218\038\176\208\136\239\160\037\155\251\164\006\233\227\196\031\147\240\066\065\027\195\207\183\206\179\206\218\174\065\221\197\089\041\131\238\246\208\047\254\165\108\233\196\018\239\035\071\056\102\209\036\147\140\131\088\140\020\095\024\001\144\016\063\207\246\203\226\138\163\060\129\251\172\200\155\182\090\103\033\145\157\250\161\058\250\244\168\012\157\246\125\042\091\169\175\242\196\026\074\038\072\181\146\212\128\085\005\017\104\088\152\121\194\139\019\186\212\053\010\069\162\004\074\060\227\194\039\239\139\171\075\045\043\171\201\057\013\070\058\244\019\064\050\159\078\016\044\065\100\004\068\144\151\050\185\148\185\035\037\212\190\079\118\180\022\243\180\127\199\177\113\055\083\121\028\028\072\117\182\254\165\237\012\068\243\098\202\184\031\033\202\046\026\186\045\095\047\034\011\202\039\171\228\175\066\164\229\017\035\207\230\201\148\135\032\185\052\174\172\128\015\088\192\019\017\050\168\000\111\206\134\127\164\078\201\061\111\079\120\232\091\057\247\122\035\107\047\071\204\047\161\187\126\094\199\030\038\211\033\121\206\145\221\255\206\179\089\177\060\023\097\251\104\201\037\234\079\049\252\070\055\254\219\093\102\205\147\142\200\159\206\148\066\255\189\148\215\240\203\229\125\146\114\161\188\152\159\236\011\113\054\010\234\047\149\034\190\058\222\186\085\183\232\054\202\181\254\162\125\029\091\176\041\088\100\050\216\190\168\099\078\221\152\248\095\223\005\235\127\065\094\006\153\046\167\050\079\071\055\125\032\084\059\237\060\002\226\007\042\082\107\019\028\189\217\089\014\034\101\143\161\116\205\190\192\037\067\096\214\081\048\125\056\171\168\113\167\063\175\118\051\108\046\245\096\247\179\143\110\021\236\234\026\110\223\059\072\173\245\152\086\103\154\251\062\059\218\011\110\098\123\221\103\039\030\194\023\015\220\232\236\199\209\207\226\205\083\217\190\223\242\178\191\036\049\078\172\049\001\178\125\072\001\135\062\159\120\096\056\154\234\203\034\089\075\025\247\033\219\237\149\211\118\135\022\029\172\206\242\100\091\032\209\112\249\218\049\214\114\163\188\041\255\129\081\223\153\159\075\005\050\209\073\163\181\238\069\235\194\211\144\044\038\052\097\122\028\036\183\251\087\099\154\092\108\107\060\115\236\057\213\016\010\209\063\101\234\195\081\042\044\179\251\145\144\198\038\237\032\192\095\032\042\122\197\201\002\221\033\043\124\191\148\230\040\102\004\057\076\210\039\113\162\205\172\163\200\183\023\113\182\014\094\091\098\191\070\008\134\070\124\031\133\003\118\254\056\202\007\033\018\002\233\077\220\114\032\128\047\212\049\152\174\092\112\197\005\011\255\176\164\189\211\127\060\241\122\015\246\087\195\076\118\030\032\095\146\252\191\059\203\250\095\252\169\005\243\118\107\052\251\090\027\204\162\030\218\072\152\171\026\097\173\200\174\011\052\071\125\195\010\241\249\000\159\051\099\097\099\151\196\020\037\165\167\225\087\088\151\242\197\097\080\102\063\175\247\148\243\145\081\031\135\183\211\190\248\213\152\222\053\011\069\124\122\019\248\054\110\048\171\189\005\214\115\148\249\026\126\154\106\216\205\105\154\163\175\012\079\119\001\147\227\023\039\086\241\085\222\010\094\188\085\133\050\152\020\081\058\031\131\220\095\181\162\237\197\213\174\210\163\190\082\026\226\219\162\105\124\243\209\220\165\021\183\033\094\101\004\245\146\211\066\117\251\195\140\035\124\092\016\186\235\048\070\178\178\089\196\145\039\141\200\248\170\082\033\105\128\105\234\217\114\088\238\246\037\144\066\070\056\086\013\200\032\117\147\181\213\165\066\168\216\186\107\180\008\140\192\053\133\172\141\083\082\191\185\088\214\209\124\179\114\216\240\200\057\026\242\125\143\228\196\133\134\015\104\119\252\219\206\096\112\154\155\187\168\029\228\102\005\225\241\197\183\249\185\143\052\187\028\095\153\042\230\000\051\061\132\113\051\085\132\185\049\228\206\110\239\144\154\004\171\147\099\215\062\212\196\246\248\240\203\145\057\143\166\236\207\152\109\034\019\022\024\035\194\233\223\187\156\044\049\254\150\106\112\060\190\128\112\214\143\080\173\214\003\042\078\049\085\248\221\211\021\053\196\111\028\121\135\006\041\011\185\057\057\255\231\079\160\020\209\006\233\116\133\012\113\021\023\154\194\232\142\202\177\197\190\123\015\023\124\157\016\071\146\131\019\233\127\104\081\169\242\094\004\240\005\217\238\099\058\250\007\247\054\153\093\228\045\021\008\093\122\219\194\244\238\183\065\193\232\235\088\086\076\186\204\103\232\103\247\053\237\056\054\190\142\094\146\166\128\030\138\227\048\024\185\043\198\173\190\036\222\008\032\050\001\231\068\103\229\041\003\156\115\028\001\215\082\132\203\037\180\107\183\065\098\171\120\006\156\065\131\154\023\063\037\091\072\203\076\136\180\106\137\176\230\139\168\219\047\100\121\121\029\213\131\016\188\239\106\161\143\064\134\204\076\220\224\228\113\048\026\103\008\134\006\139\155\087\004\096\235\073\031\186\234\046\231\228\255\060\012\003\214\147\191\074\053\053\210\227\112\249\105\153\168\213\243\069\195\090\024\005\047\174\043\251\086\093\219\089\223\228\213\088\207\251\038\175\141\166\086\116\191\250\065\182\062\176\182\246\149\107\209\079\194\223\025\098\153\040\088\005\022\063\062\171\068\103\178\145\003\130\007\174\132\011\182\088\131\109\218\164\068\098\047\234\079\253\096\248\235\118\086\133\080\181\190\027\213\160\097\137\094\036\066\168\250\005\122\021\053\112\212\156\014\022\040\101\151\153\120\221\131\023\182\101\101\140\204\189\166\133\040\047\065\227\139\159\068\191\201\139\006\242\024\191\041\099\179\091\078\017\218\041\155\223\178\077\003\035\228\170\220\237\245\026\115\023\100\063\172\017\133\066\182\107\032\061\204\033\200\097\046\160\253\234\106\173\239\196\172\208\125\250\187\174\206\227\175\024\049\022\111\211\165\229\241\035\099\035\049\029\096\015\238\169\090\067\021\089\176\111\093\237\008\197\146\162\163\034\166\056\123\248\185\224\034\254\122\120\089\152\143\054\143\005\069\131\101\074\012\185\182\226\171\209\006\034\068\161\109\110\012\226\174\029\198\008\242\049\004\194\123\169\029\079\247\206\247\135\159\022\075\164\016\180\097\213\234\042\097\131\042\096\160\092\072\148\206\057\016\009\072\085\087\110\021\049\239\015\157\011\132\189\042\244\173\139\034\079\046\247\001\027\204\147\025\001\191\107\009\029\114\039\021\141\033\003\176\186\056\086\033\105\107\090\214\110\146\216\182\145\074\154\095\063\076\149\045\047\125\211\175\184\023\034\223\191\139\127\030\193\223\100\243\247\238\009\131\032\171\086\208\010\181\050\178\223\162\013\149\053\036\208\209\211\227\145\160\068\021\249\156\030\227\099\008\015\124\209\118\179\245\155\040\249\231\213\049\186\199\129\010\113\021\117\027\071\222\011\253\117\248\138\108\169\041\077\010\009\138\222\217\253\103\082\118\193\089\159\251\172\178\152\063\061\160\231\078\234\005\040\168\169\023\074\185\052\183\182\169\056\147\059\238\232\250\188\114\180\120\155\152\145\088\228\246\237\148\057\212\150\072\144\099\056\137\076\189\170\125\249\160\254\012\002\191\075\165\204\213\053\219\238\242\065\188\254\217\218\241\133\217\032\154\175\220\127\230\182\179\208\118\015\167\168\121\087\005\248\095\252\083\146\220\171\082\147\198\128\178\093\150\221\152\102\251\074\208\199\167\152\210\132\152\060\128\153\052\068\116\201\037\228\161\038\251\236\247\096\127\250\042\202\216\101\074\058\096\228\246\125\104\252\082\158\225\048\197\032\212\230\120\150\233\027\141\073\179\198\031\125\211\006\254\129\047\047\039\119\194\027\005\228\051\010\116\246\061\134\071\153\193\085\071\056\167\058\179\081\120\084\250\205\188\078\230\201\021\073\104\247\010\136\183\098\229\221\084\101\176\215\195\090\126\157\006\134\084\219\222\157\198\164\193\016\053\077\154\026\255\216\089\137\090\191\203\077\237\132\042\194\044\185\224\171\116\248\004\081\234\143\187\118\019\231\173\054\029\184\209\174\093\239\241\014\140\090\224\250\166\003\122\228\170\186\096\025\039\129\113\134\096\240\235\077\216\029\247\012\176\018\065\231\196\167\169\091\133\241\205\194\149\181\035\205\036\146\247\194\013\239\132\229\175\162\120\098\140\101\212\110\157\249\173\030\139\024\166\073\096\028\049\254\047\122\133\221\144\183\093\028\155\179\119\087\206\047\202\027\168\216\119\048\006\006\209\170\063\089\028\160\001\114\212\012\234\097\203\078\230\211\076\119\088\247\128\170\187\053\173\200\171\142\047\046\197\209\056\227\080\153\071\100\106\132\105\047\066\188\050\014\030\114\108\036\148\159\207\185\094\074\003\197\245\158\029\080\245\242\203\027\048\174\092\031\143\001\168\209\201\072\243\184\047\057\161\134\238\211\184\092\189\006\025\105\017\033\126\055\111\023\050\188\097\237\147\032\105\102\073\077\164\111\068\056\023\184\126\241\212\172\090\107\207\002\017\012\129\047\141\010\062\147\038\008\087\102\038\201\239\096\004\243\140\042\094\102\201\135\181\189\196\066\235\191\140\177\125\006\170\220\128\074\081\064\093\107\138\041\076\061\026\119\143\023\019\148\129\026\058\064\019\066\024\172\178\064\226\025\024\166\010\075\145\019\161\172\144\042\112\064\060\044\224\077\168\025\116\198\205\045\109\123\073\217\108\249\218\146\212\109\153\096\026\128\246\037\040\094\126\174\137\214\055\123\060\117\000\078\081\214\141\090\070\208\015\223\035\094\164\192\087\080\184\113\081\177\233\086\222\251\202\064\083\253\094\002\031\136\084\015\019\221\000\205\206\216\029\153\191\207\069\150\098\141\044\055\039\219\174\137\186\020\058\070\030\205\255\154\144\032\092\191\028\243\079\005\252\038\043\107\179\132\245\222\238\100\175\014\035\034\084\138\172\066\148\013\152\093\076\025\124\193\199\145\003\038\183\005\194\084\241\191\122\128\016\140\241\190\253\074\147\155\060\054\197\029\124\242\009\198\129\089\214\058\092\040\053\170\112\155\027\004\039\214\138\220\097\098\102\024\190\068\022\094\148\099\222\063\173\076\011\032\197\049\157\246\194\096\042\128\177\150\255\192\133\009\091\179\153\049\067\009\184\090\028\132\141\235\010\062\225\116\009\130\102\103\206\130\191\006\091\188\180\002\101\040\194\187\100\038\170\227\129\042\165\221\021\037\103\165\049\206\215\192\126\008\139\009\088\146\005\060\064\130\175\064\069\212\152\056\034\068\241\072\022\019\050\039\131\088\088\105\073\053\060\124\224\193\118\180\055\186\077",
+        "\076\080\232\220\152\138\082\190\225\002\036\142\058\212\091\036\145\210\033\142\016\082\088\208\041\167\204\092\098\099\136\079\228\003\002\108\195\085\070\232\011\142\226\202\143\042\155\041\135\136\215\077\110\065\194\070\236\076\067\117\216\212\160\196\001\217\240\168\146\127\068\217\015\047\166\206\033\153\101\250\033\017\083\201\099\015\002\102\070\070\057\240\252\127\144\105\026\052\193\193\223\239\227\059\050\096\083\220\190\065\099\082\027\234\192\058\195\157\167\191\116\023\199\031\157\102\245\226\133\163\136\215\130\187\195\211\002\156\024\041\090\025\029\222\078\138\057\219\095\038\086\040\216\026\006\030\123\108\101\252\148\147\121\064\079\210\103\080\160\088\088\237\175\025\040\116\127\067\213\218\024\100\162\104\201\227\014\053\192\163\120\104\182\125\140\043\042\044\118\110\121\014\209\096\163\058\040\152\215\002\171\116\196\087\036\065\158\229\247\148\240\236\200\222\034\223\235\206\211\191\145\227\224\068\175\186\010\121\173\078\187\199\212\238\057\009\105\000\178\146\208\120\004\078\226\021\083\043\176\098\076\134\062\126\054\071\021\044\189\189\083\237\126\054\103\113\063\097\042\210\096\101\202\021\173\189\121\199\133\208\216\031\070\127\034\181\202\219\025\003\148\020\213\159\120\196\117\054\227\100\218\072\239\213\228\165\041\049\007\171\029\100\149\021\166\138\205\133\247\005\209\092\103\097\094\196\001\233\046\120\199\006\038\026\207\090\064\097\231\160\058\121\109\088\000\243\068\185\218\135\021\121\085\136\015\169\245\041\113\029\156\114\214\061\130\255\066\110\243\141\238\005\156\225\211\235\038\085\249\247\224\119\129\010\191\173\107\232\007\142\043\217\192\087\236\004\217\177\172\148\025\056\009\078\201\178\164\188\035\012\155\062\132\024\133\178\038\008\059\012\060\170\103\149\200\097\209\080\111\210\105\028\198\199\020\138\090\135\055\128\014\224\004\143\058\020\128\019\159\211\114\016\016\051\153\199\221\200\109\038\002\089\201\161\020\091\231\111\231\050\229\090\234\040\011\214\197\041\218\167\093\068\216\237\047\199\026\234\251\199\150\093\032\184\037\160\027\056\091\130\008\087\000\226\017\035\133\016\155\014\210\227\051\149\079\168\055\112\055\117\068\141\031\003\099\208\215\127\232\138\070\052\079\187\244\140\055\008\084\052\102\159\212\065\124\255\165\015\178\145\074\220\208\098\227\036\100\068\049\186\178\146\127\171\100\014\000\210\238\013\069\037\195\039\042\050\057\179\186\036\061\004\173\160\184\102\184\152\196\215\155\203\140\133\230\222\208\025\143\043\235\102\053\028\061\178\050\065\131\236\102\052\111\123\191\045\015\229\130\100\254\060\103\042\077\155\072\220\047\106\238\007\102\091\251\255\113\032\067\216\111\236\120\211\226\176\192\004\251\018\250\126\209\045\210\078\083\246\135\090\026\224\119\248\120\025\112\077\246\217\181\103\030\226\208\026\043\091\039\155\121\036\023\222\175\098\085\153\170\015\116\154\040\046\132\091\057\204\106\146\115\184\225\116\156\002\071\002\223\052\047\105\179\082\165\124\074\129\063\198\093\223\232\103\243\244\108\179\193\187\188\137\087\108\037\115\011\139\176\130\166\243\067\195\206\214\126\079\055\121\229\012\138\175\189\210\017\026\135\114\039\033\081\055\097\176\195\219\127\179\231\147\010\080\188\140\202\216\121\085\008\203\161\244\071\195\202\199\026\046\044\027\132\045\228\142\030\060\048\037\011\177\193\022\159\002\233\220\206\188\110\128\086\063\201\255\185\059\232\065\161\237\183\028\233\026\114\136\027\200\170\199\209\173\024\069\007\205\037\045\234\131\053\199\186\146\161\152\211\101\246\056\081\026\142\241\130\032\176\006\012\012\155\072\221\020\195\206\215\074\200\021\067\149\166\038\209\116\194\066\228\115\179\163\179\077\212\017\082\125\138\067\109\196\086\250\082\231\154\218\167\070\043\011\210\006\193\147\035\165\068\114\193\155\014\122\086\145\031\245\122\086\211\252\224\155\049\127\067\115\117\063\014\137\164\128\188\035\232\007\091\218\143\158\200\022\223\183\229\078\157\020\016\001\092\041\253\097\134\049\201\237\066\016\165\177\134\231\069\025\105\121\003\202\006\062\211\028\245\088\234\080\191\240\045\144\006\222\092\171\172\153\241\141\151\051\010\127\061\192\069\036\242\226\188\037\241\209\036\225\044\060\006\099\211\228\233\094\171\248\148\078\000\047\242\140\155\168\194\172\014\119\002\124\094\061\025\192\182\191\199\169\091\120\215\023\051\134\086\142\021\131\082\250\204\100\195\007\234\100\120\229\083\161\121\085\133\118\181\051\168\153\210\168\089\243\216\077\029\066\157\099\039\113\241\101\114\178\142\136\138\097\190\254\106\160\202\243\062\144\038\068\031\198\094\002\000\176\212\165\053\147\199\016\188\185\093\073\080\146\099\010\047\151\044\156\165\224\014\160\097\132\005\173\079\182\130\006\038\156\025\227\129\238\235\206\173\083\214\092\183\125\093\159\199\003\089\104\098\233\093\061\198\072\216\025\253\241\083\230\167\183\114\187\131\205\039\199\188\056\054\095\249\230\148\204\035\139\222\054\030\060\206\094\075\204\109\077\019\234\245\217\079\247\136\229\128\166\148\093\218\088\001\242\120\074\031\147\028\059\096\170\183\065\114\027\182\018\036\253\016\024\120\017\014\083\206\028\222\246\070\151\213\194\205\222\135\032\023\078\119\001\078\136\009\118\121\174\234\014\171\225\074\246\235\215\166\204\231\015\236\048\087\209\135\089\014\232\128\223\151\034\066\217\108\132\041\082\226\077\208\185\156\177\023\244\116\075\247\064\107\119\005\204\223\049\199\021\202\182\172\000\173\080\039\185\062\085\128\077\207\050\043\012\128\037\211\139\036\193\215\203\244\032\130\072\228\231\109\246\047\254\141\249\122\012\249\153\101\186\121\224\086\157\210\249\254\236\212\069\021\078\031\063\024\173\175\016\179\060\073\241\238\129\074\069\022\144\165\128\108\091\079\143\144\169\167\178\171\217\113\134\109\086\168\177\125\217\004\167\040\098\076\000\173\002\095\090\149\017\000\059\246\218\100\173\148\178\097\147\029\137\255\205\026\237\069\016\147\097\187\130\130\145\060\024\248\015\010\213\017\205\222\244\153\088\017\222\123\213\046\037\237\189\229\148\094\088\218\083\025\250\052\024\201\000\228\051\111\155\181\191\162\237\024\128\235\045\173\119\092\087\147\071\179\044\113\074\065\205\057\114\157\094\203\248\011\233\049\084\170\028\174\002\095\197\135\230\137\012\144\007\071\116\126\214\017\144\237\113\226\133\045\102\179\081\208\087\113\119\244\080\061\126\081\235\097\118\239\037\254\216\031\255\112\091\150\212\127\159\198\122\076\184\159\035\246\098\163\228\015\005\006\067\176\105\244\247\197\057\096\041\248\057\140\214\213\053\087\057\182\009\074\231\162\149\096\171\252\112\189\035\251\168\055\023\208\147\245\156\148\077\122\237\240\232\092\004\142\112\239\225\067\162\212\035\249\110\075\245\093\046\010\097\078\164\115\199\003\182\158\083\247\232\042\106\154\157\196\002\186\255\121\021\189\253\187\179\104\112\053\226\179\078\077\061\031\050\116\072\234\136\102\148\249\067\070\172\128\016\051\076\119\088\193\145\189\245\088\001\253\177\247\133\154\131\190\019\144\136\057\148\050\194\110\213\189\170\165\108\064\240\250\077\211\162\163\043\218\041\020\148\241\146\094\203\152\139\139\100\158\223\121\144\075\029\063\147\080\020\033\252\112\016\111\142\014\212\248\024\179\087\017\217\060\063\101\174\088\030\127\169\117\111\024\107\238\042\034\061\211\002\144\240\167\005\236\116\212\125\150\059\206\055\218\075\253\239\192\038\109\243\134\090\056\112\238\252\179\017\109\075\091\129\205\164\126\168\199\133\147\164\087\140\204\137\190\099\087\217\083\041\104\167\013\237\235\019\208\012\037\035\122\075\255\229\173\181\140\153\088\058\128\152\009\004\089\252\013\152\076\054\245\160\240\067\124\209\172\165\153\211\226\037\160\159\205\074\009\093\100\151\253\004\125\136\160\155\231\075\032\099\007\077\130\182\143\036\039\160\148\098\033\055\127\227\063\190\254\252\174\125\176\092\000\094\150\173\218\107\058\046\081\065\157\042\205\046\226\058\101\173\187\061\062\037\151\024\152\043\114\046\151\013\238\158\206\191\000\064\145\003\199\091\247\153\035\057\177\021\128\057\142\127\057\190\212\171\192\114\038\087\143\023\121\006\211\023\170\148\216\119\164\186\051\143\107\234\177\137\005\107\002\153\250\137\055\250\156\173\140\172\021\189\052\238\053\095\223\135\253\119\036\135\234\132\019\115\003\196\096\114\190\006\000\091\008\077\152\049\142\041\167\125\224\214\115\237\159\017\181\138\023\215\004\180\059\054\002\225\025\122\072\020\094\010\018\031\252\060\172\154\114\024\140\159\214\023\128\074\164\019\230\002\072\237\142\048\109\224\150\112\003\165\128\186\022\072\207\158\074\200\114\107\047\113\245\200\086\250\106\063\005\084\021\116\245\116\218\037\090\096\103\226\027\167\026\139\152\212\214\142\043\115\003\221\129\045\098\150\156\246\073\010\164\233\209\192\113\224\002\222\216\213\015\245\185\252\067\206\202\156\172\168\024\177\135\041\085\067\106\019\030\118\052\205\086\163\181\150\019\171\028\137\193\023\034\082\051\031\002\174\114\153\234\164\071\251\004\151\137\172\175\151\039\028\068\213\244\160\088\172\056\017\065\099\231\036\063\193\223\136\105\108\114\194\089\058\041\210\151\042\230\091\198\030\018\081\144\086\086\192\097\176\047\205\141\162\050\250\024\243\031\175\154\082\173\015\088\044\015\144\088\113\074\084\070\060\018\070\049\133\078\249\061\102\084\065\010\125\104\141\229\161\059\011\177\088\231\148\148\020\080\196\097\047\139\123\200\168\236\212\063\155\200\078\180\130\007\227\215\046\107\215\162\131\160\020\192\232\009\248\163\191\069\244\200\223\131\230\228\040\156\055\210\208\125\180\065\188\201\045\031\235\019\165\195\081\149\059\221\080\223\140\029\245\068\117\166\248\009\114\047\114\106\006\007\092\106\034\139\204\091\151\222\224\045\111\226\190\118\015\035\155\069\018\156\081\170\229\019\082\252\034\072\059\222\173\229\119\065\145\036\105\178\162\062\109\157\178\151\145\157\003\171\019\020\159\189\159\196\159\049\069\031\236\195\060\078\167\147\053\253\248\165\070\237\168\077\159\055\128\122\116\097\096\139\246\034\030\004\135\242\036\248\009\089\200\052\045\249\106\043\057\094\097\166\046\104\054\040\194\212\217\034\032\026\209\221\099\073\139\016\208\145\237\150\213\143\174\055\175\086\110\189\083\065\143\190\197\123\216\229\005\078\203\040\082\028\198\181\171\101\220\154\039\255\113\056\227\128\137\102\190\164\056\100\216\129\142\134\203\125\231\174\172\116\050\023\192\204\173\069\254\064\009\020\078\107\040\214\108\023\123\085\206\067\027\055\004\008\168\150\247\201\229\103\228\004\016\173\033\119\024\097\148\191\027\032\236\089\130\146\161\032\083\194\175\139\179\084\018\118\113\129\000\174\074\093\233\060\092\099\047\114\060\105\188\183\217\088\194\018\017\134\184\119\017\217\033\213\109\196\052\212\003\236\159\135\143\147\243\132\014\201\160\030\198\081\105\255\098\084\152\238\061\200\003\245\178\160\192\119\192\179\167\252\085\109\140\189\044\041\067\238\031\139\048\205\065\062\023\111\187\171\022\072\104\112\157\101\048\132\096\214\037\036\161\183\095\129\127\145\162\043\245\058\145\059\143\219\001\067\233\223\190\237\237\111\041\154\200\195\128\039\177\040\020\064\099\211\026\223\061\103\075\187\083\072\060\113\125\171\124\122\022\055\111\206\226\206\237\086\189\190\118\022\105\230\255\022\008\056\129\021\087\148\189\237\172\240\061\197\174\109\061\207\214\032\196\193\169\158\045\205\178\073\118\230\065\093\108\196\231\186\129\187\163\111\104\218\030\010\115\206\222\180\172\216\096\171\181\127\249\018\096\246\224\045\035\078\241\230\190\092\043\048\094\104\231\082\198\117\214\111\228\028\188\148\076\054\238\130\058\126\140\057\254\007\126\073\086\197\042\216\139\249\023\114\074\181\193\165\067\069\034\252\131\097\009\187\146\025\182\152\086\126\025\171\117\017\199\114\140\237\185\139\053\204\202\088\255\048\239\140\100\252\052\119\073\036\122\016\245\172\235\196\226\248\079\001\093\041\232\129\224\095\064\097\047\162\148\176\053\141\043\188\156\186\066\201\048\235\199\074\241\253\216\214\232\141\000\146\015\117\049\078\017\169\129\148\000\223\165\113\227\077\033\004\099\180\145\200\041\105\180\161\244\040\163\167\124\214\206\160\010\228\196\167\212\128\049\184\026\126\053\087\239\005\174\050\064\250\053\071\083\044\212\109\125\086\134\017\112\097\111\197\202\215\224\131\033\098\237\194\245\155\135\059\136\088\100\120\128\162\140\033\066\205\252\006\008\104\193\192\200\226\166\030\197\250\188\161\241\232\192\088\009\077\177\253\114\219\009\045\205\196\189\045\072\228\242\196\006\159\127\014\124\208\038\005\115\217\146\209\060\180\038\213\208\172\020\117\175\038\053\169\123\122\008\088\084\008\082\249\243\043\004\090\133\222\169\238\077\043\153\253\249\087\175\112\200\207\201\121\071\208\252\068\021\240\152\060\071\204\223\017\068\228\132\139\219\142\227\017\203\073\014\248\032\109\066\141\080\207\030\207\024\114\186\088\020\252\177\196\033\218\079\075\112\049\055\150\113\136\147\224\109\054\024\153\176\141\190\130\251\185\061\133\049\169\070\056\232\061\134\051\217\187\095\018\247\232\077\073\075\090\095\171\144\010\245\184\141\078\154\210\054\196\101\068\130\254\088\075\011\234\081\217\103\003\188\177\065\057\021\124\077\161\037\200\207\220\252\045\193\091\173\089\124\244\204\225\004\050\168\201\245\226\051\211\196\083\049\136\223\058\206\007\141\243\125\122\130\197\063\201\069\021\164\240\066\077\170\065\174\136\238\042\045\002\166\222\240\066\088\235\051\004\096\195\229\230\031\092\057\217\003\121\008\076\059\181\002\003\069\078\121\232\237\183\000\090\160\220\200\102\001\046\190\175\089\124\096\026\207\143\099\060\128\244\006\132\043\019\070\040\171\199\080\208\060\205\085\005\110\163\100\091\229\184\245\079\214\043\237\030\065\094\120\244\210\063\054\085\047\085\079\208\060\140\080\216\179\193\201\026\079\013\167\175\176\213\082\006\013\124\133\143\045\073\241\045\133\008\159\089\241\219\216\022\040\118\067\152\002\237\157\181\105\241\148\246\033\218\076\220\055\115\035\003\092\139\070\239\109\061\014\038\055\250\033\016\157\078\073\167\221\166\015\230\007\047\031\240\236\054\091\000\141\203\211\020\082\143\228\089\014\173\175\085\182\010\204\228\225\021\062\142\255\075\142\142\089\136\065\007\186\016\248\118\086\093\075\088\246\166\096\128\113\042\080\125\037\086\058\130\032\092\035\021\030\041\184\123\152\235\231\230\120\239\159\093\152\009\198\103\255\040\028\127\218\168\000\096\060\094\236\053\149\100\241\167\244\165\153\003\252\039\040\037\173\028\187\204\195\167\036\218\030\110\137\108\131\205\187\027\179\078\087\230\122\157\159\225\055\014\024\156\190\022\220\084\019\237\214\220\239\012\093\091\244\206\047\080\170\188\109\192\065\151\245\204\001\037\038\103\171\188\130\060\033\144\009\019\099\188\083\165\102\255\112\076\085\173\127\115\128\011\017\192\160\133\045\254\112\172\110\204\232\010\142\007\055\107\162\252\127\224\187\078\082\143\076\107\240\065\244\187\048\169\159\177\117\117\163\137\248\022\157\169\196\102\009\021\094\147\163\155\238\158\129\192\244\096\209\108\126\003\014\085\030\109\019\043\173\190\163\136\194\061\138\150\240\228\023\089\195\168\002\139\121\135\028\063\129\083\074\175\181\064\039\084\087\046\091\200\214\183\183\020\015\248\021\042\032\022\237\089\157\190\183\122\217\204\005\223\049\074\070\251\078\080\217\209\031\198\085\029\153\186\088\026\047\032\094\009\016\091\015\178\036\142\187\243\196\163\179\172\065\023\026\200\008\140\136\229\167\013\096\197\209\008\241\051\060\127\079\170\117\201\239\199\143\254\251\111\243\153\161\192\217\150\067\184\134\075\177\143\069\217\010\097\038\060\008\241\121\019\225\195\008\047\008\141\021\221\142\174\035\243\063\053\072\157\124\101\148\243\214\049\017\016\111\105\084\147\017\164\028\140\009\233\129\120\194\032\246\008\064\059\253\012\016\054\173\004\015\117\229\178\099\133\078\100\135\154\013\002\131\087\104\215\198\172\149\031\191\160\112\085\059\174\073\079\129\162\084\164\047\081\048\207\210\248\052\208\090\117\024\091\231\040\119\195\198\166\005\126\080\022\143\156\079\175\183\211\018\015\109\082\211\197\009\070\158\102\252\041\172\157\027\205\131\045\157\044\204\113\140\236\243\193\192\158\129\164\002\040\057\178\049\222\244\075\147\176\060\250\218\063\166\166\220\176\251\126\013\232\254\162\192\194\044\168\029\120\202\099\225\176\109\077\217\066\137\141\030\199\039\205\027\229\060\042\047\093\202\053\254\223\181\212\127\103\102\173\235\148\033\081\012\166\025\037\155\050\125\020\126\188\196\247\197\253\071\191\095\043\082\082\160\190\202\142\115\002\034\236\094\094\127\044\064\097\221\224\179\146\241\130\121\244\189\143\054\091\246\254\145\074\021\047\051\124\063\150\085\017\214\036\174\037\219\116\037\069\015\187\080\058\186\108\177\200\084\174\179\215\015\116\099\137\138\160\238\005\013\050\222\255\249\176\042\012\045\207\119\167\036\206\152\002\202\106\246",
+        "\165\034\107\087\082\153\217\128\215\039\221\007\027\043\119\196\003\006\229\197\202\103\207\014\222\153\051\017\195\047\001\236\160\141\212\101\138\142\119\166\141\102\244\186\124\145\144\176\121\110\222\021\067\150\013\124\084\000\000\162\069\213\000\088\122\020\035\019\108\241\122\139\041\196\253\055\038\072\055\138\192\160\177\240\078\153\050\135\044\178\085\158\141\186\185\238\005\046\081\157\213\152\241\243\246\168\020\199\228\024\007\211\047\064\120\213\216\120\161\230\233\049\052\061\066\210\005\102\004\084\117\051\147\154\162\118\076\167\080\131\142\040\150\105\029\149\050\239\122\035\050\080\237\246\202\182\088\023\073\115\183\253\180\032\122\235\037\240\131\016\201\197\253\096\125\236\212\048\060\105\078\148\076\126\110\121\043\067\154\128\056\220\105\175\034\118\105\119\017\000\243\121\178\170\008\185\087\030\215\128\108\129\014\196\166\040\228\049\115\026\227\007\095\075\118\185\215\133\054\072\255\116\245\094\208\125\120\042\177\182\095\254\235\109\149\170\206\006\140\152\165\117\013\177\091\122\054\183\234\157\186\070\157\234\223\039\158\109\081\172\046\108\173\036\210\108\204\062\092\205\208\033\239\154\239\072\194\051\002\036\116\207\226\111\064\047\027\082\234\181\074\054\101\248\060\096\068\165\118\138\231\062\253\144\098\147\097\241\054\255\048\102\154\104\068\187\188\244\208\085\253\162\044\192\234\032\096\071\077\156\114\083\008\011\148\134\021\198\075\155\050\197\030\252\075\151\250\032\168\241\121\171\215\041\240\106\087\113\105\063\009\209\153\181\087\230\128\079\033\092\087\054\103\045\023\093\205\150\199\152\144\222\134\202\151\184\088\183\068\220\176\167\143\040\193\193\107\145\135\034\158\142\154\192\113\238\117\002\030\159\129\005\247\115\039\057\086\154\072\020\072\226\143\031\253\176\196\069\222\189\215\112\179\146\173\045\203\193\171\098\094\243\003\160\145\119\193\067\041\229\148\079\252\102\107\005\092\143\136\072\069\039\212\179\073\161\155\105\063\095\241\231\171\171\034\026\236\116\172\142\018\198\020\100\012\011\114\224\154\003\184\194\061\130\195\100\168\230\035\149\056\106\171\052\020\028\155\145\161\080\063\131\108\142\157\073\211\144\039\033\115\068\092\170\085\142\009\227\215\192\039\139\092\215\048\153\179\123\155\235\072\181\213\156\014\110\018\246\034\171\210\066\096\138\053\249\049\010\004\238\240\067\123\046\068\053\216\148\161\248\166\044\121\089\180\072\034\156\045\100\137\020\207\205\149\013\035\150\092\133\000\163\008\170\247\149\133\024\251\165\253\207\172\069\219\246\100\009\180\081\000\139\148\114\110\003\070\245\251\169\120\200\090\206\058\057\093\185\191\111\224\066\201\054\192\048\215\066\014\102\011\198\045\084\221\177\015\204\130\170\149\245\054\204\104\170\167\033\200\133\133\224\019\226\053\102\022\230\039\246\023\159\011\088\158\225\255\088\007\225\097\064\201\147\218\003\132\195\071\156\211\245\104\035\180\254\076\151\050\095\124\202\217\086\231\203\044\006\145\036\175\095\250\218\112\108\069\034\005\146\081\227\089\002\004\240\056\013\048\023\153\146\069\106\175\027\172\215\174\185\042\209\093\157\102\212\098\118\018\255\083\142\215\045\070\164\001\254\232\145\234\221\064\104\040\179\237\060\118\108\252\254\102\048\107\250\183\094\115\178\202\072\150\048\221\177\107\210\228\029\041\229\159\080\245\007\188\048\235\061\092\230\241\211\211\219\065\247\021\171\123\020\224\181\082\203\169\168\161\133\072\194\075\160\099\197\144\058\154\186\004\139\119\105\093\033\030\147\004\011\140\246\096\148\050\254\221\068\039\077\190\179\201\247\168\043\077\094\234\005\090\243\155\196\223\054\014\238\187\018\065\174\048\117\229\048\006\219\127\155\127\208\156\070\254\045\152\020\118\018\217\097\161\162\223\058\187\129\014\041\108\015\058\089\030\107\245\208\053\020\152\141\198\055\018\101\126\073\151\159\245\106\064\078\223\118\081\113\244\132\000\203\162\065\066\131\117\242\086\161\066\048\125\110\023\099\248\206\226\000\145\124\228\130\219\187\213\042\064\225\208\118\208\207\017\097\205\165\067\110\242\038\197\036\135\205\136\226\038\170\194\248\071\000\089\148\152\160\010\117\000\004\092\142\083\042\072\040\022\068\165\227\149\209\085\117\015\250\050\034\117\206\189\251\247\182\103\214\085\249\037\017\229\079\174\234\099\215\223\063\124\175\177\181\025\086\139\253\108\194\044\106\187\064\085\182\232\016\055\130\222\188\156\180\082\060\215\020\212\181\109\134\091\137\128\008\088\189\255\106\246\080\145\205\210\246\041\221\138\132\223\206\008\226\039\014\143\066\248\255\135\000\138\163\008\055\041\022\045\031\073\115\021\045\115\167\128\232\247\049\050\141\079\243\176\080\085\243\002\201\037\214\075\139\208\029\221\055\183\033\099\073\014\207\241\218\227\036\208\015\038\125\010\160\206\055\180\052\188\239\254\124\119\246\224\011\213\233\065\252\108\085\227\066\188\055\018\205\029\124\095\098\103\055\154\094\099\169\227\070\244\242\219\164\005\147\112\215\050\171\092\003\053\237\120\001\034\100\194\126\015\230\047\218\071\075\054\202\039\171\025\177\151\101\241\186\232\221\111\185\126\027\184\191\058\035\059\127\167\012\082\121\233\156\255\121\102\133\041\194\049\098\044\078\059\112\153\069\054\012\006\184\089\240\152\172\145\045\085\179\002\222\039\247\184\196\175\022\087\116\207\193\154\016\003\023\121\107\052\191\013\091\208\199\070\228\105\064\082\069\072\172\200\176\141\177\152\200\023\195\180\219\129\023\129\223\078\014\248\046\252\152\137\001\204\224\239\138\081\243\150\147\187\030\138\030\225\006\161\173\016\132\020\119\149\070\233\022\019\039\033\113\089\073\164\054\200\248\237\006\219\076\117\123\125\083\225\228\121\106\234\191\112\059\014\248\101\202\240\224\008\090\194\236\195\077\152\060\131\009\208\150\071\153\007\010\105\004\101\196\178\106\140\052\000\228\064\030\090\025\210\125\008\160\080\086\106\016\110\044\245\252\051\063\244\114\099\132\088\077\162\103\218\105\176\067\202\123\038\157\150\172\122\058\028\241\118\125\175\040\066\099\235\244\173\145\079\092\162\036\044\035\088\147\070\229\058\037\110\218\154\047\167\233\022\012\226\064\198\220\239\240\043\255\061\175\215\080\109\177\243\033\156\116\231\251\112\086\108\018\228\077\229\138\212\124\185\113\072\145\216\088\128\232\064\065\195\097\073\052\222\253\040\179\150\059\033\086\149\053\107\066\245\123\228\103\116\182\117\126\035\203\067\193\186\138\144\109\086\212\173\248\002\173\158\018\008\113\110\097\250\249\049\222\127\114\254\145\223\249\106\105\076\251\160\166\000\079\081\170\223\016\099\081\027\060\089\118\169\004\128\201\023\047\223\075\089\007\220\136\109\232\171\147\156\008\153\198\138\172\113\055\000\012\059\011\116\034\109\035\094\009\229\076\058\018\142\149\069\168\022\059\096\228\089\008\033\239\143\224\211\032\053\074\199\179\188\166\124\226\244\045\252\085\091\172\185\087\068\000\093\213\063\080\082\111\131\013\014\169\097\171\031\020\150\069\250\037\124\027\131\214\006\230\092\250\015\131\238\097\077\195\055\175\252\127\084\253\066\219\213\045\100\221\204\027\171\229\114\054\020\242\225\164\186\151\086\221\002\190\047\168\128\032\194\046\198\128\229\006\174\180\056\115\098\066\057\128\154\209\005\224\028\005\226\135\042\092\211\005\175\230\196\165\048\068\198\073\113\011\072\021\231\178\239\130\225\089\179\204\116\060\141\038\025\245\003\042\092\117\121\096\163\193\058\207\077\098\072\248\093\204\228\108\251\058\220\039\121\016\179\179\084\058\208\253\218\136\116\246\152\028\083\233\135\008\164\159\245\206\239\089\053\158\008\185\006\077\215\148\196\021\060\082\080\015\217\089\195\113\162\096\205\135\037\153\214\115\154\140\070\186\175\245\144\022\016\095\031\088\184\133\088\026\236\107\129\243\094\060\119\104\215\226\017\239\198\142\085\185\070\017\093\036\082\056\007\250\083\201\096\108\087\029\208\209\041\070\241\030\023\148\149\036\126\244\145\127\026\076\117\133\015\159\074\136\182\227\050\250\037\160\222\217\156\077\189\251\016\106\225\200\248\092\178\095\221\251\085\151\235\078\218\187\077\155\040\006\178\253\171\221\234\041\163\206\048\004\187\076\059\079\061\004\004\141\103\224\086\165\127\068\023\057\029\229\088\199\014\205\030\130\003\076\248\238\248\133\029\062\105\126\228\109\052\120\217\032\076\046\061\071\036\210\117\028\213\204\137\077\007\051\210\097\199\008\141\103\194\053\034\242\081\083\050\061\213\253\099\008\249\064\235\052\091\134\221\032\156\042\032\198\085\082\181\148\194\196\043\011\045\021\034\007\028\097\192\070\058\196\121\139\006\148\184\029\033\097\040\253\249\174\185\161\227\108\115\019\086\058\254\082\093\095\237\170\080\158\206\210\123\054\242\197\010\001\253\097\226\228\044\192\178\025\110\090\223\185\022\215\048\034\114\181\061\073\099\148\149\100\182\123\178\108\168\196\157\083\016\127\090\004\195\098\033\030\158\104\081\112\085\215\225\093\251\171\018\010\081\236\120\191\206\204\245\190\114\131\089\034\076\235\211\041\181\219\030\121\171\067\107\203\025\022\013\040\203\191\231\224\152\202\149\071\112\032\104\047\041\175\228\041\005\031\065\122\007\033\255\223\248\100\042\004\056\109\065\183\069\050\210\238\013\120\132\006\244\236\001\042\135\004\167\041\167\147\239\049\109\047\161\009\200\103\186\074\134\247\025\150\195\180\236\156\136\166\220\201\176\172\251\206\186\117\103\215\087\190\186\133\180\250\104\175\135\087\040\239\219\148\044\143\156\166\076\244\226\013\054\054\000\242\097\093\066\006\179\234\174\025\246\173\188\124\251\137\125\002\140\244\017\091\019\044\040\194\011\059\242\166\041\171\052\023\090\010\028\163\028\028\197\027\139\007\137\173\245\078\010\255\002\195\255\014\102\081\192\201\065\170\144\108\079\237\171\157\210\013\016\073\063\036\045\061\168\093\188\142\236\185\132\147\160\137\126\206\188\170\186\230\008\126\148\083\048\173\189\253\024\160\015\240\175\204\016\246\093\104\072\249\121\128\067\028\128\117\097\153\174\235\098\089\113\232\197\085\143\166\171\175\023\250\217\161\009\149\229\207\197\001\250\016\052\089\159\066\162\203\139\081\192\207\057\150\176\036\047\105\221\165\011\042\004\104\082\030\226\122\248\014\247\151\161\159\180\255\230\112\096\184\166\246\197\012\104\242\155\105\117\149\182\032\248\226\239\226\078\149\210\254\163\109\012\088\061\196\173\041\142\026\145\120\249\127\011\092\100\083\154\238\130\168\187\021\222\091\237\228\166\238\114\242\061\036\027\118\144\095\102\142\193\185\100\067\246\228\107\117\116\196\129\237\045\178\131\025\021\252\025\135\051\030\104\031\030\219\074\035\074\117\198\232\018\198\235\085\136\030\080\002\253\221\149\140\079\209\164\006\245\083\137\014\181\032\033\032\173\248\139\160\128\249\078\237\171\162\074\218\151\047\096\230\077\227\225\053\190\204\186\082\214\197\098\167\072\234\085\184\022\245\028\044\223\227\147\108\235\008\142\011\247\239\052\172\215\245\123\238\074\164\084\243\206\208\151\145\124\080\175\157\220\060\005\225\088\040\045\220\051\046\211\061\127\101\100\030\177\230\147\001\231\089\009\139\253\237\085\002\078\182\148\136\074\110\101\024\188\203\181\039\216\160\049\125\008\178\135\240\101\091\251\164\097\225\138\211\000\148\216\050\132\171\219\049\183\236\074\245\226\204\195\027\051\213\205\044\104\154\042\222\097\215\029\016\106\051\080\120\072\059\008\104\005\068\233\097\123\004\212\207\163\237\239\069\173\077\150\099\106\039\009\157\232\207\214\125\011\089\007\084\087\080\012\176\158\086\103\157\239\103\035\158\213\096\197\105\104\120\163\102\017\080\154\002\030\186\097\053\005\022\060\253\120\111\253\110\044\084\236\223\105\120\049\217\105\009\255\066\237\208\125\107\026\013\121\113\140\016\204\058\052\154\139\052\001\246\242\201\134\175\017\160\067\180\070\154\241\224\003\135\145\206\204\172\060\087\072\223\167\074\045\233\120\195\139\173\076\072\005\000\158\166\109\199\219\138\057\035\122\222\166\240\175\233\168\095\126\044\152\044\149\210\156\155\160\135\213\052\176\254\094\061\255\020\170\252\116\122\113\169\245\251\074\031\111\154\082\205\166\112\005\196\189\072\050\089\110\250\001\108\121\136\223\198\222\250\046\246\141\249\171\101\009\051\163\014\094\073\213\255\144\057\038\143\121\249\021\096\000\245\183\019\036\090\243\206\201\080\190\133\066\128\073\126\162\111\062\099\194\155\073\095\249\091\146\044\046\116\051\243\250\122\094\227\213\237\077\141\203\018\237\029\032\139\073\090\148\196\183\091\244\217\215\010\004\235\243\090\011\039\228\072\026\130\193\149\029\185\086\071\163\046\072\199\109\132\195\005\198\253\166\064\062\147\099\068\063\215\174\211\148\130\238\149\104\023\097\218\039\070\013\015\050\154\106\252\129\244\187\195\230\057\181\153\030\055\023\065\153\024\145\087\009\031\174\008\172\249\221\079\090\223\136\063\096\110\237\156\193\070\137\207\213\100\068\029\194\028\095\057\236\184\025\129\205\088\036\251\191\090\203\017\014\023\224\013\205\131\064\083\095\250\016\096\193\118\052\134\157\038\223\100\014\120\231\046\052\165\105\145\119\026\195\107\156\138\044\163\119\208\112\215\232\134\089\174\052\101\218\138\251\097\254\250\217\154\147\248\150\099\149\229\174\055\070\072\091\126\120\070\090\089\140\225\121\096\157\230\229\044\253\240\048\108\166\039\037\200\177\189\076\121\191\090\037\165\047\079\144\124\003\038\050\019\147\041\157\016\244\096\238\210\038\071\158\201\255\070\200\037\219\246\172\240\022\018\247\094\199\063\204\250\174\124\150\245\237\103\144\229\102\056\017\028\236\110\152\200\033\119\156\203\169\149\006\091\112\079\168\089\226\206\019\114\205\129\176\010\020\083\183\141\025\167\038\026\232\019\120\013\059\223\119\123\185\059\207\061\055\068\088\143\003\181\034\092\070\107\068\019\212\148\100\071\028\237\006\005\178\238\128\249\031\211\031\064\143\165\064\010\060\042\177\004\156\172\255\061\073\120\033\046\180\020\241\195\138\065\136\129\240\175\072\014\028\130\168\016\193\137\191\059\199\052\145\138\119\119\029\099\231\204\034\115\076\093\209\070\122\217\118\169\015\023\229\192\096\037\173\230\036\159\144\071\226\168\216\049\028\170\212\129\057\203\032\142\051\046\008\112\003\238\210\108\197\219\204\135\186\242\024\183\011\136\059\167\164\189\100\015\035\034\124\209\087\126\244\212\002\071\048\164\066\185\056\198\194\179\058\220\163\034\198\148\040\064\234\195\036\139\002\236\035\136\109\251\081\057\111\242\101\095\188\098\020\112\197\174\124\123\197\055\226\220\138\048\015\061\004\065\122\109\143\221\181\165\000\100\091\035\154\248\183\044\194\031\054\076\042\029\141\126\120\015\169\140\060\197\091\073\225\124\192\145\226\204\113\005\140\134\122\131\207\222\187\104\205\084\026\133\033\010\154\221\243\220\017\037\189\059\161\047\218\200\012\060\211\182\239\141\127\220\177\135\083\157\043\201\041\120\020\083\177\115\046\057\089\005\050\033\218\133\124\122\069\214\082\123\058\145\214\226\239\219\057\105\000\044\105\008\250\004\060\238\166\064\236\056\021\055\035\152\112\151\130\000\124\254\024\175\254\088\143\193\134\251\026\099\117\131\029\222\212\109\156\142\211\140\101\164\126\168\253\162\085\109\086\146\214\198\021\009\203\000\213\223\087\180\109\184\194\155\226\240\004\049\093\095\019\015\054\027\236\008\216\170\122\005\114\193\184\161\094\185\194\131\086\245\234\105\085\123\149\087\078\042\216\190\144\189\061\249\222\127\184\169\190\206\114\079\144\082\084\007\057\223\085\217\132\173\132\211\222\008\212\237\251\018\171\157\078\205\041\056\056\102\035\015\240\081\072\069\048\253\057\114\160\005\193\249\003\234\131\048\036\142\088\038\126\110\213\060\174\159\175\187\171\138\198\178\108\103\239\223\217\122\127\087\188\030\152\219\109\042\054\248\062\008\248\224\114\253\196\006\201\159\152\123\176\173\200\011\042\071\252\022\125\129\178\041\156\084\218\101\088\094\252\199\069\093\140\067\087\106\143\133\195\245\234\114\068\132\105\145\109\056\141\226\085\216\022\117\092\024\083\200\092\032\044\227\081\019\251\053\008\120\190\045\144\215\061\152\096\199\113\189\072\073\071\078\025\013\006\137\019\103\218\187\019\018\029\233\149\168\240\176\235\221\198\115\109\127\174\228\041\046\097\006\215\219\011\022\095\004\218\032\217\179\071\093\019\014\039\083\214\073\126\171\125\080\184\209\097\035\050\078\006\113\093\218\008\023\187\093\195\096\232\103\197\254\115\160\245\198\162\142\131\047\069\031\118\136\057\191\119\252\187\207\200\072\110\209\030\018\042\060\218\241\138\025\240\171\052\093\080\231\003\009\142\148\055\004\144\063\100\179\253\067\024\094\099\106\008\066\042\112\049\123\060\059\023\111\114\216\100\167\189\058\076\074\035\177\075\081\062\043\170\040\030\046\208\244\014\142\079\177\061\011\170\020\131\058\232\031\098\223\218\134\212\107\052\197\057\189\061\254\003\006\111\148\035\246\124\136\055\116\207\106\112\022\107\255\068\094\083\128\217\182\110\220\073\045\219\241\244\239\193\004\157\134\215\111\007\211\175\018\089\202\197\104\219\239\075\093\026\132",
+        "\178\244\239\211\248\154\095\070\194\071\150\129\208\090\148\100\113\049\149\253\137\144\065\077\148\176\152\198\036\230\155\136\092\006\187\088\080\198\241\096\015\062\242\169\105\248\064\089\128\083\226\177\022\235\087\166\144\179\189\208\205\216\096\234\141\086\086\127\094\086\176\061\064\078\102\160\042\215\003\027\080\077\017\024\059\040\066\182\017\045\099\067\030\229\001\123\241\037\194\126\204\065\238\147\167\240\207\159\001\239\172\101\103\150\047\131\197\061\155\022\112\085\161\087\225\069\021\235\155\006\088\142\158\125\136\024\145\168\105\220\195\075\018\233\237\145\087\006\148\050\250\110\003\211\123\076\024\194\032\245\211\103\232\231\160\004\228\111\100\200\058\158\074\167\209\048\074\246\163\248\144\201\247\148\051\013\073\080\121\100\249\081\030\213\181\193\168\214\167\147\109\202\095\243\108\059\099\143\215\253\021\136\089\049\045\055\042\124\224\160\212\034\231\183\194\147\198\060\141\209\109\231\006\134\241\043\003\225\182\018\234\052\002\236\000\079\041\013\092\154\114\114\006\244\203\222\025\089\045\217\041\022\205\109\137\249\008\166\230\154\013\204\221\018\056\094\071\027\136\207\069\221\019\014\016\211\010\150\126\110\015\134\083\104\095\174\080\233\187\102\001\093\025\080\242\016\012\021\247\142\241\053\008\203\223\128\154\169\076\084\068\105\127\147\227\233\168\103\170\165\024\181\241\031\094\098\192\165\106\067\029\160\234\013\022\178\234\033\141\150\042\016\208\182\151\058\190\137\118\091\003\179\088\203\202\232\187\185\096\049\128\048\091\246\017\204\189\050\106\058\191\106\040\113\091\207\112\178\150\057\044\064\144\137\126\224\076\134\132\058\064\117\094\245\156\126\253\092\091\190\035\246\010\043\025\039\092\043\025\051\120\244\117\205\216\162\135\043\087\039\092\026\183\147\031\000\183\076\071\148\069\193\126\095\069\208\070\246\030\067\163\244\002\177\232\172\250\115\178\216\185\142\232\160\029\067\219\083\145\117\135\245\192\191\126\230\084\082\151\139\235\143\086\047\058\122\026\190\125\129\009\071\081\196\188\051\202\215\147\067\219\039\062\075\097\040\251\176\236\167\103\177\078\134\023\003\230\018\168\189\170\035\165\131\217\248\111\177\034\207\162\252\151\071\071\077\066\118\189\245\027\202\100\244\111\117\014\239\225\181\038\239\215\003\158\223\126\208\154\196\089\165\221\186\136\205\009\178\210\034\029\237\116\177\035\045\171\086\084\246\003\029\047\154\094\088\012\131\173\131\213\037\223\217\117\181\133\178\254\051\098\186\158\208\008\067\064\036\103\013\001\050\035\127\089\032\149\212\005\179\156\226\198\140\038\217\142\036\126\238\244\123\087\114\039\196\156\172\079\107\245\116\045\015\007\145\061\100\229\211\165\159\233\241\218\177\091\053\017\065\048\136\108\106\254\024\225\054\008\157\234\220\175\201\236\186\189\127\130\017\121\215\240\130\107\168\212\058\239\039\072\053\124\072\004\182\178\215\228\039\059\088\169\023\248\160\096\099\059\048\146\221\208\105\048\148\017\239\061\021\047\087\057\097\058\103\081\176\203\095\067\233\202\157\050\220\003\103\135\069\112\154\052\115\064\195\077\027\171\240\174\235\117\083\253\212\065\155\236\133\180\018\036\170\188\119\241\227\076\143\173\152\047\170\238\181\022\143\111\037\017\109\202\017\027\104\159\213\110\015\089\198\140\108\123\167\012\221\172\242\037\175\186\135\252\127\090\060\173\084\173\021\037\122\007\179\142\029\093\155\116\169\107\043\230\245\167\022\089\218\232\150\223\001\214\113\175\229\052\173\093\103\012\018\161\003\031\100\228\233\041\093\138\097\144\108\002\240\129\089\143\046\065\164\211\101\024\121\032\238\168\208\127\076\224\090\131\005\160\219\198\068\039\084\028\048\064\065\062\000\044\045\132\027\078\242\091\223\153\173\040\136\188\133\105\121\246\027\131\119\072\207\074\167\111\195\079\013\071\115\237\169\204\028\018\080\167\014\195\073\112\125\145\167\221\080\131\105\165\149\161\082\055\250\247\127\028\194\205\222\044\135\106\090\116\177\016\248\230\180\133\216\168\014\089\075\182\252\250\145\206\255\117\142\130\055\013\099\067\151\125\211\135\089\013\089\061\186\087\005\155\168\209\026\132\151\066\105\184\064\096\107\189\144\019\015\140\208\237\154\252\163\055\143\239\188\045\092\077\096\189\098\121\159\027\136\202\082\004\250\164\238\207\111\100\112\056\005\251\219\236\221\096\222\212\115\254\061\035\190\145\020\049\011\221\079\171\154\018\117\161\235\250\111\207\038\232\005\196\049\097\031\098\105\138\184\042\032\061\161\067\000\065\251\075\249\138\114\222\198\004\035\231\083\094\221\169\210\097\084\140\159\087\034\175\212\136\066\253\172\107\161\219\153\136\077\031\063\047\190\012\147\219\215\170\009\099\157\180\033\230\183\104\054\116\165\021\138\143\192\102\014\012\246\111\254\115\065\121\130\054\238\141\082\177\154\195\021\162\136\072\123\144\079\062\026\081\105\247\010\123\108\250\063\143\086\045\182\226\017\040\001\079\180\186\182\158\124\010\120\179\140\189\087\132\100\189\025\123\035\196\200\146\125\170\054\190\140\111\018\048\234\008\189\009\243\234\236\186\247\123\002\045\023\127\042\178\038\231\056\170\139\182\061\249\042\063\236\041\026\159\214\094\033\240\154\254\242\117\188\028\037\131\225\169\250\171\109\087\206\130\111\104\089\048\226\168\173\183\088\096\216\004\251\134\190\184\105\199\216\179\083\222\067\112\216\191\237\225\159\134\149\088\182\034\069\125\046\193\060\198\096\251\174\003\089\190\061\056\065\252\055\252\093\021\146\213\007\026\168\061\047\095\179\121\006\171\034\025\153\093\255\077\051\148\016\238\122\030\155\072\071\052\218\169\072\220\059\164\088\023\227\050\153\205\095\115\087\121\086\059\174\148\098\040\130\195\210\031\179\192\037\193\056\006\069\017\132\083\131\191\195\157\086\053\085\023\233\096\160\052\217\062\175\126\084\044\137\031\162\240\078\186\017\103\023\016\098\154\139\117\153\245\065\246\185\113\207\071\070\233\231\111\127\132\056\050\091\051\016\080\070\176\005\055\152\074\230\247\218\114\214\119\165\002\202\245\172\081\160\115\005\247\251\193\206\069\226\201\116\254\024\194\105\195\057\024\242\013\153\027\099\015\220\105\023\221\128\028\046\041\013\180\008\098\240\195\128\044\007\091\233\166\164\060\201\118\098\154\088\149\040\063\182\224\021\094\254\094\218\006\192\082\208\034\232\000\216\013\092\054\243\255\243\184\160\059\029\114\249\249\000\194\161\020\140\023\236\120\121\082\099\073\003\036\063\212\102\171\130\061\025\242\091\187\202\067\014\116\028\048\117\025\057\096\189\006\137\026\003\197\187\147\180\126\218\234\167\226\028\069\247\215\106\174\162\224\166\019\227\075\128\225\082\028\248\082\164\188\156\064\179\097\127\251\063\061\248\036\185\122\032\132\043\125\009\148\064\073\190\200\022\138\227\159\254\035\168\108\099\206\073\225\094\100\108\096\024\029\029\002\227\118\174\092\023\224\174\065\174\043\076\142\159\177\082\180\013\066\157\134\218\211\084\086\206\229\232\156\005\194\205\233\147\063\245\175\180\140\017\211\100\167\135\246\119\101\043\131\189\147\237\121\218\100\103\246\231\254\101\135\197\162\250\077\069\156\055\051\250\232\234\199\216\162\167\004\121\046\085\093\201\043\173\027\147\025\116\024\167\196\118\247\050\120\065\050\109\232\167\234\223\189\241\110\133\089\227\141\241\181\098\156\113\037\084\070\228\137\052\022\093\082\250\211\125\207\100\049\141\022\126\119\094\175\222\045\224\003\117\096\148\130\071\152\066\151\233\209\215\077\188\072\052\190\231\202\101\027\022\193\019\096\244\246\108\053\105\039\100\130\183\077\070\057\147\169\219\154\198\148\063\253\124\004\129\033\111\221\254\098\017\252\122\162\065\244\003\245\073\031\134\014\119\059\044\109\233\040\142\070\017\103\236\047\235\163\228\148\252\215\054\225\009\084\059\255\157\147\027\132\057\188\192\176\099\245\052\183\042\108\187\178\005\063\172\127\198\109\019\043\143\143\008\028\187\026\206\000\063\129\171\121\237\246\173\133\108\092\067\175\251\205\090\248\229\159\152\133\195\236\146\022\116\219\110\228\221\171\169\063\100\128\171\110\018\238\090\164\226\070\124\236\108\163\208\045\222\177\235\209\153\083\211\047\226\072\093\188\039\094\070\242\058\145\029\252\136\254\169\038\022\138\177\043\060\070\155\097\036\055\165\002\002\226\080\183\117\238\186\050\081\136\029\064\221\126\221\185\235\124\243\035\141\167\203\019\028\014\220\202\234\003\188\177\181\030\129\239\056\170\187\004\018\118\165\054\240\035\009\061\218\195\155\178\051\128\101\057\109\084\011\105\143\239\039\094\104\068\221\190\145\207\026\165\018\169\087\243\050\077\113\034\141\040\072\236\149\215\026\122\236\092\157\075\033\200\222\223\215\175\220\041\082\183\192\178\061\080\187\141\034\223\195\001\165\004\071\226\132\255\021\011\078\183\013\164\230\137\218\143\173\211\247\112\168\062\015\203\062\207\022\027\212\178\039\106\227\198\028\192\043\156\239\083\077\135\198\110\022\230\255\029\193\231\125\157\240\071\153\146\104\128\020\195\143\143\090\007\167\131\065\129\200\199\160\028\122\046\103\216\248\195\127\029\185\078\095\202\047\166\110\124\231\175\027\118\137\078\190\080\169\215\023\095\146\034\117\228\253\014\062\230\150\249\024\055\051\097\156\011\215\052\145\066\110\214\164\115\248\018\074\251\161\254\089\087\193\151\099\076\032\082\215\215\087\093\205\217\011\119\027\149\026\059\021\137\189\207\039\195\024\031\247\119\236\193\057\144\140\254\103\029\091\095\133\129\193\147\132\109\236\236\128\055\182\255\181\184\154\012\038\130\030\193\137\168\012\034\096\105\105\071\066\250\243\014\025\083\241\026\158\211\242\126\115\036\010\099\102\112\046\222\186\007\070\183\146\249\125\198\153\164\198\213\051\115\111\033\223\130\109\109\082\177\169\059\019\220\157\164\070\075\076\237\049\164\191\196\061\218\102\014\226\106\205\082\153\203\116\107\012\016\121\182\152\220\254\206\233\249\169\048\132\053\032\151\077\024\078\019\077\060\010\112\084\124\188\057\006\092\118\232\072\085\046\146\161\127\012\053\062\150\142\141\190\093\017\049\183\056\121\181\038\109\222\220\212\092\244\125\140\238\064\220\039\229\041\143\196\163\003\125\008\062\130\156\107\023\148\135\152\171\026\107\176\141\219\039\202\153\112\135\092\070\221\006\181\186\183\121\141\113\076\073\064\151\226\110\121\137\040\094\160\030\116\091\157\230\055\203\196\115\170\030\181\252\255\190\141\144\155\109\212\112\099\054\216\010\008\160\095\005\179\246\121\147\025\104\230\096\150\133\217\034\196\000\243\195\092\200\197\153\137\099\106\114\134\166\234\251\199\254\039\129\252\110\077\102\009\119\150\030\071\192\135\082\018\254\127\132\188\179\150\124\015\081\116\235\067\206\076\231\202\028\046\210\095\045\242\198\005\032\207\008\133\039\009\188\088\178\149\064\172\222\040\111\017\112\111\104\002\092\110\107\020\183\087\065\042\219\026\231\024\181\020\247\252\050\137\164\081\049\184\093\013\153\165\011\197\244\114\020\193\065\069\207\060\097\101\235\243\079\066\159\161\004\194\236\188\239\117\243\049\164\060\201\139\153\025\180\187\185\020\051\004\057\233\184\102\094\130\160\181\046\181\054\049\233\013\202\144\002\068\153\248\255\014\048\220\214\068\030\036\024\229\024\254\119\141\094\043\189\074\164\170\218\113\012\120\063\060\216\049\007\019\180\021\049\055\002\185\201\052\228\033\250\021\247\014\181\012\172\044\221\010\114\050\201\052\196\255\025\010\179\072\099\074\015\037\141\078\214\003\052\128\197\192\210\134\073\145\005\183\010\171\059\021\025\102\081\076\152\139\142\172\020\131\110\100\089\232\119\225\106\023\016\002\097\215\158\234\183\210\233\020\161\196\115\051\253\093\067\052\160\174\041\139\112\184\129\008\136\212\066\046\217\201\004\055\163\149\203\159\005\062\103\080\226\153\080\172\078\050\043\075\236\070\246\138\057\128\249\031\035\017\178\090\231\159\034\214\069\255\193\070\017\210\163\020\072\046\127\115\105\172\014\096\086\045\177\077\107\095\030\176\128\018\156\115\176\152\235\224\168\205\054\104\241\238\201\136\234\067\170\066\075\038\248\045\029\072\215\034\139\088\189\180\238\228\055\151\193\211\096\045\211\212\136\019\134\110\027\119\017\134\190\227\079\086\119\016\000\115\106\019\018\191\243\143\163\164\048\114\219\116\028\188\131\092\121\137\054\086\061\238\042\251\079\022\239\182\172\153\049\103\061\159\125\063\018\208\093\048\057\112\013\205\004\186\081\045\019\070\187\188\089\166\026\201\102\251\090\190\006\229\254\158\084\138\065\212\199\140\240\041\006\043\126\114\226\177\035\088\029\190\007\240\028\110\120\066\125\239\112\179\034\142\184\088\068\006\180\106\172\005\113\224\223\124\136\165\111\012\038\234\219\025\168\164\050\150\052\121\084\113\054\119\166\129\113\016\239\157\174\165\094\103\040\131\198\059\041\119\026\229\066\137\226\171\062\165\072\137\093\209\038\134\047\073\090\253\065\188\034\157\009\253\134\052\055\245\177\129\183\124\092\028\164\015\044\035\004\177\044\241\225\204\052\114\116\231\146\000\241\254\186\230\091\191\166\222\011\015\148\203\110\188\230\026\173\145\135\122\072\188\136\239\092\241\204\036\112\140\063\145\236\070\140\111\061\103\120\035\184\213\072\243\247\184\221\207\073\136\217\106\109\168\167\129\017\201\165\223\175\074\056\151\034\106\235\036\026\004\159\229\023\228\142\148\096\008\169\144\019\080\142\078\171\064\170\074\215\181\074\134\021\242\236\187\106\063\072\038\015\169\105\082\182\068\208\001\194\049\234\086\004\176\068\226\205\114\200\086\121\207\176\070\047\030\016\038\138\123\224\050\048\223\248\104\035\023\151\174\098\098\167\142\155\120\116\174\105\008\196\077\246\090\244\167\120\096\168\039\083\118\056\174\005\124\181\254\216\174\113\121\189\003\103\233\180\101\098\150\074\168\081\070\097\077\114\059\255\030\016\231\109\054\193\202\217\091\089\222\023\018\016\206\105\240\112\253\236\208\039\237\118\014\037\156\127\102\020\184\226\046\169\021\195\177\182\045\143\117\033\165\248\052\003\097\020\173\190\201\080\248\210\155\032\229\061\133\099\236\033\131\149\229\100\251\184\139\212\154\000\179\113\236\065\072\034\190\025\013\235\052\221\018\226\169\068\243\175\073\214\212\121\109\018\028\173\194\098\244\228\006\191\126\104\202\019\214\125\185\180\201\114\179\171\088\105\178\003\240\231\097\239\085\026\120\241\139\238\217\217\037\205\107\102\144\058\186\186\024\012\075\125\153\143\202\208\000\046\178\248\132\046\068\199\166\209\147\198\234\119\185\050\083\100\193\141\159\076\048\030\050\160\107\011\053\155\211\103\068\011\155\184\122\224\107\117\000\117\182\052\241\162\220\140\184\124\255\203\101\247\147\093\155\013\017\247\085\247\100\134\089\216\107\220\125\085\077\021\157\225\221\199\087\198\183\246\151\244\029\185\154\140\146\154\062\044\055\217\177\250\232\070\122\113\022\250\077\231\098\183\177\233\241\029\214\059\199\146\008\158\017\239\242\107\106\230\146\213\211\071\000\247\219\187\222\163\150\169\158\233\035\118\101\105\018\204\033\089\123\112\103\085\219\004\040\220\178\102\165\221\221\221\251\079\179\009\189\083\240\138\041\184\002\115\037\054\013\109\251\120\088\207\212\240\106\142\246\095\213\035\189\038\077\049\091\076\233\061\079\078\243\043\142\170\136\187\243\042\241\152\024\241\196\091\148\069\186\046\017\032\079\060\018\124\028\216\214\081\230\110\204\116\195\042\206\023\026\106\029\028\168\217\032\027\071\152\220\050\195\111\050\144\153\194\220\192\065\113\048\182\077\185\112\154\066\027\092\088\057\151\211\250\058\234\222\075\083\120\226\132\124\247\017\248\029\221\083\196\187\138\001\206\112\053\102\153\115\124\250\195\092\092\088\090\146\069\004\226\097\020\223\037\221\085\102\189\123\153\131\098\111\195\032\244\198\250\243\071\066\057\113\178\249\206\222\116\172\131\075\047\232\135\011\220\223\030\233\040\004\008\039\113\105\179\059\127\129\009\220\167\147\185\202\127\132\007\152\177\173\235\225\186\036\125\195\223\235\030\079\161\059\078\244\142\194\140\115\181\040\193\165\021\181\069\200\011\235\117\147\125\070\037\023\085\067\074\208\032\005\036\087\127\154\127\079\074\053\180\133\039\249\237\063\229\062\225\233\002\101\034\154\225\058\176\019\222\006\202\217\029\087\015\182\006\153\178\110\193\120\178\164\230\250\197\072\199\091\000\214\109\168\076\081\102\014\137\003\129\039\132\241\181\138\140\032\172\175\250\139\010\027\105\223\127\145\090\018\139\234\059\041\020\176\144\031\169\125\067\182\112\018\129\080\159\054\107\081\179\085\128\220\255\212\204\174\047\053\206\148\015\250\042\165\078\010\019\066\131\130\118\206\112\076\231\046\186\082\075\255\118\001\081\154\115\155\117\201\077\094\047\068\051\097\101\239\115\040\237\240\202\009\187\021\120\067\202\194\206\216\198\228\084\046\122\253\063\110\252\231\061\132\154\075\195\047\131\220\219\138\053\086\088\022\184\058\229\117\058\070\209\189\117\182\156\082\039\033\069\053\249\195\081\034\037\220\155\105\029\009\223\142\004\180\004\160\219\249\068\089\102\241\129\251\223\047\173\211\094\146\081\255\003\017\227\174\233\046\148\237\204\059",
+        "\214\198\125\078\167\155\221\005\158\103\080\004\184\137\176\009\224\095\068\059\064\168\179\135\087\155\253\124\126\195\035\037\028\161\150\076\035\000\097\026\146\036\021\155\085\102\120\241\136\051\236\091\232\061\179\234\222\103\134\253\069\219\198\129\253\152\134\244\046\199\230\235\092\222\208\000\047\118\208\168\228\235\112\063\025\182\100\228\244\138\120\233\175\047\057\007\212\034\099\097\191\019\014\061\089\049\151\128\029\190\079\235\159\227\230\024\200\253\177\050\237\121\016\119\152\184\033\111\016\184\058\234\174\094\113\187\223\155\135\048\248\070\142\106\189\180\103\028\175\029\204\148\025\174\086\222\181\109\029\113\238\209\043\187\198\029\161\032\071\128\171\098\150\238\037\221\177\218\010\136\176\254\161\171\210\161\102\094\075\067\185\197\209\232\068\013\230\030\229\006\059\185\039\067\209\183\172\070\051\175\023\171\118\148\146\228\213\197\074\037\196\061\196\018\043\202\135\073\073\236\102\217\059\137\021\253\128\152\186\202\208\013\056\000\252\241\122\019\075\158\012\253\067\044\081\012\144\135\003\021\155\201\019\239\077\196\010\226\001\241\081\150\116\135\124\143\194\008\192\205\187\086\091\084\155\067\100\240\204\026\014\120\253\117\094\182\124\132\142\024\154\132\010\068\035\027\005\149\152\158\252\043\025\215\138\151\054\171\167\106\090\106\114\191\130\028\176\242\196\248\080\222\182\126\050\094\001\028\141\048\200\236\205\215\187\222\191\145\221\145\034\094\125\112\226\222\104\242\069\198\131\187\217\108\166\115\031\002\088\089\247\144\030\204\203\179\251\029\136\023\040\157\009\181\158\065\010\205\101\218\210\163\154\073\077\003\065\085\188\086\208\067\046\219\119\059\143\074\084\090\168\056\134\150\194\103\053\085\020\198\078\205\243\039\110\026\184\189\093\041\112\083\222\039\071\079\169\051\177\106\178\021\094\045\222\114\220\042\146\037\005\000\000\194\061\012\052\163\060\241\221\205\212\204\220\129\090\034\142\162\201\197\236\203\180\044\240\044\240\184\013\041\002\178\083\166\073\009\079\091\234\201\142\089\128\092\033\196\129\130\254\137\100\017\255\236\186\110\181\186\154\199\242\216\031\058\021\147\174\208\019\195\223\130\074\167\011\210\006\125\210\185\207\228\057\013\145\242\162\043\230\021\108\016\164\192\106\098\040\087\005\042\217\080\047\081\235\193\016\220\225\014\106\233\219\162\186\104\159\086\109\132\108\052\004\064\127\024\008\200\098\014\229\186\234\104\245\111\066\162\033\053\007\247\084\092\252\191\161\226\207\121\051\245\024\022\248\049\210\147\012\150\153\150\253\075\199\153\059\020\057\057\210\148\222\175\178\058\000\051\109\044\085\022\020\109\197\158\223\123\221\166\144\237\178\242\163\135\163\083\062\121\151\128\214\177\166\174\161\217\198\009\191\008\148\103\039\076\073\211\082\217\074\189\170\013\100\027\213\043\218\015\238\212\056\111\172\068\215\109\046\082\047\253\048\038\223\235\125\174\126\187\233\011\031\066\115\044\166\001\168\234\206\068\122\097\217\255\233\005\175\099\120\233\004\067\083\063\145\042\061\238\058\056\059\201\204\163\002\136\071\163\033\139\210\107\239\079\167\035\050\172\141\012\152\212\038\192\173\107\099\241\110\033\087\074\225\142\215\223\063\056\111\135\205\218\101\250\092\223\037\223\103\164\238\177\249\124\068\058\149\094\033\003\057\162\173\231\115\001\147\094\244\243\223\245\000\043\111\108\170\151\165\190\142\067\046\165\079\135\165\062\245\162\140\052\087\133\136\145\017\244\235\057\016\041\205\139\135\159\183\245\104\093\061\063\250\217\081\105\100\133\098\010\058\077\059\153\216\022\095\169\118\174\083\178\085\119\084\218\246\203\112\118\111\205\108\106\191\229\045\218\030\052\110\053\122\150\059\111\213\139\109\188\238\218\126\160\189\073\118\166\225\117\243\185\093\180\248\198\219\143\085\245\192\016\170\074\090\192\024\197\209\027\016\058\207\198\042\244\236\144\004\000\219\043\150\100\100\167\027\217\205\178\155\143\195\145\064\102\027\226\088\026\209\254\041\031\227\106\120\058\138\151\216\220\128\203\176\065\228\136\024\077\234\194\077\033\066\239\011\129\073\182\147\232\242\108\135\096\115\085\098\049\176\155\202\050\106\010\161\211\033\145\205\024\212\157\196\034\083\096\218\145\138\000\074\156\076\158\006\245\022\067\063\090\115\204\143\251\038\150\184\143\030\248\055\052\023\141\095\010\016\034\142\143\112\123\215\187\246\201\125\215\103\236\102\035\236\105\105\046\095\041\081\236\246\249\176\153\085\184\106\083\142\104\253\117\147\218\180\180\010\040\194\252\248\006\040\008\054\165\198\194\148\124\195\100\202\196\144\064\035\175\072\115\230\105\254\057\138\208\208\005\156\242\178\094\104\071\248\128\102\182\160\180\113\076\101\106\167\152\134\027\024\045\074\225\052\096\100\211\244\028\233\031\202\095\034\251\073\112\017\005\148\224\209\247\136\067\145\121\144\172\101\041\197\234\209\024\141\121\022\060\097\107\062\133\167\170\233\184\055\049\209\011\217\080\043\131\113\038\158\014\232\054\005\069\218\155\044\134\004\012\221\116\107\144\029\160\077\001\225\163\237\066\158\014\079\064\150\083\197\170\229\154\024\038\077\227\218\251\182\187\181\078\150\089\171\039\225\251\212\011\214\021\037\093\193\132\008\234\218\093\023\131\169\152\123\143\254\038\091\193\202\046\191\044\026\021\185\245\226\254\084\207\192\188\057\060\151\229\030\131\211\153\002\129\125\127\255\205\000\165\255\163\185\028\048\053\054\079\045\173\121\039\227\179\060\225\068\148\123\172\177\070\091\255\036\035\127\196\033\100\037\048\080\095\225\063\036\128\224\072\127\009\252\238\156\135\129\010\084\027\189\074\207\101\073\137\013\083\025\233\247\137\068\182\005\166\156\250\180\073\207\004\165\193\197\203\149\138\018\047\000\145\188\061\149\038\118\043\088\192\166\096\116\117\060\055\153\052\054\197\029\200\239\014\221\142\043\050\231\241\226\074\224\169\207\253\024\181\186\226\157\027\127\153\033\095\224\168\171\192\023\022\001\051\013\198\212\036\134\165\169\238\203\078\104\022\078\000\117\075\233\163\117\030\243\024\164\129\004\002\212\001\136\104\238\184\006\012\044\063\046\141\245\194\174\060\155\151\167\190\188\034\226\121\115\129\098\080\061\018\134\058\201\176\236\049\244\176\177\206\125\186\123\110\225\157\070\003\166\227\235\175\012\122\117\035\052\254\032\184\003\073\241\244\137\210\148\226\214\050\230\092\035\124\178\154\228\166\227\196\067\179\187\076\123\005\035\180\043\090\141\209\013\096\255\124\165\116\172\206\151\032\025\007\059\222\101\241\251\088\106\171\167\186\080\013\032\095\003\096\118\191\229\220\115\144\166\222\075\102\198\236\133\254\171\027\015\054\179\131\088\158\075\052\156\177\021\104\020\106\088\240\243\043\190\203\086\009\009\074\212\023\180\094\044\102\048\035\041\173\005\234\184\223\125\042\134\084\077\216\111\207\215\042\171\053\052\170\185\013\000\110\255\183\236\132\099\108\001\228\039\004\180\159\048\053\175\187\099\091\090\210\073\195\043\106\029\242\197\019\196\207\092\067\117\018\033\242\036\030\140\016\179\208\025\030\216\241\185\007\204\120\145\207\185\130\045\098\225\018\147\121\149\136\011\193\186\227\177\030\133\182\187\074\086\235\139\208\198\062\116\244\089\110\076\074\216\065\182\021\142\085\046\096\044\112\215\222\116\225\234\131\168\107\091\244\180\002\098\070\026\079\183\132\161\228\226\179\184\057\156\134\182\110\215\053\175\191\135\149\058\198\051\150\157\138\062\169\093\214\246\215\229\101\090\158\061\163\143\143\129\162\182\169\006\024\235\115\070\173\010\219\146\073\209\209\118\011\069\172\235\005\159\018\063\185\053\075\207\087\000\075\052\180\228\119\003\010\191\146\244\112\051\170\041\039\049\172\086\110\074\195\247\098\160\116\067\127\036\122\208\192\062\099\006\167\249\244\068\252\173\017\212\070\215\243\143\008\156\146\079\190\032\004\043\150\145\103\000\239\244\039\241\147\170\077\249\169\197\241\106\154\013\086\001\103\208\194\093\180\091\031\124\076\154\086\233\097\144\103\164\066\138\108\210\135\176\138\037\016\042\143\009\192\053\234\148\251\245\241\043\224\254\164\220\070\161\185\005\120\248\236\042\176\179\214\240\086\161\125\175\025\254\182\186\000\127\063\163\079\030\155\144\063\165\177\205\227\252\035\241\143\043\111\201\114\078\200\003\182\215\178\159\156\035\096\021\035\071\233\070\139\035\155\037\142\188\175\034\097\138\140\090\105\148\104\128\190\052\022\103\096\165\155\026\059\080\132\178\221\214\013\139\241\220\246\133\127\154\032\009\139\066\141\181\181\104\077\111\205\119\213\078\092\002\221\073\099\029\120\039\218\147\119\172\003\109\003\099\183\235\017\013\222\244\086\201\039\035\153\176\215\118\027\074\084\065\065\003\078\123\028\016\172\006\101\059\177\021\053\208\144\015\041\240\051\210\144\171\112\007\075\192\123\155\118\105\004\025\060\179\032\029\128\068\042\010\127\167\209\085\089\212\143\147\087\243\194\138\105\114\121\106\064\131\126\208\249\246\251\160\158\034\211\062\062\175\064\013\007\201\172\110\051\161\048\186\151\066\104\224\036\020\194\172\139\069\086\024\145\084\050\210\017\173\152\165\079\098\140\004\027\143\226\146\220\204\042\164\059\110\169\060\052\181\028\036\025\182\044\185\195\019\175\125\006\072\165\090\169\004\240\183\092\228\197\061\145\079\028\102\031\190\079\202\152\246\051\030\107\244\100\056\184\153\127\041\246\018\051\011\107\009\238\163\145\141\097\131\120\194\184\086\185\072\148\073\208\108\204\018\234\018\232\189\202\091\089\052\090\038\122\143\031\020\071\033\066\164\226\062\115\188\184\206\133\037\172\147\198\176\147\056\032\038\239\043\241\243\245\244\170\146\178\204\055\182\176\136\208\062\124\069\126\214\221\036\243\105\210\127\103\090\076\246\118\084\176\065\036\239\011\183\093\119\009\157\094\140\217\047\205\117\110\112\151\167\210\214\137\054\060\234\174\001\166\158\107\155\100\238\091\252\082\228\235\236\212\211\174\043\146\113\156\097\243\152\175\187\091\208\178\147\035\157\147\069\092\142\116\045\070\006\143\159\141\199\205\007\039\067\039\044\126\149\191\025\061\144\189\209\038\221\234\179\192\131\012\168\038\026\017\018\134\092\174\116\088\192\118\225\091\204\170\060\084\030\169\176\134\059\188\084\240\023\170\146\051\100\025\216\192\155\168\107\093\203\203\022\132\050\106\146\144\054\057\178\213\065\214\081\005\106\128\250\111\242\099\090\247\035\171\102\213\105\193\076\019\042\203\027\197\076\018\006\005\128\202\107\181\081\187\008\244\240\108\067\093\188\160\031\222\148\185\234\046\221\209\206\210\082\154\028\205\142\246\215\246\091\085\224\170\199\210\219\138\173\013\226\112\207\198\236\162\132\062\252\117\072\106\009\204\025\067\176\089\068\130\156\147\172\212\177\118\200\147\251\254\116\127\119\097\125\084\233\015\236\050\051\106\019\176\016\069\089\186\110\035\197\047\151\193\106\160\081\202\224\117\120\137\222\027\157\025\192\019\179\090\103\114\040\184\134\112\009\157\022\026\017\056\186\158\047\055\232\103\101\090\066\240\105\100\201\100\234\093\008\161\196\039\046\070\114\013\041\034\032\158\104\062\110\022\139\215\146\200\213\141\018\117\098\247\081\046\238\219\135\082\230\027\192\084\194\085\236\225\183\125\112\176\046\235\197\158\056\210\213\058\029\178\088\030\133\147\010\164\150\227\183\096\133\248\099\036\024\179\074\074\065\051\151\151\171\238\006\215\152\171\136\183\225\037\207\188\011\171\234\172\074\241\075\066\075\144\163\217\248\087\067\113\246\117\208\126\042\252\137\134\057\019\252\020\133\050\051\120\074\057\140\067\104\126\191\126\238\098\152\172\106\058\211\132\243\016\184\114\243\134\199\192\181\110\056\167\202\040\025\017\154\191\063\240\042\194\244\160\154\226\096\212\023\084\179\079\173\214\024\102\028\178\113\058\100\052\083\177\021\025\033\057\085\171\226\062\176\151\201\098\162\141\018\137\230\154\120\133\131\070\009\151\124\109\215\174\149\222\099\097\133\183\200\169\208\118\167\094\222\241\214\120\099\215\181\002\175\008\189\221\185\209\166\058\238\171\220\218\188\227\130\241\221\243\194\023\100\159\158\145\136\210\178\156\051\054\151\120\072\149\018\018\186\242\253\136\075\137\246\102\021\186\201\156\242\196\157\064\105\149\228\009\135\040\249\135\107\037\159\035\144\055\024\218\218\032\048\182\098\149\198\023\001\224\078\147\161\055\243\216\061\217\138\001\178\238\058\240\100\064\231\060\087\236\099\240\110\209\083\006\019\050\227\165\216\198\041\026\183\041\089\152\039\221\176\176\225\029\019\142\111\146\152\022\121\160\140\009\207\132\128\129\054\049\227\198\241\235\116\095\020\164\107\056\144\025\105\077\239\150\032\027\236\252\194\147\205\092\042\221\085\170\191\207\160\141\098\044\168\193\070\156\149\150\185\138\202\007\207\015\172\148\243\073\048\221\127\061\043\003\215\035\090\190\083\188\041\062\238\150\080\195\180\011\009\229\234\247\045\027\250\053\247\196\037\221\147\163\233\062\108\158\042\154\050\056\032\164\173\060\045\172\068\104\219\218\076\202\135\124\018\216\002\236\162\076\079\131\104\198\018\191\105\031\185\242\064\142\104\191\003\147\168\080\219\048\208\091\053\001\047\214\207\171\237\121\147\013\001\248\024\193\027\253\243\127\033\221\195\058\040\062\251\252\003\025\110\125\171\175\128\136\120\157\184\014\008\009\144\007\234\242\233\012\015\047\231\182\241\047\040\137\129\109\118\175\209\178\083\217\134\014\089\108\251\148\054\122\057\216\127\049\140\042\056\031\019\143\035\186\205\145\201\115\138\109\073\141\171\225\228\192\119\184\070\144\080\116\136\106\160\031\057\131\132\088\099\135\056\084\118\142\064\156\244\245\092\136\077\141\036\124\119\159\149\229\053\251\021\243\034\082\103\020\124\246\106\066\182\122\152\184\188\015\237\041\004\161\014\232\071\177\226\020\110\241\253\203\017\161\206\202\070\190\139\240\061\138\221\117\148\186\075\236\203\084\074\248\081\001\179\206\069\229\112\110\009\046\195\161\139\121\045\177\082\239\064\214\074\029\109\212\080\147\104\043\125\062\070\167\051\133\117\107\244\038\104\066\181\207\254\159\157\114\179\096\160\133\137\061\124\196\179\011\068\146\007\184\169\211\035\004\003\168\093\014\029\108\100\076\199\075\201\253\025\161\008\146\113\017\139\030\164\101\076\207\198\041\067\189\036\239\150\184\023\222\127\189\186\177\253\055\146\032\058\248\209\228\193\246\095\225\094\197\171\002\193\216\050\208\046\133\208\208\055\134\201\164\253\237\151\228\200\200\118\182\106\194\159\051\112\077\129\121\013\108\085\175\201\224\219\249\233\031\123\042\157\019\112\106\236\153\140\009\132\180\187\149\109\149\092\143\179\075\067\084\188\074\139\006\224\157\028\043\130\224\255\007\097\046\101\183\099\041\092\013\091\178\203\047\102\168\221\248\030\170\255\037\130\150\025\089\162\201\076\208\028\020\054\100\027\127\254\244\123\206\030\241\082\120\241\252\098\055\000\072\075\032\026\172\115\138\215\139\179\026\205\100\194\210\244\093\098\198\149\157\076\156\107\172\220\194\141\113\125\114\152\146\212\103\195\027\166\092\170\138\171\073\217\096\146\111\027\122\207\189\129\047\238\227\049\045\147\067\243\018\206\153\131\202\075\054\122\171\060\070\096\050\006\014\231\063\171\237\121\029\250\017\026\027\120\253\071\121\040\187\126\073\113\224\137\226\079\068\139\212\069\126\203\217\124\034\068\109\029\197\232\041\122\131\184\224\003\240\135\123\226\218\135\149\117\128\162\213\114\074\079\025\216\061\206\021\151\059\071\093\254\251\066\138\245\204\179\241\169\009\195\053\167\091\091\107\255\178\115\155\079\243\023\211\017\192\062\011\243\031\074\184\108\231\122\050\220\159\097\199\122\124\202\155\000\246\090\033\022\172\001\042\128\031\068\155\006\049\241\163\039\095\165\195\124\190\021\033\208\182\034\218\151\129\160\165\121\099\230\155\205\167\021\125\150\121\041\216\208\045\077\050\090\071\180\239\043\123\212\201\144\181\246\147\028\222\254\225\192\242\233\065\220\185\182\165\034\214\058\053\157\127\213\160\150\062\179\241\229\244\195\151\150\240\057\194\091\068\201\231\067\239\222\157\227\128\048\053\146\120\035\252\083\040\114\116\206\093\045\015\110\198\069\148\216\219\138\151\049\147\055\116\166\196\253\048\074\251\202\031\080\012\160\030\027\187\170\221\167\098\086\187\249\094\212\193\153\211\105\239\190\181\124\156\108\097\207\233\159\060\082\111\054\050\030\212\039\165\250\105\149\069\174\149\139\047\226\084\113\220\215\064\184\226\092\101\115\084\236\071\234\052\227\107\145\155\134\192\212\212\107\031\020\087\043\234\120\187\064\217\006\020\233\155\123\241\252\162\122\105\123\188\057\226\209\159\156\240\165\245\099\217\044\148\009\192\133\127\237\169\008\172\074\107\195\078\110\059\119\125\063\229\000\030\037\002\044\098\186\239\064\137\098\242\120\095\103\156\249\052\238\029\047\018\183\163\010\161\002\122\188\147\094\103\239\047\241\052\060\158\096\013\155\037\075\208\169\155\076\194\223\012\034\133\208\062\086\045\118\133\220\160\204\196\245\183\107\168\239\187\155\105\137\193\111\193\199\242\058\002\036\215\134\091\181\082\244\220\162\087\001\239\247\107\220\131\106\223",
+        "\249\152\236\202\085\155\108\202\136\135\009\116\140\184\204\165\079\141\243\109\004\197\037\202\254\151\098\049\229\142\172\193\208\061\113\063\222\059\191\213\018\237\038\140\066\202\067\138\144\031\244\011\187\149\234\032\043\027\054\042\190\222\031\020\080\218\188\085\013\056\029\162\118\110\057\118\074\021\156\060\158\137\207\103\012\067\135\018\222\247\141\142\063\102\113\148\200\025\238\069\185\147\006\232\011\128\085\098\058\157\239\116\214\066\161\188\203\199\144\088\107\157\124\153\064\043\053\239\148\106\031\068\178\063\085\093\045\155\156\143\049\085\010\234\143\184\118\053\202\021\158\171\047\141\027\119\154\021\015\238\011\059\100\142\238\054\098\186\040\056\033\087\227\053\121\083\026\130\113\025\227\051\075\194\127\052\131\109\035\042\121\062\175\007\220\088\037\111\212\183\097\206\242\134\052\054\216\112\213\252\167\151\238\011\045\083\181\019\204\171\181\085\058\143\089\071\153\219\059\227\072\012\042\214\051\194\252\079\190\244\026\160\048\237\196\153\221\023\030\162\013\109\042\154\171\167\230\115\179\079\010\141\090\114\220\198\250\025\016\117\196\141\060\233\036\077\060\216\225\204\049\084\091\235\081\233\151\057\117\002\066\002\096\090\155\164\208\025\093\198\071\171\129\000\160\092\154\244\048\184\006\034\035\165\217\091\017\024\141\253\107\105\102\234\032\080\166\075\093\070\117\008\122\223\143\003\127\101\196\023\114\057\175\211\097\010\148\246\046\140\029\170\029\042\042\159\031\091\019\048\220\195\090\014\130\008\132\075\080\117\111\242\221\081\133\153\013\090\209\137\146\209\220\250\226\246\246\181\019\066\060\174\160\019\035\018\054\080\157\008\075\084\150\224\102\165\085\046\000\246\045\142\207\168\062\010\160\142\016\084\054\166\113\100\190\047\252\156\049\229\130\139\006\172\110\159\188\181\220\064\037\108\059\250\180\243\175\142\244\005\091\011\255\210\147\095\110\211\196\250\002\012\192\245\156\191\217\230\161\207\011\146\224\215\233\113\196\007\072\228\023\193\173\054\102\250\119\083\033\070\204\074\202\197\070\132\121\193\088\194\032\241\140\216\156\176\079\045\126\205\200\236\150\042\029\017\067\020\180\025\126\099\024\123\157\085\168\241\245\043\001\107\007\093\044\201\174\109\135\096\201\095\117\045\227\179\197\214\111\024\227\100\218\164\220\194\088\171\131\245\105\116\202\025\045\119\139\034\109\138\167\074\101\183\229\095\083\218\187\191\183\254\155\241\144\120\222\088\207\193\109\070\042\021\051\003\096\202\067\144\049\127\200\027\041\204\176\061\062\018\023\249\016\192\123\117\249\097\136\118\214\144\005\121\149\133\236\103\131\120\231\213\083\186\001\228\010\104\140\125\252\216\243\195\026\083\010\169\107\211\215\082\206\011\073\107\255\060\048\112\101\113\017\167\042\187\108\097\138\005\186\213\230\160\101\097\010\180\237\070\060\071\226\037\004\054\141\061\191\179\025\091\225\177\088\190\013\255\031\069\214\030\041\001\069\227\134\250\102\209\191\002\196\052\195\039\214\009\149\246\046\098\183\112\208\046\085\205\086\247\050\243\171\210\046\181\155\026\108\204\029\172\241\150\100\019\143\145\164\094\182\147\165\191\043\214\009\229\160\143\091\026\190\165\220\029\209\172\022\189\052\015\015\040\122\186\106\096\097\152\058\079\119\209\122\072\135\196\099\201\206\195\119\228\223\145\077\242\054\157\028\067\236\031\009\113\151\036\049\132\080\120\116\199\112\099\007\104\235\121\184\211\127\025\007\203\161\241\200\077\041\063\007\036\188\200\239\089\253\146\017\005\115\101\043\196\056\005\163\161\130\044\224\251\069\073\078\072\045\251\048\035\053\077\043\217\174\172\142\192\069\179\098\092\226\149\089\051\104\107\164\112\021\019\177\058\181\014\184\210\134\232\084\111\238\122\225\206\223\228\197\197\006\073\124\251\193\078\108\021\162\080\105\067\016\137\005\135\108\031\153\225\214\241\020\038\247\133\147\157\103\164\106\089\217\005\186\083\008\184\167\063\095\106\067\151\094\097\179\219\001\052\070\238\048\070\066\066\227\060\108\156\093\037\084\109\086\161\108\241\237\018\189\011\086\115\137\251\065\055\146\046\012\004\024\113\167\050\184\188\075\002\238\078\218\158\097\250\242\212\243\059\128\146\138\015\021\033\156\152\175\034\125\117\035\075\104\224\089\132\028\234\159\132\007\041\000\073\097\252\243\009\221\241\147\013\194\070\079\138\200\049\191\090\073\255\191\218\041\020\069\035\192\164\241\136\034\173\239\127\153\107\183\227\211\195\013\232\157\000\072\084\114\057\149\024\202\202\222\014\222\093\199\086\060\255\089\154\133\074\098\016\164\053\202\047\220\242"
     }
     
-    local _124b25f0 = _c5ec4a90
+    local _67305e77 = _10a32390
     
-    local _cb1c52d9 = ((1103515271 - 14) - 12)
-    local _a8ab5ed7 = (12328 + 17)
-    local _fc794553 = (2147483686 - 38)
+    local _25b8bcb1 = ((1103515271 - -16) - 42)
+    local _db6ed2be = ((2469 * 5) + 0)
+    local _c0ff784d = (2147483584 + 64)
     
-    local function _e89cb703(s)
+    local function _1138f03b(s)
         local lo = s % 65536
         local hi = math.floor(s / 65536)
-        return (lo * _cb1c52d9 + ((hi * _cb1c52d9) % _fc794553) * 65536 + _a8ab5ed7) % _fc794553
+        return (lo * _25b8bcb1 + ((hi * _25b8bcb1) % _c0ff784d) * 65536 + _db6ed2be) % _c0ff784d
     end
     
-    local function _9f1d1abf(a, b)
-        local bx = _2d7273e3 and _2d7273e3[_54363fc4(12)]
+    local function _ca00486d(a, b)
+        local bx = _fbbaa120 and _fbbaa120[_73de7e19(12)]
         if bx then return bx(a, b) end
         local p, c = 1, 0
         while a > 0 or b > 0 do
@@ -725,37 +807,504 @@ return (function(...)
         return c
     end
     
-    local _55163ca4 = {}
-    for i = 1, #_a8b7b162 do
-        local chunk = _a8b7b162[i]
-        local bytes = {_2c6a7087(chunk, 1, #chunk)}
+    local _28913307 = {}
+    for i = 1, #_b01bb8c0 do
+        local chunk = _b01bb8c0[i]
+        local bytes = {_dd409041(chunk, 1, #chunk)}
         for j = 1, #bytes do
-            _124b25f0 = _e89cb703(_124b25f0)
-            local mask = math.floor(_124b25f0 / 65536) % 256
-            bytes[j] = _9f1d1abf((bytes[j] - (j - 1)) % 256, mask)
+            _67305e77 = _1138f03b(_67305e77)
+            local mask = math.floor(_67305e77 / 65536) % 256
+            bytes[j] = _ca00486d((bytes[j] - (j - 1)) % 256, mask)
         end
-        _55163ca4[i] = _e8e8fafc(unpack(bytes))
+        _28913307[i] = _8f30ea72(unpack(bytes))
     end
     
-    local final = _e0fe7e18(_55163ca4)
-    local ex, err = _76b2037e(final, "=CoreScript")
+    local final = _f02a57b4(_28913307)
     
-    local gc = _08e45843[_54363fc4(8)] or collectgarbage
-    final = nil
-    if _e434e6ea then
-        _e434e6ea(_55163ca4)
-        _e434e6ea(_a8b7b162)
-        _e434e6ea(_57945268)
+    local gc = _268fe026[_73de7e19(8)] or collectgarbage
+    if _3b07c4ea then
+        _3b07c4ea(_28913307)
+        _3b07c4ea(_b01bb8c0)
+        _3b07c4ea(_21bc9eb4)
     end
-    _55163ca4 = nil
-    _a8b7b162 = nil
-    _57945268 = nil
+    _28913307 = nil
+    _b01bb8c0 = nil
+    _21bc9eb4 = nil
     
     if gc then pcall(gc, "collect") end
     
-    if ex then
-        return ex(...)
-    else
-        error(_57e79c50(err))
+    -- ============ INLINE VM INTERPRETER ============
+    local function _0621b7d4(_dd0e8f67, _6d214b0c, _cb5e02f6)
+        local _e4e5338c = string.char
+        local _939146ac = string.byte
+        local _5900fee4 = string.sub
+        local _840b9ce2 = math.floor
+        local _34b7b835 = unpack or table.unpack
+        local _71952f75 = select
+        local _80dc80fe = type
+        local _9e315aec = tostring
+        
+        local _dfe55cf0 = 1
+        
+        local function _74994183()
+            local v = _939146ac(_dd0e8f67, _dfe55cf0)
+            _dfe55cf0 = _dfe55cf0 + 1
+            return v
+        end
+        
+        local function _fb8b4571()
+            local b1, b2, b3, b4 = _939146ac(_dd0e8f67, _dfe55cf0, _dfe55cf0 + 3)
+            _dfe55cf0 = _dfe55cf0 + 4
+            return b1 + b2 * 256 + b3 * 65536 + b4 * 16777216
+        end
+        
+        local function _07acef03()
+            local v = _fb8b4571()
+            if v >= 2147483648 then v = v - 4294967296 end
+            return v
+        end
+        
+        local function _df64bacf()
+            local b1, b2, b3, b4, b5, b6, b7, b8 = _939146ac(_dd0e8f67, _dfe55cf0, _dfe55cf0 + 7)
+            _dfe55cf0 = _dfe55cf0 + 8
+            local sign = 1
+            if b8 >= 128 then sign = -1; b8 = b8 - 128 end
+            local exp = b8 * 16 + _840b9ce2(b7 / 16)
+            local frac = (b7 % 16) * 281474976710656
+                + b6 * 1099511627776
+                + b5 * 4294967296
+                + b4 * 16777216
+                + b3 * 65536
+                + b2 * 256
+                + b1
+            if exp == 0 and frac == 0 then return 0 end
+            if exp == 2047 then
+                if frac == 0 then return sign * (1/0) end
+                return 0/0
+            end
+            if exp == 0 then
+                return sign * frac * 2^(-1074)
+            end
+            return sign * (1 + frac / 4503599627370496) * 2^(exp - 1023)
+        end
+        
+        local function _3a4d02b7()
+            local len = _fb8b4571()
+            local s = _5900fee4(_dd0e8f67, _dfe55cf0, _dfe55cf0 + len - 1)
+            _dfe55cf0 = _dfe55cf0 + len
+            return s
+        end
+        
+        local _4bcab999 = _fb8b4571()
+        local _9d7b4822 = _fb8b4571()
+        local _631cfe27 = {}
+        
+        for _9ff33e2b = 1, _4bcab999 do
+            local proto = {}
+            local numInstr = _fb8b4571()
+            proto.instrs = {}
+            for i = 1, numInstr do
+                local numOps = _74994183()
+                local instr = {}
+                for j = 1, numOps do
+                    instr[j] = _07acef03()
+                end
+                proto.instrs[i] = instr
+            end
+            
+            local numConsts = _fb8b4571()
+            proto.consts = {}
+            for i = 1, numConsts do
+                local ctype = _74994183()
+                if ctype == 0 then
+                    proto.consts[i] = nil
+                elseif ctype == 1 then
+                    proto.consts[i] = _74994183() == 1
+                elseif ctype == 2 then
+                    proto.consts[i] = _df64bacf()
+                elseif ctype == 3 then
+                    proto.consts[i] = _3a4d02b7()
+                end
+            end
+            
+            local numUpvals = _fb8b4571()
+            proto.upvals = {}
+            for i = 1, numUpvals do
+                proto.upvals[i] = {
+                    fromLocal = _74994183() == 1,
+                    index = _fb8b4571()
+                }
+            end
+            
+            proto.numParams = _fb8b4571()
+            proto.isVararg = _74994183() == 1
+            proto.numRegs = _fb8b4571()
+            
+            local numChildren = _fb8b4571()
+            proto.children = {}
+            for i = 1, numChildren do
+                proto.children[i] = _fb8b4571()
+            end
+            
+            _631cfe27[_9ff33e2b] = proto
+        end
+        
+        local function _2a525bb3(protoIdx, env, upvals, varargs)
+            local proto = _631cfe27[protoIdx + 1]
+            if not proto then return end
+            local instrs = proto.instrs
+            local consts = proto.consts
+            local regs = {}
+            local openUpvalues = {}
+            local pc = 1
+            local multiRet = nil
+            
+            if varargs and proto.numParams > 0 then
+                for i = 1, proto.numParams do
+                    regs[i - 1] = varargs[i]
+                end
+            end
+            
+            while pc <= #instrs do
+                local instr = instrs[pc]
+                local op = instr[1]
+                local jumped = false
+                
+                if op == 22 then
+                    regs[instr[2]] = consts[instr[3] + 1]
+                    
+                elseif op == 2 then
+                    regs[instr[2]] = env[consts[instr[3] + 1]]
+                    
+                elseif op == 1 then
+                    env[consts[instr[2] + 1]] = regs[instr[3]]
+                    
+                elseif op == 7 then
+                    regs[instr[2]] = regs[instr[3]]
+                    
+                elseif op == 30 then
+                    regs[instr[2]] = nil
+                    
+                elseif op == 18 then
+                    regs[instr[2]] = instr[3] == 1
+                    
+                elseif op == 9 then
+                    regs[instr[2]] = regs[instr[3]] + regs[instr[4]]
+                    
+                elseif op == 38 then
+                    regs[instr[2]] = regs[instr[3]] - regs[instr[4]]
+                    
+                elseif op == 10 then
+                    regs[instr[2]] = regs[instr[3]] * regs[instr[4]]
+                    
+                elseif op == 12 then
+                    regs[instr[2]] = regs[instr[3]] / regs[instr[4]]
+                    
+                elseif op == 6 then
+                    regs[instr[2]] = regs[instr[3]] % regs[instr[4]]
+                    
+                elseif op == 42 then
+                    regs[instr[2]] = regs[instr[3]] ^ regs[instr[4]]
+                    
+                elseif op == 33 then
+                    regs[instr[2]] = _9e315aec(regs[instr[3]]) .. _9e315aec(regs[instr[4]])
+                    
+                elseif op == 8 then
+                    regs[instr[2]] = regs[instr[3]] == regs[instr[4]]
+                    
+                elseif op == 4 then
+                    regs[instr[2]] = regs[instr[3]] ~= regs[instr[4]]
+                    
+                elseif op == 23 then
+                    regs[instr[2]] = regs[instr[3]] < regs[instr[4]]
+                    
+                elseif op == 20 then
+                    regs[instr[2]] = regs[instr[3]] > regs[instr[4]]
+                    
+                elseif op == 41 then
+                    regs[instr[2]] = regs[instr[3]] <= regs[instr[4]]
+                    
+                elseif op == 27 then
+                    regs[instr[2]] = regs[instr[3]] >= regs[instr[4]]
+                    
+                elseif op == 19 then
+                    regs[instr[2]] = not regs[instr[3]]
+                    
+                elseif op == 5 then
+                    regs[instr[2]] = -regs[instr[3]]
+                    
+                elseif op == 24 then
+                    regs[instr[2]] = #regs[instr[3]]
+                    
+                elseif op == 14 then
+                    if not regs[instr[2]] then
+                        pc = instr[3] + 1
+                        jumped = true
+                    end
+                    
+                elseif op == 40 then
+                    if regs[instr[2]] then
+                        pc = instr[3] + 1
+                        jumped = true
+                    end
+                    
+                elseif op == 26 then
+                    pc = instr[2] + 1
+                    jumped = true
+                    
+                elseif op == 17 then
+                    if regs[instr[2]] then
+                        pc = instr[3] + 1
+                        jumped = true
+                    end
+                    
+                elseif op == 37 then
+                    if not regs[instr[2]] then
+                        pc = instr[3] + 1
+                        jumped = true
+                    end
+                    
+                elseif op == 36 then
+                    local funcReg = instr[2]
+                    local argCount = instr[3]
+                    local wanted = instr[4]
+                    local destReg = instr[5]
+                    
+                    local func = regs[funcReg]
+                    
+                    local results
+                    if argCount == 0 then
+                        results = {func()}
+                    elseif argCount == 1 then
+                        results = {func(regs[funcReg + 1])}
+                    elseif argCount == 2 then
+                        results = {func(regs[funcReg + 1], regs[funcReg + 2])}
+                    elseif argCount == 3 then
+                        results = {func(regs[funcReg + 1], regs[funcReg + 2], regs[funcReg + 3])}
+                    elseif argCount == 4 then
+                        results = {func(regs[funcReg + 1], regs[funcReg + 2], regs[funcReg + 3], regs[funcReg + 4])}
+                    elseif argCount < 0 then
+                        local explicitCount = (-argCount) - 1
+                        local args = {}
+                        local idx = 1
+                        for i = 1, explicitCount do
+                            args[idx] = regs[funcReg + i]
+                            idx = idx + 1
+                        end
+                        if multiRet then
+                            for i = 1, #multiRet do
+                                args[idx] = multiRet[i]
+                                idx = idx + 1
+                            end
+                            multiRet = nil
+                        end
+                        results = {func(_34b7b835(args, 1, idx - 1))}
+                    else
+                        local args = {}
+                        for i = 1, argCount do args[i] = regs[funcReg + i] end
+                        results = {func(_34b7b835(args, 1, argCount))}
+                    end
+                    
+                    if wanted == -1 then
+                        if #results > 0 then
+                            regs[destReg] = results[1]
+                            if #results > 1 then
+                                multiRet = {}
+                                for i = 2, #results do multiRet[i - 1] = results[i] end
+                            else
+                                multiRet = nil
+                            end
+                        else
+                            regs[destReg] = nil
+                            multiRet = nil
+                        end
+                    elseif wanted >= 1 then
+                        for i = 0, wanted - 1 do regs[destReg + i] = results[i + 1] end
+                    end
+                    
+                elseif op == 34 then
+                    for reg, uv in pairs(openUpvalues) do
+                        uv.close()
+                    end
+                    local base = instr[2]
+                    local count = instr[3]
+                    if count == 0 then
+                        return
+                    elseif count == -1 then
+                        local results = {}
+                        local idx = 1
+                        results[idx] = regs[base]
+                        idx = idx + 1
+                        if multiRet then
+                            for mi = 1, #multiRet do
+                                results[idx] = multiRet[mi]
+                                idx = idx + 1
+                            end
+                        end
+                        return _34b7b835(results, 1, idx - 1)
+                    else
+                        if count == 1 then
+                            return regs[base]
+                        elseif count == 2 then
+                            return regs[base], regs[base + 1]
+                        elseif count == 3 then
+                            return regs[base], regs[base + 1], regs[base + 2]
+                        else
+                            local results = {}
+                            for i = 0, count - 1 do
+                                results[i + 1] = regs[base + i]
+                            end
+                            return _34b7b835(results, 1, count)
+                        end
+                    end
+                    
+                elseif op == 13 then
+                    regs[instr[2]] = regs[instr[3]][regs[instr[4]]]
+                    
+                elseif op == 43 then
+                    regs[instr[2]][regs[instr[3]]] = regs[instr[4]]
+                    
+                elseif op == 25 then
+                    regs[instr[2]] = {}
+                    
+                elseif op == 15 then
+                    local obj = regs[instr[3]]
+                    local method = consts[instr[4] + 1]
+                    regs[instr[2]] = obj[method]
+                    regs[instr[2] + 1] = obj
+                    
+                elseif op == 31 then
+                    local destR = instr[2]
+                    local count = instr[3]
+                    if varargs then
+                        if count == -1 then
+                            regs[destR] = varargs[1]
+                            if #varargs > 1 then
+                                multiRet = {}
+                                for i = 2, #varargs do
+                                    multiRet[i - 1] = varargs[i]
+                                end
+                            end
+                        else
+                            for i = 0, count - 1 do
+                                regs[destR + i] = varargs[i + 1]
+                            end
+                        end
+                    end
+                    
+                elseif op == 44 then
+                    local destR = instr[2]
+                    local ci = instr[3]
+                    local childProto = _631cfe27[ci + 1]
+                    local childUpvals = {}
+                    
+                    for i = 1, #childProto.upvals do
+                        local uvDef = childProto.upvals[i]
+                        if uvDef.fromLocal then
+                            local capturedReg = uvDef.index
+                            if not openUpvalues[capturedReg] then
+                                local uv = {
+                                    closed = false,
+                                    get = function() return regs[capturedReg] end,
+                                    set = function(v) regs[capturedReg] = v end
+                                }
+                                function uv.close()
+                                    if not uv.closed then
+                                        local val = regs[capturedReg]
+                                        uv.closed = true
+                                        uv.get = function() return val end
+                                        uv.set = function(v) val = v end
+                                    end
+                                end
+                                openUpvalues[capturedReg] = uv
+                            end
+                            childUpvals[i] = openUpvalues[capturedReg]
+                        else
+                            local parentUvIdx = uvDef.index + 1
+                            childUpvals[i] = upvals[parentUvIdx]
+                        end
+                    end
+                    
+                    regs[destR] = function(...)
+                        return _2a525bb3(ci, env, childUpvals, {...})
+                    end
+                    
+                elseif op == 3 then
+                    local uvIdx = instr[3] + 1
+                    if upvals and upvals[uvIdx] then
+                        regs[instr[2]] = upvals[uvIdx].get()
+                    end
+                    
+                elseif op == 29 then
+                    local uvIdx = instr[2] + 1
+                    if upvals and upvals[uvIdx] then
+                        upvals[uvIdx].set(regs[instr[3]])
+                    end
+                    
+                elseif op == 35 then
+                    local iterReg = instr[2]
+                    regs[iterReg] = regs[iterReg] - regs[iterReg + 2]
+                    pc = instr[3] + 1
+                    jumped = true
+                    
+                elseif op == 16 then
+                    local iterReg = instr[2]
+                    local step = regs[iterReg + 2]
+                    local limit = regs[iterReg + 1]
+                    regs[iterReg] = regs[iterReg] + step
+                    local val = regs[iterReg]
+                    
+                    local cont = false
+                    if step > 0 then
+                        cont = val <= limit
+                    else
+                        cont = val >= limit
+                    end
+                    
+                    if cont then
+                        regs[iterReg + 3] = val
+                        pc = instr[3] + 1
+                        jumped = true
+                    end
+                    
+                elseif op == 39 then
+                    local genReg = instr[2]
+                    local numVars = instr[3]
+                    local gen = regs[genReg]
+                    local state = regs[genReg + 1]
+                    local control = regs[genReg + 2]
+                    
+                    local results = {gen(state, control)}
+                    for i = 1, numVars do
+                        regs[genReg + 2 + i] = results[i]
+                    end
+                    regs[genReg + 2] = results[1]
+                    
+                elseif op == 11 then
+                    if regs[instr[2]] == nil then
+                        pc = instr[3] + 1
+                        jumped = true
+                    end
+                    
+                elseif op == 21 then
+                    local limit = instr[2]
+                    for reg, uv in pairs(openUpvalues) do
+                        if reg >= limit then
+                            uv.close()
+                            openUpvalues[reg] = nil
+                        end
+                    end
+                    
+                end
+                
+                if not jumped then
+                    pc = pc + 1
+                end
+            end
+        end
+        
+        return _2a525bb3(_9d7b4822, _6d214b0c, nil, _cb5e02f6)
     end
+    
+    return _0621b7d4(final, _268fe026, {...})
 end)(...)
